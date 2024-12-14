@@ -132,4 +132,17 @@
         "quote": "'Let me live in my house by the side of the road,Where the race of men go by; They are good, they are bad; they are weak, they are strong. Wise, foolish.;—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? Let me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
     },
 
+	//Medieval
+
+	{
+        "name": "Great Canals of Venice",
+        "isWonder": true,
+	"gold" : 4,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": [  "[+2 Gold] from each Trade Route", "Must be next to [coast]"],
+        "requiredTech": "Compass",
+        "quote": "'It is the city of mirrors, the city of mirages, at once solid and liquid, at once air and stone.' - Erica Jon"
+    },
+
 ]
