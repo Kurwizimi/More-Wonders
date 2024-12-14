@@ -15,7 +15,7 @@
 	"culture" : 1,
 	"food" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [  "Provides [2] [Rice Grains]"],
+        "uniques": [  "Provides [2] [Rice Grains]","Must be on [Farm]"],
         "requiredTech": "The Wheel",
         "quote": "'The buffalo that arrives late will have to drink muddy water and eat dry grass.' - Vietnamese Proverb"
     },
@@ -26,7 +26,7 @@
 	"culture" : 1,
 	"greatPersonPoints": { "Great Scientist": 1 },
         "uniques": [  "[+1 Science] per [3] population [in this city]"],
-        "requiredTech": "Calendar",
+        "requiredTech": "Masonry",
         "quote": "'When it is darkest, men see the stars.' - Ralph Waldo Emerson"
     },
 
@@ -38,5 +38,35 @@
         "uniques": [  "Gain a free [Temple] [in this city]"],
         "requiredTech": "Bronze Working",
         "quote": "'Hand added to hand, and a man's house is built up.' - Sumerian Proverb"
+    },
+
+	{
+        "name": "Karnak",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [  "[+2 Faith] from [Flood Plains] tiles [in this city]"],
+        "requiredTech": "Calendar",
+        "quote": "'Man, know yourself… and you shalt know the gods.' - Inscription at Karnak"
+    },
+
+	{
+        "name": "Mesa Verde",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [  "[+1 Food] from [Desert] tiles [in this city]","[+20]% Great Person generation [in all cities]", "Must be next to [Desert]"],
+        "requiredTech": "Trapping",
+        "quote": "'The government never gave anybody anything. You make these homesteads go, you'll have earned every acre of it. You just can't make 'em go on the Mesa Verde!' - McLintock!"
+    },
+
+	{
+        "name": "Nazca Geoglyphs",
+        "isWonder": true,
+	"culture" : 2,
+	"faith" : 2,
+        "uniques": [  "[+4 Culture] <after discovering [Flight]>","[+2 Science] from all [University] buildings [in all cities]","Must have an owned [Mountain] within [2] tiles"],
+        "requiredTech": "Calendar",
+        "quote": "'If the Nazca Lines were made by humans for the gods, these figures were made by humans for humans' - Luis Jaime Castillo"
     },
 ]
