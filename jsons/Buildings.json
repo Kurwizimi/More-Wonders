@@ -91,4 +91,35 @@
         "requiredTech": "Engineering",
         "quote": "'Noone can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
     },
+
+	{
+        "name": "Tajin",
+        "isWonder": true,
+	"culture" : 3,
+	"faith" : 2,
+	"food" : 2,
+	"gold" : 2,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "requiredTech": "Drama and Poetry",
+        "quote": "'I was at that time like a fledgling swallow living high up in a niche in the eaves, who from time to time peeps out over the top of its nest with its little bright eyes.' - Pierre Loti"
+    },
+
+	{
+        "name": "Gate of the Sun",
+        "isWonder": true,
+	"faith" : 3,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [  "[+2 Faith, +2 Gold] from every [Walls]"],
+        "requiredTech": "Mathematics",
+        "quote": "'Trust in dreams, for in them is hidden the gate to eternity' - Khalil Gibran "
+    },
+
+	{
+        "name": "Hōryū-ji",
+        "isWonder": true,
+	"faith" : 8,
+        "requiredTech": "Philosophy",
+        "quote": "'...if rulers and bureaucrats believe they are the owners rather than the servants of the law, corruption will follow.' - Prince Shōtoku"
+    },
+
 ]
