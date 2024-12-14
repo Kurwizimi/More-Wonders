@@ -1,4 +1,5 @@
 [
+	// Ancient Era
 	{
         "name": "Abu Simbel",
         "isWonder": true,
@@ -68,5 +69,26 @@
         "uniques": [  "[+4 Culture] <after discovering [Flight]>","[+2 Science] from all [University] buildings [in all cities]","Must have an owned [Mountain] within [2] tiles"],
         "requiredTech": "Calendar",
         "quote": "'If the Nazca Lines were made by humans for the gods, these figures were made by humans for humans' - Luis Jaime Castillo"
+    },
+
+	// Classical Era
+
+	{
+        "name": "Buddhas of Bamiyan",
+        "isWonder": true,
+	"culture" : 3,
+	"greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": [  "[+1 Faith] from [Desert] tiles [in this city]","[+20]% Great Person generation [in all cities]", "Must be next to [Desert]"],
+        "requiredTech": "Engineering",
+        "quote": "'Even death is not to be feared by one who has lived wisely.' - Siddharta Guatama"
+    },
+
+	{
+        "name": "Cairo Citadel",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+25]% Strength <for [All] units>< vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>"],
+        "requiredTech": "Engineering",
+        "quote": "'Noone can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
     },
 ]
