@@ -122,4 +122,14 @@
         "quote": "'...if rulers and bureaucrats believe they are the owners rather than the servants of the law, corruption will follow.' - Prince Shōtoku"
     },
 
+	{
+        "name": "Mada'in Saleh",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [  "[+1 Culture] from [Desert] tiles [in this city]","[+1 Gold, +2 Production] from [Oasis] tiles [in this city]", "Must be next to [Desert]"],
+        "requiredTech": "Engineering",
+        "quote": "'Let me live in my house by the side of the road,Where the race of men go by; They are good, they are bad; they are weak, they are strong. Wise, foolish.;—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? Let me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
+    },
+
 ]
