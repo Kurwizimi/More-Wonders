@@ -140,9 +140,41 @@
 	"gold" : 4,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 2 },
-        "uniques": [  "[+2 Gold] from each Trade Route", "Must be next to [coast]"],
+        "uniques": [  "[+2 Gold] from each Trade Route", "Must be next to [Coast]"],
         "requiredTech": "Compass",
         "quote": "'It is the city of mirrors, the city of mirages, at once solid and liquid, at once air and stone.' - Erica Jon"
+    },
+
+	{
+        "name": "Great Mosque of Aleppo",
+        "isWonder": true,
+	"faith" : 4,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [  "[+5 Production] <in cities following our religion>"],
+        "requiredTech": "Physics",
+        "quote": "'The sword wounds the body, but words wound the soul.' - Zechariah"
+    },
+
+	{
+        "name": "Gulou",
+        "isWonder": true,
+	"culture" : 4,
+        "uniques": ["[-20]% Gold cost of acquiring tiles [in all cities]", "[-20]% Culture cost of natural border growth [in all cities]"],
+        "requiredTech": "Chivalry",
+        "quote": "'If you put together all the Christians in the world, with their Emperors and their Kings, the whole of these Christians, - aye, and throw in the Saracens to boot, - would not have such power, or be able to do so much as this Kublai, who is Lord of all the Tartars in the world.' - Marco Polo"
+    },
+
+	{
+        "name": "Leshan Giant Buddha",
+        "isWonder": true,
+	"happiness" : 6,
+	"faith" : 4,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": ["[+1 Happiness] per [3] social policies adopted","Must be next to [River]"],
+        "requiredTech": "Chivalry",
+        "quote": "'Learn this from water: loud splashes the brook but the oceans depth are calm.' - Siddharta Guatama"
     },
 
 ]
