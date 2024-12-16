@@ -177,4 +177,57 @@
         "quote": "'Learn this from water: loud splashes the brook but the oceans depth are calm.' - Siddharta Guatama"
     },
 
+	{
+        "name": "Nan Madol",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+1 Food, +1 Production, +1 Gold] from [Coast] tiles [in this city]","Must be next to [Coast]"],
+        "requiredTech": "Civil Service",
+        "quote": "'Out there, on the water, in darkness, out of sight, men encounter the image within them. Or so they suppose.' - Robert Aickman"
+    },
+
+	{
+        "name": "Shwedagon Paya",
+        "isWonder": true,
+	"culture" : 1,
+	"faith" : 3,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+3 Faith] from [Gold] tiles [in this city]","[+1 Gold] from every [Artist]","[+1 Gold] from every [Engineer]"],
+        "requiredTech": "Metal Casting",
+        "quote": "'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.' - Siddharta Guatama"
+    },
+
+	{
+        "name": "Stone Town",
+        "isWonder": true,
+	"culture" : 1,
+	"gold" : 4,
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": ["[+1 Gold] per [1] population [in this city]","Must be next to [Coast]"],
+        "requiredTech": "Compass",
+        "quote": "'A cornered fox is more dangerous than a jackal!' - Gray Fox, Metal Gear"
+    },
+
+	{
+        "name": "Tōdai-ji",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+2 Faith] from [Cattle] tiles [in this city]","[+2 Faith] from [Horse] tiles [in this city]"],
+        "requiredTech": "Metal Casting",
+        "quote": "'Mankind have love, animals have affection. The harmonious and beautiful world is revealed.' - Siddharta Guatama"
+    },
+
+	{
+        "name": "Westminster Abbey",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+4 Culture] <after adopting [Tradition]>","[+4 Culture] <after adopting [Liberty]>","[+4 Culture] <after adopting [Honor]>","[+4 Culture] <after adopting [Piety]>","[+4 Culture] <after adopting [Commerce]>","[+4 Culture] <after adopting [Rationalism]>","[+4 Culture] <after adopting [Order]>","[+4 Culture] <after adopting [Freedom]>","[+4 Culture] <after adopting [Autocracy]>","[+4 Culture] <after adopting [Patronage]>"],
+        "requiredTech": "Chivalry",
+        "quote": "'The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.' - Oscar Wilde"
+    },
+
+
+
 ]
