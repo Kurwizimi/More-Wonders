@@ -268,15 +268,16 @@
 	"culture" : 2,
 	"gold" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+1 Food] from every [Farm] [in this city]",
-		"[+1 Food] from every [Farm] [in this city]",
-		"[+1 Food] from every [Farm] [in this city]","Must be next to [River]"],
-		"[+1 Food] from every [Farm] [in this city]",
-		"[+1 Food] from every [Farm] [in this city]",
-		"[+1 Food] from every [Farm] [in this city]",
-		"[+1 Food] from every [Farm] [in this city]",
-        "requiredTech": "Banking",
-        "quote": "'You can't be unhappy in the middle of a big, beautiful river' - Jim Harrison"
+        "uniques": ["[+2 Food] from every [Farm] [in this city]",
+		"[+2 Gold] from every [Plantation] [in this city]",
+		"[+2 Production] from every [Quarry] [in this city]",
+		"[+2 Production] from every [Mine] [in this city]",
+		"[+2 Food] from every [Fishing Boats] [in this city]",
+		"[+2 Gold] from every [Camp] [in this city]",
+		"[+1 Production] from every [Fort] [in this city]",
+		"Must be next to [River]"],
+        "requiredTech": "Architecture",
+        "quote": "'For there is but one essential justice which cements society, and one law which establishes this justice. This law is right reason, which is the true rule of all commandments and prohibitions. Whoever neglects this law, whether written or unwritten, is necessarily unjust and wicked.' - Marcus Tullius Cicero"
     },
 
 	
