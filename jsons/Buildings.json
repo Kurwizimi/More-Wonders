@@ -262,6 +262,23 @@
         "quote": "'You can't be unhappy in the middle of a big, beautiful river' - Jim Harrison"
     },
 
+	{
+        "name": "Buda Castle",
+        "isWonder": true,
+	"culture" : 2,
+	"gold" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+1 Food] from every [Farm] [in this city]",
+		"[+1 Food] from every [Farm] [in this city]",
+		"[+1 Food] from every [Farm] [in this city]","Must be next to [River]"],
+		"[+1 Food] from every [Farm] [in this city]",
+		"[+1 Food] from every [Farm] [in this city]",
+		"[+1 Food] from every [Farm] [in this city]",
+		"[+1 Food] from every [Farm] [in this city]",
+        "requiredTech": "Banking",
+        "quote": "'You can't be unhappy in the middle of a big, beautiful river' - Jim Harrison"
+    },
+
 	
 
 
