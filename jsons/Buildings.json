@@ -316,7 +316,7 @@
         "isWonder": true,
 	"faith" : 3,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+20]% [Gold] from Trade Routes","Must be next to [Coast]", "[+2 Gold] from every [Fishing Boats]"],
+        "uniques": ["[+20]% [Gold] from Trade Routes","Must be next to [Coast]", "[+2 Gold] from every [Fishing Boats] [in this city]"],
         "requiredTech": "Navigation",
         "quote": "'Someday, after mastering the winds, the waves, the tides and gravity, we shall harness for God the energies of love, and then, for a second time in the history of the world, man will have discovered fire.' - Pierre Teilhard de Chardin"
     },
@@ -356,7 +356,7 @@
         "name": "Pu'ukohola Heiau",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [, "[+3 Faith] from every [Fishing Boats]", "New [Military] units start with [20] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
+        "uniques": [, "[+3 Faith] from every [Fishing Boats] [in this city]", "New [Military] units start with [20] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
         "requiredTech": "Astronomy",
         "quote": "'A heavenly nature; an earthly nature.' - King Kamehameha I"
     },
@@ -391,6 +391,27 @@
         "uniques": ["[+1 Faith] from every [Barracks]","[+1 Faith] from every [Armory]","[+1 Faith] from every [Military Academy]","[+1 Faith] from every [Walls]","[+1 Faith] from every [Castle]","[+1 Faith] from every [Arsenal","[+1 Faith] from every [Military Base]",],
         "requiredTech": "Gunpowder",
         "quote": "'If the Earth was a single state, Istanbul will be its capital' - Napoleon Bonaparte"
+    },
+
+	{
+        "name": "Torre del Oro",
+        "isWonder": true,
+	"culture" : 2,
+	"gold" : 5,
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": ["[+20]% [Gold] from Trade Routes","Gain a free [Seaport] [in this city]","Must be next to [Coast]"],
+        "requiredTech": "Navigation",
+        "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
+    },
+
+	{
+        "name": "Wat Arun",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Artist": 2 },
+        "uniques": ["[+2 Faith] from every [River] [in this city]","Must be next to [River]"],
+        "requiredTech": "Economics",
+        "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
     },
 
 	
