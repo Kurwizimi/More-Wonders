@@ -414,6 +414,19 @@
         "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
     },
 
+	//Industrial Era
+
+	{
+        "name": "Avenue Habib Bourguiba",
+        "isWonder": true,
+	"culture" : 5,
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": ["Gain a free [Stock Exchange] [in this city]"],
+        "requiredTech": "Steam Power",
+        "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
+    },
+
+
 	
 
 
