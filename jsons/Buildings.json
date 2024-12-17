@@ -361,6 +361,27 @@
         "quote": "'A heavenly nature; an earthly nature.' - King Kamehameha I"
     },
 
+	{
+        "name": "Santa Maria del Fiore",
+        "isWonder": true,
+	"faith" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+1 Culture] per [2] population [in this city]","[+1 Faith] from every specialist [in this city]"],
+        "requiredTech": "Architecture",
+        "quote": "'Life well spent is long' - Leonardo da Vinci"
+    },
+
+	{
+        "name": "Santa Maria delle Grazie",
+        "isWonder": true,
+	"happiness" : 5,
+	"faith" : 2,
+	"greatPersonPoints": { "Great Artist": 2 },
+	"specialistSlots": {"Artist": 1},
+        "requiredTech": "Printing Press",
+        "quote": "'Once you have taken flight, /nYou'll decide, /nGaze towards the sky, you'll know that /nThat is where your heart will feel at home' - Leonardo da Vinci, Sogno di Volare"
+    },
+
 	
 
 
