@@ -347,9 +347,18 @@
 	"culture" : 2,
 	"cityStrength": 10,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["Free [Caravel] appears","[+15]% [Gold] from Trade Routes"],
+        "uniques": ["Free [Caravel] appears","[+15]% [Gold] from Trade Routes","Must be next to [Coast]"],
         "requiredTech": "Astronomy",
         "quote": "'The cure for anything is salt water: sweat, tears or the sea.' - Karen Blixen"
+    },
+
+	{
+        "name": "Pu'ukohola Heiau",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [, "[+3 Faith] from every [Fishing Boats]", "New [Military] units start with [20] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
+        "requiredTech": "Astronomy",
+        "quote": "'A heavenly nature; an earthly nature.' - King Kamehameha I"
     },
 
 	
