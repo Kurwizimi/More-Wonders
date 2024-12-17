@@ -466,6 +466,27 @@
         "quote": "'who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
     },
 
+	{
+        "name": "Pena National Palace",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+6 Culture] from every [Garden]"],
+        "requiredTech": "Steam Power",
+        "quote": "'Grain by grain, a loaf. Stone upon stone, a palace.' - George Bernard Shaw"
+    },
+
+	{
+        "name": "Sagrada Familia",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [,"Gain a free [Cathedral] [in this city]","[+2 Happiness] from every [Shrine]","[+2 Happiness] from every [Temple]"],
+        "requiredTech": "Biology",
+        "quote": "'The straight line belongs to Man. The curved line belongs to God' - Antonio Gaudi"
+    },
+
+
 
 
 	
