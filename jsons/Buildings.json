@@ -228,6 +228,21 @@
         "quote": "'The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.' - Oscar Wilde"
     },
 
+	// Renaissance
+	{
+        "name": "Aït Benhaddou",
+        "isWonder": true,
+	"gold" : 10,
+	"cityStrength": 10,
+        "cityHealth": 75,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["Must be next to [Desert]"],
+        "requiredTech": "Banking",
+        "quote": "'What makes the desert beautiful is that somewhere it hides a well' - Antoine de Saint-Exupery"
+    },
+
+	
+
 
 
 ]
