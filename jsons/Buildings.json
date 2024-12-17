@@ -426,6 +426,25 @@
         "quote": "'Colonialism is the massive fog that has clouded our imaginations regarding who we could be, excised our memories of who we once were, and numbed our understanding of our current existence.' - Waziyatawin"
     },
 
+	{
+        "name": "Cologne Cathedral",
+        "isWonder": true,
+	"culture" : 3,
+	"faith" : 2,
+	"greatPersonPoints": { "Great Engineer": 3 },
+        "uniques": ["Empire enters golden age"],
+        "requiredTech": "Steam Power",
+        "quote": "'Peace is not just the absence of war. Like a cathedral, peace must be constructed patiently and with unshakable faith.' - Pope John Paul II"
+    },
+
+	{
+        "name": "Democracy Monument",
+        "isWonder": true,
+        "uniques": ["[+25]% [Production] <after adopting [Order]>","[+12 Culture] <after adopting [Autocracy]>","[+10 Science] <after adopting [Freedom]>",],
+        "requiredTech": "Electricity",
+        "quote": "'Elections belong to the people. It's their decision. If they decide to turn their back on the fire and burn their behinds, then they will just have to sit on their blisters.' - Abraham Lincoln"
+    },
+
 
 	
 
