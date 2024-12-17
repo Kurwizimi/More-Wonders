@@ -290,6 +290,27 @@
         "quote": "'If the people prosper, how can the king not prosper with them? And if the people do not prosper, how may the king prosper without them?' - Sejong the Great"
     },
 
+	{
+        "name": "The Golden Pavilion",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": ["[+1 Gold] per [2] population [in this city]","[+100]% Great Person generation [in this city]"],
+        "requiredTech": "Banking",
+        "quote": "'A book holds a house of gold' - Chinese Proverb"
+    },
+
+
+	{
+        "name": "Gripsholm Castle",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Food] from every [Lakes] [in all cities]","[+1] population [in all cities]","Must be next to [Fresh Water]"],
+        "requiredTech": "Printing Press",
+        "quote": "'War is not a river, or a lake, but an ocean of all that is evil' - Gustav Adolphus"
+    },
+
 	
 
 
