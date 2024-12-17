@@ -270,7 +270,7 @@
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["[+2 Food] from [Farm] tiles [in this city]",
 		"[+2 Gold] from [Plantation] tiles [in this city]",
-		"[+2 Production] from [Quarry]  tiles [in this city]",
+		"[+2 Production] from [Quarry] tiles [in this city]",
 		"[+2 Production] from [Mine] tiles [in this city]",
 		"[+2 Food] from [Fishing Boats] tiles [in this city]",
 		"[+2 Gold] from [Camp] tiles [in this city]",
