@@ -34,7 +34,7 @@
 	{
         "name": "Chogha Zanbil",
         "isWonder": true,
-	"faith" : 2,
+	"faith" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [  "Gain a free [Temple] [in this city]"],
         "requiredTech": "Bronze Working",
