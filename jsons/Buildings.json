@@ -316,7 +316,7 @@
         "isWonder": true,
 	"faith" : 3,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+20]% [Gold] from Trade Routes","Must be next to [Coast]", "[+2 Gold] from every [Fishing Boats]",],
+        "uniques": ["[+20]% [Gold] from Trade Routes","Must be next to [Coast]", "[+2 Gold] from every [Fishing Boats]"],
         "requiredTech": "Navigation",
         "quote": "'Someday, after mastering the winds, the waves, the tides and gravity, we shall harness for God the energies of love, and then, for a second time in the history of the world, man will have discovered fire.' - Pierre Teilhard de Chardin"
     },
@@ -339,6 +339,17 @@
         "uniques": ["[+2 Culture] from every [Merchant]"],
         "requiredTech": "Metallurgy",
         "quote": "'The Giver of peace is eternally blissful' - Sri Guru Granth Sahib"
+    },
+
+	{
+        "name": "Kronborg",
+        "isWonder": true,
+	"culture" : 2,
+	"cityStrength": 10,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": ["Free [Caravel] appears","[+15]% [Gold] from Trade Routes"],
+        "requiredTech": "Astronomy",
+        "quote": "'The cure for anything is salt water: sweat, tears or the sea.' - Karen Blixen"
     },
 
 	
