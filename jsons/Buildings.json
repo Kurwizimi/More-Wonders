@@ -411,7 +411,7 @@
 	"greatPersonPoints": { "Great Artist": 2 },
         "uniques": ["[+2 Faith] from [River] tiles [in this city]","Must be next to [River]"],
         "requiredTech": "Economics",
-        "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
+        "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson" // FIND QUOTE. its not that hard ... Right?
     },
 
 	//Industrial Era
@@ -440,10 +440,32 @@
 	{
         "name": "Democracy Monument",
         "isWonder": true,
-        "uniques": ["[+25]% [Production] <after adopting [Order]>","[+12 Culture] <after adopting [Autocracy]>","[+10 Science] <after adopting [Freedom]>",],
+        "uniques": ["[+25]% [Production] <after adopting [Order]>","[+12 Culture] <after adopting [Autocracy]>","[+10 Science] <after adopting [Freedom]>"],
         "requiredTech": "Electricity",
         "quote": "'Elections belong to the people. It's their decision. If they decide to turn their back on the fire and burn their behinds, then they will just have to sit on their blisters.' - Abraham Lincoln"
     },
+
+	{
+        "name": "La Maestranza",
+        "isWonder": true,
+	"culture" : 2,
+	"happiness" : 6,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": ["[+4 Culture] from [Cattle] tiles [in this city]"],
+        "requiredTech": "Archaeology",
+        "quote": "'Not only does the bull attacks his enemies with curved horn, but also the sheep, when harmed fights back.' - Propertius"
+    },
+
+	{
+        "name": "Mount Rushmore",
+        "isWonder": true,
+	"culture" : 3,
+	"greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": ["[-35]% Gold cost of acquiring tiles [in this city]","[-15]% Unhappiness from the number of cities"],
+        "requiredTech": "Dynamite",
+        "quote": "'who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
+    },
+
 
 
 	
