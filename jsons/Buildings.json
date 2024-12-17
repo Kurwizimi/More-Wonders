@@ -382,6 +382,17 @@
         "quote": "'Once you have taken flight, /nYou'll decide, /nGaze towards the sky, you'll know that /nThat is where your heart will feel at home' - Leonardo da Vinci, Sogno di Volare"
     },
 
+	{
+        "name": "Topkapı Palace",
+        "isWonder": true,
+	"culture" : 2,
+	"happiness" : 3,
+	"greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": ["[+1 Faith] from every [Barracks]","[+1 Faith] from every [Armory]","[+1 Faith] from every [Military Academy]","[+1 Faith] from every [Walls]","[+1 Faith] from every [Castle]","[+1 Faith] from every [Arsenal","[+1 Faith] from every [Military Base]",],
+        "requiredTech": "Gunpowder",
+        "quote": "'If the Earth was a single state, Istanbul will be its capital' - Napoleon Bonaparte"
+    },
+
 	
 
 
