@@ -228,11 +228,22 @@
         "quote": "'The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.' - Oscar Wilde"
     },
 
+	{
+        "name": "Yellow Crane Tower",
+        "isWonder": true,
+	"culture" : 3,
+	"greatPersonPoints": { "Great Scientist": 2 },
+        "uniques": ["Free Great Person"],
+        "requiredTech": "Education",
+        "quote": "'The yellow crane has long since gone away, All that here remains is yellow crane tower. The yellow crane once gone does not return, White clouds drift slowly for a thousand years.' - Cui Hao"
+    },
+
 	// Renaissance
 	{
         "name": "Aït Benhaddou",
         "isWonder": true,
 	"gold" : 10,
+	"culture" : 2,
 	"cityStrength": 10,
         "cityHealth": 75,
 	"greatPersonPoints": { "Great Engineer": 1 },
