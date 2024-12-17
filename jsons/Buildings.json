@@ -311,6 +311,36 @@
         "quote": "'War is not a river, or a lake, but an ocean of all that is evil' - Gustav Adolphus"
     },
 
+	{
+        "name": "Haji Ali Dargah",
+        "isWonder": true,
+	"faith" : 3,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+20]% [Gold] from Trade Routes","Must be next to [Coast]"],
+        "requiredTech": "Printing Press",
+        "quote": "'War is not a river, or a lake, but an ocean of all that is evil' - Gustav Adolphus"
+    },
+
+	{
+        "name": "Gripsholm Castle",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Food] from every [Lakes] [in all cities]","[+1] population [in all cities]","Must be next to [Fresh Water]"],
+        "requiredTech": "Printing Press",
+        "quote": "'War is not a river, or a lake, but an ocean of all that is evil' - Gustav Adolphus"
+    },
+
+	{
+        "name": "Gripsholm Castle",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Food] from every [Lakes] [in all cities]","[+1] population [in all cities]","Must be next to [Fresh Water]"],
+        "requiredTech": "Printing Press",
+        "quote": "'War is not a river, or a lake, but an ocean of all that is evil' - Gustav Adolphus"
+    },
+
 	
 
 
