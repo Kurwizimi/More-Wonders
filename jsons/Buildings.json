@@ -252,6 +252,16 @@
         "quote": "'What makes the desert beautiful is that somewhere it hides a well' - Antoine de Saint-Exupery"
     },
 
+	{
+        "name": "Amphawa Floating Market",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": ["[+2 Gold] from [Resource] tiles [in this city]","Must be next to [Coast]"],
+        "requiredTech": "Banking",
+        "quote": "'You can't be unhappy in the middle of a big, beautiful river' - Jim Harrison"
+    },
+
 	
 
 
