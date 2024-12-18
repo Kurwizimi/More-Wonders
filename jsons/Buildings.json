@@ -625,6 +625,146 @@
         "quote": "'Don't be afraid to give up the good to go to the great' - John D. Rockefeller"
 	},
 
+	//Atomic Era
+
+	{
+        "name": "Arecibo Observatory",
+        "isWonder": true,
+	"science" : 4,
+	"cultyre" : 3,
+	"greatPersonPoints": { "Great Scientist": 3},
+	"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]","Free [Great Scientist] appears"],
+        "requiredTech": "Radar",
+        "quote": "'11 /n11 /n11 /n11 /n11 /n01 /n11 /n11 /n01 /n11 /n01 /n11 /n10 /n11 /n11 /n01' - DNA double helix, Arecibo Message"
+	},
+
+	{
+        "name": "London Eye",
+        "isWonder": true,
+	"happiness" : 5,
+	"culture" : 3,
+	"greatPersonPoints": { "Great Merchant": 1},
+	"uniques": ["[+1 Gold] per [1] population [in this city]"],
+        "requiredTech": "Ecology",
+        "quote": "'London goes beyond any boundary or convention. It contains every wish or word ever spoken, every action or gesture ever made, every harsh or noble statement ever expressed. It is illimitable. It is Infinite London.' - Peter Ackroyd"
+	},
+
+	{
+        "name": "Martin Luther King Memorial",
+        "isWonder": true,
+	"happiness" : 5,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Artist": 1},
+	"uniques": [ "[+10]% Great Person generation [in all cities]"],
+        "requiredTech": "Computers",
+        "quote": "'Out of a mountain of despair, a stone of hope' - Martin Luther King Jr."
+	},
+
+	{
+        "name": "Millau Viaduct",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 2},
+	"uniques": ["[+2] Movement <for [Land] units>","Must be on [Hill]"],
+        "requiredTech": "Ecology",
+        "quote": "'The stars in the heavens sing a music, if only we had ears to hear.' - Pythagoras"
+	},
+
+	{
+        "name": "Sky Tower",
+        "isWonder": true,
+	"culture" : 1,
+	"uniques": ["[-50]% Unhappiness from [Population] [in all cities]","[+1 Gold] per [4] population [in this city]","Gain a free [Broadcast Tower] [in this city]"],
+        "requiredTech": "Ecology",
+        "quote": "'Without rain there can be no rainbow.' - Maori Proverb"
+	},
+
+	{
+        "name": "Taipei 101",
+        "isWonder": true,
+	"gold" : 10,
+	"greatPersonPoints": { "Great Merchant": 3},
+	"uniques": ["[+1 Gold] per [1] population [in this city]"],
+        "requiredTech": "Ecology",
+        "quote": "'The road of excess leads to the palace of wisdom.' - William Blake"
+	},
+
+	{
+        "name": "White Sands Missile Range",
+        "isWonder": true,
+	"gold" : 10,
+	"greatPersonPoints": { "Great Scientist": 2},
+	"uniques": ["[+3] Range <for [Air] units>","Free [Guided Missile] appears","Free [Guided Missile] appears","Free [Guided Missile] appears"],
+        "requiredTech": "Rocketry",
+        "quote": "'What is pride? A rocket that emulates the stars.' - William Wordsworth"
+	},
+
+	//Information Era
+
+	{
+        "name": "Abraj al Bait Towers",
+        "isWonder": true,
+	"gold" : 20,
+	"faith" : 5,
+	"uniques": ["[+2 Culture] from [Resource] tiles [in this city]"],
+        "requiredTech": "Globalisation",
+        "quote": "'A good word is like a good tree whose root is firmly fixed and whose top is in the sky' - Qu'ran"
+	},
+
+	{
+        "name": "Oriental Pearl Tower",
+        "isWonder": true,
+	"culture" : 1,
+	"uniques": ["[+10]% Great Person generation [in all cities]","[+10]% [Culture]"],
+        "requiredTech": "Telecommunications",
+        "quote": "'I am not afraid of tomorrow, for I have seen today and I love today' - William Allen White"
+	},
+
+	{
+        "name": "Palm Jumeirah",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 2},
+	"uniques": ["[+15 Gold] from [Atoll] tiles [in this city]"],
+        "requiredTech": "Globalisation",
+        "quote": "'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.' - Jane Austen"
+	},
+
+	{
+        "name": "Petronas Towers",
+        "isWonder": true,
+	"culture" : 1,
+	"gold" : 1,
+	"faith" : 1,
+	"greatPersonPoints": { "Great Merchant": 1},
+	"uniques": ["Free Great Person"],
+        "requiredTech": "Globalisation",
+        "quote": "'Like most animals, we're wired to associate height with power.' - Helen Fisher"
+	},
+
+	{
+        "name": "Shanghai World Financial Center",
+        "isWonder": true,
+	"gold" : 10,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Merchant": 4},
+        "requiredTech": "Globalisation",
+        "quote": "'We have the best government money can buy' - Mark Twain"
+	},
+
+	{
+        "name": "Tokyo Sky Tree",
+        "isWonder": true,
+	"gold" : 3,
+	"culture" : 2,
+	"happiness" : 4,
+	"uniques": ["[+1 Happiness, +1 Culture] from every [Broadcast Tower]"],
+        "requiredTech": "Telecommunications",
+        "quote": "'We all live under the same sky, but we don't all have the same horizon.' - Konrad Adenauer"
+	},
+
+
+
 
 
 
