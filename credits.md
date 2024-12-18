@@ -71,3 +71,13 @@ Classical
   - trafalgar square nelsons column by Stephen Longwill from <a href="https://thenounproject.com/browse/icons/term/trafalgar-square-nelsons-column/" target="_blank" title="trafalgar square nelsons column Icons">Noun Project</a> (CC BY 3.0)
   - Wat Pho by WiStudio from <a href="https://thenounproject.com/browse/icons/term/wat-pho/" target="_blank" title="Wat Pho Icons">Noun Project</a> (CC BY 3.0)
   - Wat Phra Kaew by tezar tantular from <a href="https://thenounproject.com/browse/icons/term/wat-phra-kaew/" target="_blank" title="Wat Phra Kaew Icons">Noun Project</a> (CC BY 3.0)
+
+  Modern
+
+  - bridge by Chris McDonnell from <a href="https://thenounproject.com/browse/icons/term/bridge/" target="_blank" title="bridge Icons">Noun Project</a> (CC BY 3.0)
+  - steam train by Abu Ibrahim Icon from <a href="https://thenounproject.com/browse/icons/term/steam-train/" target="_blank" title="steam train Icons">Noun Project</a> (CC BY 3.0)
+  - Empire State Building by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/empire-state-building/" target="_blank" title="Empire State Building Icons">Noun Project</a> (CC BY 3.0)
+  - Stairs by ARIPATUT DASUKI from <a href="https://thenounproject.com/browse/icons/term/stairs/" target="_blank" title="Stairs Icons">Noun Project</a> (CC BY 3.0)
+  - hollywood sign by Royyan Wijaya from <a href="https://thenounproject.com/browse/icons/term/hollywood-sign/" target="_blank" title="hollywood sign Icons">Noun Project</a> (CC BY 3.0)
+  - Manama by DinosoftLabs from <a href="https://thenounproject.com/browse/icons/term/manama/" target="_blank" title="Manama Icons">Noun Project</a> (CC BY 3.0)
+  - Rockefeller Center by Celina Leung from <a href="https://thenounproject.com/browse/icons/term/rockefeller-center/" target="_blank" title="Rockefeller Center Icons">Noun Project</a> (CC BY 3.0)
