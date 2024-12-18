@@ -32,4 +32,8 @@ Classical
   - drum tower by Brickclay from <a href="https://thenounproject.com/browse/icons/term/drum-tower/" target="_blank" title="drum tower Icons">Noun Project</a> (CC BY 3.0)
   - giant buddha by Foxyard Studio from <a href="https://thenounproject.com/browse/icons/term/giant-buddha/" target="_blank" title="giant buddha Icons">Noun Project</a> (CC BY 3.0)
   - turtle by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/turtle/" target="_blank" title="turtle Icons">Noun Project</a> (CC BY 3.0)
-  - 
+  - swayambhunath stupa by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/swayambhunath-stupa/" target="_blank" title="swayambhunath stupa Icons">Noun Project</a> (CC BY 3.0)
+  - old fort of zanzibar by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/old-fort-of-zanzibar/" target="_blank" title="old fort of zanzibar Icons">Noun Project</a> (CC BY 3.0)
+  - Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+  - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
+  - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
