@@ -547,6 +547,90 @@
         "quote": "'Every morning we are born again. What we do today is what matters most.' - Siddharta Guatama"
     },
 
+	// Modern Era
+
+	{
+        "name": "Brooklyn Bridge",
+        "isWonder": true,
+	"culture" : 2,
+	"gold" : 2,
+	"greatPersonPoints": { "Great Engineer": 2 },
+	"uniques": ["Empire enters golden age", "[+50]% Great Person generation [in this city]","Must be on [River]"],
+        "requiredTech": "Railroad",
+        "quote": "'Scientists are people who build the Brooklyn Bridge and then buy it.' - Willian F. Buckley Jr."
+	},
+
+	{
+        "name": "Darjeeling Himalayan Railway",
+        "isWonder": true,
+	"happiness" : 3,
+	"culture" : 2,
+	"gold" : 2,
+	"greatPersonPoints": { "Great Engineer": 1},
+	"uniques": ["Provides [3] [Green Tea Leaves]","Must be on [Hill]"],
+        "requiredTech": "Railroad",
+        "quote": "'There are many paths to the top of the mountain, but the view is always the same.' - Chinese Proverb"
+	},
+
+	{
+        "name": "Empire State Building",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 2},
+	"uniques": ["[+33]% [Gold] from Trade Routes","[+8 Gold] <after discovering [Radar]>"],
+        "requiredTech": "Electronics",
+        "quote": "'The stars which shone over Babylon and the stable in Bethlehem still shine as brightly over the Empire State Building and your front yard today.' - Linda Goodman"
+	},
+
+	{
+        "name": "Escadaria Selarón",
+        "isWonder": true,
+	"culture" : 5,
+	"happiness" : 3,
+	"uniques": ["[+6 Gold] from every [Artist]"],
+        "requiredTech": "Replaceable Parts",
+        "quote": "'Stairs are climbed step by step' - Turkish Proverb"
+	},
+
+	{
+        "name": "Hollywood",
+        "isWonder": true,
+	"culture" : 8,
+	"gold" : 8,
+	"happiness" : 4,
+	"uniques": ["[+1 Happiness] from every [Theatre]"],
+        "requiredTech": "Electronics",
+        "quote": "'If I fail, the film industry writes me off as another statistic. If I succeed, they pay me a million bucks to fly out to Hollywood and fart.' - George A. Romero"
+	},
+
+	{
+        "name": "Pearl Monument",
+        "isWonder": true,
+	"culture" : 2,
+	"gold" : 4,
+	"greatPersonPoints": { "Great Engineer": 2},
+	"uniques": ["Free [Great Merchant] appears"],
+        "requiredTech": "Electronics",
+        "quote": "'For truth is precious and divine, too rich a pearl for carnal swine' - Samuel Butler"
+	},
+
+	{
+        "name": "Rockefeller Center",
+        "isWonder": true,
+	"happiness" : 5,
+	"gold" : 7,
+	"greatPersonPoints": { "Great Merchant": 2},
+	"uniques": ["[-50]% City-State Influence degradation"],
+        "requiredTech": "Replaceable Parts",
+        "quote": "'Don't be afraid to give up the good to go to the great' - John D. Rockefeller"
+	},
+
+
+
+
+
+
+
 
 
 
