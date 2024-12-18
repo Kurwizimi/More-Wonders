@@ -516,6 +516,38 @@
         "quote": "'Let your valor rise! Let your valor rage! /nLet us ward off these haunted hands /nto protect our wives and children!' - Te Rauparaha, Ka Mate"
     },
 
+	{
+        "name": "Trafalgar Square",
+        "isWonder": true,
+	"gold" : 4,
+	"happiness" : 5,
+	"culture": 4,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "requiredTech": "Steam Power",
+        "quote": "'Time is everything; five minutes make the difference between victory and defeat.' - Lord Horatio Nelson"
+    },
+
+	{
+        "name": "Wat Pho",
+        "isWonder": true,
+	"faith" : 2,
+	"greatPersonPoints": { "Great Artist": 1 },
+	"uniques": ["[+20]% [Faith]"],
+        "requiredTech": "Archaeology",
+        "quote": "'Buddhism teaches one to embrace change.' - Koo Stark"
+    },
+
+	{
+        "name": "Wat Phra Kaew",
+        "isWonder": true,
+	"science" : 3,
+	"greatPersonPoints": { "Great Scientist": 1 },
+	"uniques": ["[+20]% [Science]","[+2 Science] from every [Shrine]","[+2 Science] from every [Temple]","[+2 Science] from every [Cathedral]","[+2 Science] from every [Mosque]","[+2 Science] from every [Pagoda]","[+2 Science] from every [Monestary]"],
+        "requiredTech": "Archaeology",
+        "quote": "'Every morning we are born again. What we do today is what matters most.' - Siddharta Guatama"
+    },
+
+
 
 
 
