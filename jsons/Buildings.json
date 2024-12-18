@@ -556,7 +556,7 @@
 	"gold" : 2,
 	"greatPersonPoints": { "Great Engineer": 2 },
 	"uniques": ["Empire enters golden age", "[+50]% Great Person generation [in this city]","Must be on [River]"],
-        "requiredTech": "Railroad",
+        "requiredTech": "Railroads",
         "quote": "'Scientists are people who build the Brooklyn Bridge and then buy it.' - Willian F. Buckley Jr."
 	},
 
@@ -568,7 +568,7 @@
 	"gold" : 2,
 	"greatPersonPoints": { "Great Engineer": 1},
 	"uniques": ["Provides [3] [Green Tea Leaves]","Must be on [Hill]"],
-        "requiredTech": "Railroad",
+        "requiredTech": "Railroads",
         "quote": "'There are many paths to the top of the mountain, but the view is always the same.' - Chinese Proverb"
 	},
 
@@ -707,7 +707,7 @@
 	"gold" : 20,
 	"faith" : 5,
 	"uniques": ["[+2 Culture] from [Resource] tiles [in this city]"],
-        "requiredTech": "Globalisation",
+        "requiredTech": "Globalization",
         "quote": "'A good word is like a good tree whose root is firmly fixed and whose top is in the sky' - Qu'ran"
 	},
 
@@ -726,7 +726,7 @@
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 2},
 	"uniques": ["[+15 Gold] from [Atoll] tiles [in this city]"],
-        "requiredTech": "Globalisation",
+        "requiredTech": "Globalization",
         "quote": "'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.' - Jane Austen"
 	},
 
@@ -738,7 +738,7 @@
 	"faith" : 1,
 	"greatPersonPoints": { "Great Merchant": 1},
 	"uniques": ["Free Great Person"],
-        "requiredTech": "Globalisation",
+        "requiredTech": "Globalization",
         "quote": "'Like most animals, we're wired to associate height with power.' - Helen Fisher"
 	},
 
@@ -748,7 +748,7 @@
 	"gold" : 10,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 4},
-        "requiredTech": "Globalisation",
+        "requiredTech": "Globalization",
         "quote": "'We have the best government money can buy' - Mark Twain"
 	},
 
