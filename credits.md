@@ -56,3 +56,18 @@ Classical
   - topkapi palace by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/topkapi-palace/" target="_blank" title="topkapi palace Icons">Noun Project</a> (CC BY 3.0)
   - Torre de Belem by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/torre-de-belem/" target="_blank" title="Torre de Belem Icons">Noun Project</a> (CC BY 3.0)
   - Wat Arun by Justicon from <a href="https://thenounproject.com/browse/icons/term/wat-arun/" target="_blank" title="Wat Arun Icons">Noun Project</a> (CC BY 3.0)
+ 
+  Industrial
+
+  - avenue by Creative Mahira from <a href="https://thenounproject.com/browse/icons/term/avenue/" target="_blank" title="avenue Icons">Noun Project</a> (CC BY 3.0)
+  - cologne cathedral by Jakub Stejskal from <a href="https://thenounproject.com/browse/icons/term/cologne-cathedral/" target="_blank" title="cologne cathedral Icons">Noun Project</a> (CC BY 3.0)
+  - Democracy monument by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/democracy-monument/" target="_blank" title="Democracy monument Icons">Noun Project</a> (CC BY 3.0)
+  - Tripoli by Sergey Primirenkov from <a href="https://thenounproject.com/browse/icons/term/tripoli/" target="_blank" title="Tripoli Icons">Noun Project</a> (CC BY 3.0)
+  - Mount Rushmore by Paul Jessop from <a href="https://thenounproject.com/browse/icons/term/mount-rushmore/" target="_blank" title="Mount Rushmore Icons">Noun Project</a> (CC BY 3.0)
+  - School by The Icon Z from <a href="https://thenounproject.com/browse/icons/term/school/" target="_blank" title="School Icons">Noun Project</a> (CC BY 3.0)
+  - Sagrada Familia by Nikita Ivanov from <a href="https://thenounproject.com/browse/icons/term/sagrada-familia/" target="_blank" title="Sagrada Familia Icons">Noun Project</a> (CC BY 3.0)
+  - Cairo tower by Tokka Elkholy from <a href="https://thenounproject.com/browse/icons/term/cairo-tower/" target="_blank" title="Cairo tower Icons">Noun Project</a> (CC BY 3.0)
+  - wharenui by Rachelle Smith from <a href="https://thenounproject.com/browse/icons/term/wharenui/" target="_blank" title="wharenui Icons">Noun Project</a> (CC BY 3.0)
+  - trafalgar square nelsons column by Stephen Longwill from <a href="https://thenounproject.com/browse/icons/term/trafalgar-square-nelsons-column/" target="_blank" title="trafalgar square nelsons column Icons">Noun Project</a> (CC BY 3.0)
+  - Wat Pho by WiStudio from <a href="https://thenounproject.com/browse/icons/term/wat-pho/" target="_blank" title="Wat Pho Icons">Noun Project</a> (CC BY 3.0)
+  - Wat Phra Kaew by tezar tantular from <a href="https://thenounproject.com/browse/icons/term/wat-phra-kaew/" target="_blank" title="Wat Phra Kaew Icons">Noun Project</a> (CC BY 3.0)
