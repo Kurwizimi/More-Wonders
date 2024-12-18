@@ -481,10 +481,41 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [,"Gain a free [Cathedral] [in this city]","[+2 Happiness] from every [Shrine]","[+2 Happiness] from every [Temple]"],
+        "uniques": ["Gain a free [Cathedral] [in this city]","[+2 Happiness] from every [Shrine]","[+2 Happiness] from every [Temple]"],
         "requiredTech": "Biology",
         "quote": "'The straight line belongs to Man. The curved line belongs to God' - Antonio Gaudi"
     },
+
+	{
+        "name": "Smithsonian Institution",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": ["[+10]% [Science]","Gain a free [Museum] [in this city]"],
+        "requiredTech": "Biology",
+        "quote": "'The best prophet of the future is the past' - Lord George Gordon Bryon"
+    },
+
+	{
+        "name": "Tahrir Square",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": ["[+10 Happiness] <after adopting [Autocracy]>","[+10 Happiness] <after adopting [Order]>","[+10 Happiness] <after adopting [Freedom]>",],
+        "requiredTech": "Archaeology",
+        "quote": "'When dictatorship is a fact, revolution becomes a right.' - Victor Hugo"
+    },
+
+	{
+        "name": "Te Tii Marae",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": ["[+2 Happiness] from every [Courthouse]"],
+        "requiredTech": "Military Science",
+        "quote": "'Let your valor rise! Let your valor rage! /nLet us ward off these haunted hands /nto protect our wives and children!' - Te Rauparaha, Ka Mate"
+    },
+
 
 
 
