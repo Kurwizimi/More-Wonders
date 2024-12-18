@@ -1,7 +1,7 @@
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
-herbal by Ker'is from <a href="https://thenounproject.com/browse/icons/term/herbal/" target="_blank" title="herbal Icons">Noun Project</a> (CC BY 3.0)
-long grain rice by Oleksandr Panasovskyi from <a href="https://thenounproject.com/browse/icons/term/long-grain-rice/" target="_blank" title="long grain rice Icons">Noun Project</a> (CC BY 3.0)
+- herbal by Ker'is from <a href="https://thenounproject.com/browse/icons/term/herbal/" target="_blank" title="herbal Icons">Noun Project</a> (CC BY 3.0)
+- long grain rice by Oleksandr Panasovskyi from <a href="https://thenounproject.com/browse/icons/term/long-grain-rice/" target="_blank" title="long grain rice Icons">Noun Project</a> (CC BY 3.0)
 
 - Abu Simbel by Laymik from <a href="https://thenounproject.com/browse/icons/term/abu-simbel/" target="_blank" title="Abu Simbel Icons">Noun Project</a> (CC BY 3.0)
 - paddy field by Creative Mania from <a href="https://thenounproject.com/browse/icons/term/paddy-field/" target="_blank" title="paddy field Icons">Noun Project</a> (CC BY 3.0)
