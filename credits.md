@@ -37,3 +37,22 @@ Classical
   - Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
   - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
   - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
+
+  Renaissance
+
+  - kasbah by Grégory Montigny from <a href="https://thenounproject.com/browse/icons/term/kasbah/" target="_blank" title="kasbah Icons">Noun Project</a> (CC BY 3.0)
+  - Thailand by nakals from <a href="https://thenounproject.com/browse/icons/term/thailand/" target="_blank" title="Thailand Icons">Noun Project</a> (CC BY 3.0)
+  - buda castle by arloenl evinniev from <a href="https://thenounproject.com/browse/icons/term/buda-castle/" target="_blank" title="buda castle Icons">Noun Project</a> (CC BY 3.0)
+  - changdeokgung by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/changdeokgung/" target="_blank" title="changdeokgung Icons">Noun Project</a> (CC BY 3.0)
+  - kinkakuji by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/kinkakuji/" target="_blank" title="kinkakuji Icons">Noun Project</a> (CC BY 3.0)
+  - Castle by Kesya Sams from <a href="https://thenounproject.com/browse/icons/term/castle/" target="_blank" title="Castle Icons">Noun Project</a> (CC BY 3.0)
+  - Mosque by Jojoid from <a href="https://thenounproject.com/browse/icons/term/mosque/" target="_blank" title="Mosque Icons">Noun Project</a> (CC BY 3.0)
+  - golden temple by Kalaakarini from <a href="https://thenounproject.com/browse/icons/term/golden-temple/" target="_blank" title="golden temple Icons">Noun Project</a> (CC BY 3.0)
+  - hawa mahal by Anditii Creative from <a href="https://thenounproject.com/browse/icons/term/hawa-mahal/" target="_blank" title="hawa mahal Icons">Noun Project</a> (CC BY 3.0)
+  - Castle by Ahmed Elzahra from <a href="https://thenounproject.com/browse/icons/term/castle/" target="_blank" title="Castle Icons">Noun Project</a> (CC BY 3.0)
+  - Hut by Puspa Kusuma from <a href="https://thenounproject.com/browse/icons/term/hut/" target="_blank" title="Hut Icons">Noun Project</a> (CC BY 3.0)
+  - Santa Maria del Fiore cathedral by Chiara Claus from <a href="https://thenounproject.com/browse/icons/term/santa-maria-del-fiore-cathedral/" target="_blank" title="Santa Maria del Fiore cathedral Icons">Noun Project</a> (CC BY 3.0)
+  - Last Supper by bsd studio from <a href="https://thenounproject.com/browse/icons/term/last-supper/" target="_blank" title="Last Supper Icons">Noun Project</a> (CC BY 3.0)
+  - topkapi palace by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/topkapi-palace/" target="_blank" title="topkapi palace Icons">Noun Project</a> (CC BY 3.0)
+  - Torre de Belem by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/torre-de-belem/" target="_blank" title="Torre de Belem Icons">Noun Project</a> (CC BY 3.0)
+  - Wat Arun by Justicon from <a href="https://thenounproject.com/browse/icons/term/wat-arun/" target="_blank" title="Wat Arun Icons">Noun Project</a> (CC BY 3.0)
