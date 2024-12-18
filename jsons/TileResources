@@ -1,0 +1,16 @@
+[
+
+ 
+{
+        "name": "Rice Grains", 
+        "gold": 1,
+        "resourceType": "Luxury",
+    },
+
+{
+        "name": "Green Tea Leaves", 
+        "gold": 1,
+        "resourceType": "Luxury",
+    },
+
+]
