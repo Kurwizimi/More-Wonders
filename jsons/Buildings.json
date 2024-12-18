@@ -461,7 +461,7 @@
         "isWonder": true,
 	"culture" : 3,
 	"greatPersonPoints": { "Great Engineer": 2 },
-        "uniques": ["[-35]% Gold cost of acquiring tiles [in this city]","[-15]% Unhappiness from the number of cities"],
+        "uniques": ["[-35]% Gold cost of acquiring tiles [in this city]","[-15]% unhappiness from the number of cities"],
         "requiredTech": "Dynamite",
         "quote": "'who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
     },
