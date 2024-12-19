@@ -81,3 +81,22 @@ Classical
   - hollywood sign by Royyan Wijaya from <a href="https://thenounproject.com/browse/icons/term/hollywood-sign/" target="_blank" title="hollywood sign Icons">Noun Project</a> (CC BY 3.0)
   - Manama by DinosoftLabs from <a href="https://thenounproject.com/browse/icons/term/manama/" target="_blank" title="Manama Icons">Noun Project</a> (CC BY 3.0)
   - Rockefeller Center by Celina Leung from <a href="https://thenounproject.com/browse/icons/term/rockefeller-center/" target="_blank" title="Rockefeller Center Icons">Noun Project</a> (CC BY 3.0)
+
+  Atomic
+
+  - dish antenna by Vectors Market from <a href="https://thenounproject.com/browse/icons/term/dish-antenna/" target="_blank" title="dish antenna Icons">Noun Project</a> (CC BY 3.0)
+  - London Eye by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/london-eye/" target="_blank" title="London Eye Icons">Noun Project</a> (CC BY 3.0)
+  - martin luther king jr. memorial by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/martin-luther-king-jr-memorial/" target="_blank" title="martin luther king jr. memorial Icons">Noun Project</a> (CC BY 3.0)
+  - millau viaduct by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/millau-viaduct/" target="_blank" title="millau viaduct Icons">Noun Project</a> (CC BY 3.0)
+  - sky tower by IconPai from <a href="https://thenounproject.com/browse/icons/term/sky-tower/" target="_blank" title="sky tower Icons">Noun Project</a> (CC BY 3.0)
+  - Taipei 101 by Nikita Ivanov from <a href="https://thenounproject.com/browse/icons/term/taipei-101/" target="_blank" title="Taipei 101 Icons">Noun Project</a> (CC BY 3.0)
+  - Rocket by Rohan Gupta from <a href="https://thenounproject.com/browse/icons/term/rocket/" target="_blank" title="Rocket Icons">Noun Project</a> (CC BY 3.0)
+
+  Information
+
+  - Big Ben by Marta M. Soldevilla from <a href="https://thenounproject.com/browse/icons/term/big-ben/" target="_blank" title="Big Ben Icons">Noun Project</a> (CC BY 3.0)
+  - Oriental Pearl Tower Shanghai by mikicon from <a href="https://thenounproject.com/browse/icons/term/oriental-pearl-tower-shanghai/" target="_blank" title="Oriental Pearl Tower Shanghai Icons">Noun Project</a> (CC BY 3.0)
+  - Dubai by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/dubai/" target="_blank" title="Dubai Icons">Noun Project</a> (CC BY 3.0)
+  - Petronas Towers by Lazar Nikolic from <a href="https://thenounproject.com/browse/icons/term/petronas-towers/" target="_blank" title="Petronas Towers Icons">Noun Project</a> (CC BY 3.0)
+  - Shanghai Tower by Franco Marino Cagnina from <a href="https://thenounproject.com/browse/icons/term/shanghai-tower/" target="_blank" title="Shanghai Tower Icons">Noun Project</a> (CC BY 3.0)
+  - Tokyo Tower by Azland Studio from <a href="https://thenounproject.com/browse/icons/term/tokyo-tower/" target="_blank" title="Tokyo Tower Icons">Noun Project</a> (CC BY 3.0)
