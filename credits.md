@@ -14,6 +14,7 @@ Ancient Era
 - Karnak by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/karnak/" target="_blank" title="Karnak Icons">Noun Project</a> (CC BY 3.0)
 - Mountain by Hey Rabbit from <a href="https://thenounproject.com/browse/icons/term/mountain/" target="_blank" title="Mountain Icons">Noun Project</a> (CC BY 3.0)
 - hands by Tiago Russo from <a href="https://thenounproject.com/browse/icons/term/hands/" target="_blank" title="hands Icons">Noun Project</a> (CC BY 3.0)
+- göbekli tepe fox by Zack McCune from <a href="https://thenounproject.com/browse/icons/term/gobekli-tepe-fox/" target="_blank" title="göbekli tepe fox Icons">Noun Project</a> (CC BY 3.0)
 
 Classical
 
@@ -37,6 +38,7 @@ Classical
   - Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
   - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
   - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
+  - Samarra by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/samarra/" target="_blank" title="Samarra Icons">Noun Project</a> (CC BY 3.0)
 
   Renaissance
 
