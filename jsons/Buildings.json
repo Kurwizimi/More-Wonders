@@ -188,6 +188,16 @@
     },
 
 	{
+        "name": "Malwiya Minaret",
+        "isWonder": true,
+	"percentStatBonus": {"production": 20},
+        "uniques": ["[+2 Faith] <in cities with a [Temple]>",
+	            "Gain a free [Mosque] [in this city]"],
+        "requiredTech": "Metal Casting",
+        "quote": "'Al-Mutawakkil also built a great cathedral mosque and lavished enormous sums of money on it, making the minaret so high that the voices of the muezzins could be easily heard, and the minaret could be seen at a distance of many parasangs.' - Al-Baladhuri, Kitab Futuh al-Buldan"
+    },
+
+	{
         "name": "Nan Madol",
         "isWonder": true,
 	"culture" : 2,
