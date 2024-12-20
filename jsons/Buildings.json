@@ -670,6 +670,17 @@
 	},
 
 	{
+        "name": "Internet",
+        "isWonder": true,
+        "uniques": [ "Free Technology",
+		     "[+10]% [Culture] [in all cities]",
+		     "[+1 Science] per [5] population [in all cities]"],
+	"greatPersonPoints": {"Great Engineer": 3},
+        "requiredTech": "Computers",
+        "quote": "'Beep... Boop...'",
+    },
+
+	{
         "name": "London Eye",
         "isWonder": true,
 	"happiness" : 5,
