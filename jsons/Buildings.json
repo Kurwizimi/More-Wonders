@@ -42,6 +42,16 @@
     },
 
 	{
+        "name": "Gobekli Tepe",
+        "isWonder": true,
+        "uniques": [ "[+1 Production] from [Pasture] tiles [in this city]",
+	             "[+1 Production] from [Quarry] tiles [in this city]",
+	             "[+1 Gold] from [Plantation] tiles [in this city]"],
+        "requiredTech": "Animal Husbandry",
+        "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shocking proof that ancient people knew how to put rocks on top of each other?' - Milo Rossi"
+    },
+
+	{
         "name": "Karnak",
         "isWonder": true,
 	"culture" : 2,
