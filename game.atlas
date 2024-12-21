@@ -1,3 +1,4 @@
+
 game.png
 size: 2048, 2048
 format: RGBA8888
@@ -200,7 +201,7 @@ WonderImages/Torre del Oro
   offset: 0, 0
   index: -1
 
-ggame2.png
+game2.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -1044,3 +1045,4 @@ WonderImages/Yellow Crane Tower
   size: 500, 250
   orig: 500, 250
   offset: 0, 0
+  index: -1
