@@ -16,7 +16,7 @@
 	"culture" : 1,
 	"food" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [  "Provides [2] [Rice Grains]","Must be on [Farm]"],
+        "uniques": [  "Provides [2] [Rice Grains]","Must be next to [Farm]"],
         "requiredTech": "The Wheel",
         "quote": "'The buffalo that arrives late will have to drink muddy water and eat dry grass.' - Vietnamese Proverb"
     },
@@ -66,7 +66,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [  "[+1 Food] from [Desert] tiles [in this city]","[+20]% Great Person generation [in all cities]", "Must be next to [Desert]"],
+        "uniques": [  "[+1 Food] from [Desert] tiles [in this city]","[+15]% Great Person generation [in all cities]", "Must be next to [Desert]"],
         "requiredTech": "Trapping",
         "quote": "'The government never gave anybody anything. You make these homesteads go, you'll have earned every acre of it. You just can't make 'em go on the Mesa Verde!' - McLintock!"
     },
@@ -88,7 +88,7 @@
         "isWonder": true,
 	"culture" : 3,
 	"greatPersonPoints": { "Great Engineer": 2 },
-        "uniques": [  "[+1 Faith] from [Desert] tiles [in this city]","[+20]% Great Person generation [in all cities]", "Must be next to [Desert]"],
+        "uniques": [  "[+1 Faith] from [Desert] tiles [in this city]","[+15]% Great Person generation [in all cities]", "Must be next to [Desert]"],
         "requiredTech": "Engineering",
         "quote": "'Even death is not to be feared by one who has lived wisely.' - Siddharta Guatama"
     },
@@ -97,7 +97,7 @@
         "name": "Cairo Citadel",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+25]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>"],
+        "uniques": ["[+20]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>"],
         "requiredTech": "Engineering",
         "quote": "'Noone can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
     },
@@ -190,7 +190,7 @@
 	{
         "name": "Malwiya Minaret",
         "isWonder": true,
-	"percentStatBonus": {"production": 20},
+	"percentStatBonus": {"production": 15},
         "uniques": ["[+2 Faith] <in cities with a [Temple]>",
 	            "Gain a free [Mosque] [in this city]"],
         "requiredTech": "Metal Casting",
@@ -238,7 +238,7 @@
 	"greatPersonPoints": { "Great Merchant": 2 },
         "uniques": ["[+1 Gold] per [1] population [in this city]","Must be next to [Coast]"],
         "requiredTech": "Compass",
-        "quote": "'A cornered fox is more dangerous than a jackal!' - Gray Fox, Metal Gear"
+        "quote": "'A cornered fox is more dangerous than a jackal!' - Gray Fox, Metal Gear Solid"
     },
 
 	{
@@ -289,7 +289,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[+2 Gold] from [Resource] tiles [in this city]","Must be next to [Coast]"],
+        "uniques": ["[+1 Gold] from [Resource] tiles [in this city]","Must be next to [Coast]"],
         "requiredTech": "Banking",
         "quote": "'You can't be unhappy in the middle of a big, beautiful river' - Jim Harrison"
     },
@@ -300,12 +300,13 @@
 	"culture" : 2,
 	"gold" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+2 Food] from [Farm] tiles [in this city]",
-		"[+2 Gold] from [Plantation] tiles [in this city]",
-		"[+2 Production] from [Quarry] tiles [in this city]",
-		"[+2 Production] from [Mine] tiles [in this city]",
-		"[+2 Food] from [Fishing Boats] tiles [in this city]",
-		"[+2 Gold] from [Camp] tiles [in this city]",
+        "uniques": ["[+1 Food] from [Farm] tiles [in this city]",
+		"[+1 Gold] from [Plantation] tiles [in this city]",
+		"[+1 Production] from [Quarry] tiles [in this city]",
+		"[+1 Production] from [Mine] tiles [in this city]",
+		"[+1 Production] from [Lumber Mill] tiles [in this city]",
+		"[+1 Food] from [Fishing Boats] tiles [in this city]",
+		"[+1 Gold] from [Camp] tiles [in this city]",
 		"[+1 Production] from [Fort] tiles [in this city]",
 		"Must be next to [River]"],
         "requiredTech": "Architecture",
@@ -368,7 +369,7 @@
         "isWonder": true,
 	"faith" : 4,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+2 Culture] from every [Merchant]"],
+        "uniques": ["[+4 Culture] from every [Merchant]"],
         "requiredTech": "Metallurgy",
         "quote": "'The Giver of peace is eternally blissful' - Sri Guru Granth Sahib"
     },
@@ -388,7 +389,7 @@
         "name": "Pu'ukohola Heiau",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [, "[+3 Faith] from [Fishing Boats] tiles [in this city]", "New [Military] units start with [20] XP [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
+        "uniques": [, "[+3 Faith] from [Fishing Boats] tiles [in this city]", "New [Military] units start with [15] XP [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
         "requiredTech": "Astronomy",
         "quote": "'A heavenly nature; an earthly nature.' - King Kamehameha I"
     },
@@ -407,7 +408,7 @@
         "name": "Santa Maria delle Grazie",
         "isWonder": true,
 	"happiness" : 5,
-	"faith" : 2,
+	"faith" : 3,
 	"greatPersonPoints": { "Great Artist": 2 },
 	"specialistSlots": {"Artist": 1},
         "requiredTech": "Printing Press",
@@ -443,7 +444,7 @@
 	"greatPersonPoints": { "Great Artist": 2 },
         "uniques": ["[+2 Faith] from [River] tiles [in this city]","Must be next to [River]"],
         "requiredTech": "Economics",
-        "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson" // FIND QUOTE. its not that hard ... Right?
+        "quote": "" // FIND QUOTE. its not that hard ... Right?
     },
 
 	//Industrial Era
@@ -472,7 +473,7 @@
 	{
         "name": "Democracy Monument",
         "isWonder": true,
-        "uniques": ["[+25]% [Production] <after adopting [Order]>","[+12 Culture] <after adopting [Autocracy]>","[+10 Science] <after adopting [Freedom]>"],
+        "uniques": ["[+25]% [Production] [in this city] <after adopting [Order]>","[+15 Culture] [in this city] <after adopting [Autocracy]>","[+15 Science] [in this city] <after adopting [Freedom]>"],
         "requiredTech": "Electricity",
         "quote": "'Elections belong to the people. It's their decision. If they decide to turn their back on the fire and burn their behinds, then they will just have to sit on their blisters.' - Abraham Lincoln"
     },
@@ -542,10 +543,10 @@
         "name": "Te Tii Marae",
         "isWonder": true,
 	"culture" : 2,
-	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[+2 Happiness] from every [Courthouse]"],
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": ["[+3 Happiness] from every [Courthouse]"],
         "requiredTech": "Military Science",
-        "quote": "'Let your valor rise! Let your valor rage! /nLet us ward off these haunted hands /nto protect our wives and children!' - Te Rauparaha, Ka Mate"
+        "quote": "'Let your valor rise! Let your valor rage! \nLet us ward off these haunted hands \nto protect our wives and children!' - Te Rauparaha, Ka Mate"
     },
 
 	{
@@ -663,7 +664,7 @@
         "name": "Arecibo Observatory",
         "isWonder": true,
 	"science" : 4,
-	"cultyre" : 3,
+	"culture" : 3,
 	"greatPersonPoints": { "Great Scientist": 3},
 	"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]","Free [Great Scientist] appears"],
         "requiredTech": "Radar",
@@ -678,7 +679,7 @@
 		     "[+1 Science] per [5] population [in all cities]"],
 	"greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Computers",
-        "quote": "'Beep... Boop...'",
+        "quote": "'Beep... Boop... ERROR 404'",
     },
 
 	{
@@ -687,7 +688,7 @@
 	"happiness" : 5,
 	"culture" : 3,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["[+1 Gold] per [1] population [in this city]"],
+	"uniques": ["[+1 Culture] per [1] population [in this city]"],
         "requiredTech": "Ecology",
         "quote": "'London goes beyond any boundary or convention. It contains every wish or word ever spoken, every action or gesture ever made, every harsh or noble statement ever expressed. It is illimitable. It is Infinite London.' - Peter Ackroyd"
 	},
@@ -727,7 +728,7 @@
         "isWonder": true,
 	"gold" : 10,
 	"greatPersonPoints": { "Great Merchant": 3},
-	"uniques": ["[+1 Gold] per [1] population [in this city]"],
+	"uniques": ["[+1 Science] per [1] population [in this city]"],
         "requiredTech": "Ecology",
         "quote": "'The road of excess leads to the palace of wisdom.' - William Blake"
 	},
@@ -737,7 +738,7 @@
         "isWonder": true,
 	"gold" : 10,
 	"greatPersonPoints": { "Great Scientist": 2},
-	"uniques": ["[+3] Range <for [Air] units>","Free [Guided Missile] appears","Free [Guided Missile] appears","Free [Guided Missile] appears"],
+	"uniques": ["[+3] Range <for [Air] units>","[4] free [Guided Missile] units appear"],
         "requiredTech": "Rocketry",
         "quote": "'What is pride? A rocket that emulates the stars.' - William Wordsworth"
 	},
@@ -768,7 +769,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 2},
-	"uniques": ["[+15 Gold] from [Atoll] tiles [in this city]"],
+	"uniques": ["[+20 Gold] from [Atoll] tiles [in this city]"],
         "requiredTech": "Globalization",
         "quote": "'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.' - Jane Austen"
 	},
