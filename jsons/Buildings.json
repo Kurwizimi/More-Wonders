@@ -212,7 +212,8 @@
         "isWonder": true,
 	"percentStatBonus": {"gold": 10},
         "uniques": ["[+3 Gold, +1 Production] from each Trade Route",
-		     "All newly-trained [Melee] units [in all cities] receive the [Great Road] promotion"
+		     "All newly-trained [Land] units [in all cities] receive the [Great Road] promotion",
+		     "[Land] units gain the [Great Road] promotion"
         ],
         "requiredTech": "Machinery",
         "quote": "'A journey of a thousand miles begins with a single step' - Laozi"
