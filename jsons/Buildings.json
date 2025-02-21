@@ -411,7 +411,7 @@
 	"greatPersonPoints": { "Great Artist": 2 },
 	"specialistSlots": {"Artist": 1},
         "requiredTech": "Printing Press",
-        "quote": "'Once you have taken flight, /nYou'll decide, /nGaze towards the sky, you'll know that /nThat is where your heart will feel at home' - Leonardo da Vinci, Sogno di Volare"
+        "quote": "'Once you have taken flight, \nYou'll decide, \nGaze towards the sky, you'll know that \nThat is where your heart will feel at home' - Leonardo da Vinci, Sogno di Volare"
     },
 
 	{
@@ -667,7 +667,7 @@
 	"greatPersonPoints": { "Great Scientist": 3},
 	"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]","Free [Great Scientist] appears"],
         "requiredTech": "Radar",
-        "quote": "'11 /n11 /n11 /n11 /n11 /n01 /n11 /n11 /n01 /n11 /n01 /n11 /n10 /n11 /n11 /n01' - DNA double helix, Arecibo Message"
+        "quote": "'11 \n11 \n11 \n11 \n11 \n01 \n11 \n11 \n01 \n11 \n01 \n11 \n10 \n11 \n11 \n01' - DNA double helix, Arecibo Message"
 	},
 
 	{
