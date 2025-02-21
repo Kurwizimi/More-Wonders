@@ -387,7 +387,7 @@
         "name": "Pu'ukohola Heiau",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [, "[+3 Faith] from [Fishing Boats] tiles [in this city]", "New [Military] units start with [20] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
+        "uniques": [, "[+3 Faith] from [Fishing Boats] tiles [in this city]", "New [Military] units start with [20] XP [in this city]", "All newly-trained [non-air] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]"],
         "requiredTech": "Astronomy",
         "quote": "'A heavenly nature; an earthly nature.' - King Kamehameha I"
     },
