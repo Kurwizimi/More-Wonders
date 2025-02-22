@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Triangular Trade Ship",
+        "unitType": "Civilian Water",
+        "movement": 5,
+        "cost": 50,
+        "uniques": ["Can instantly construct a [Triangular Trade Route] improvement <by consuming this unit>",
+                    "Unbuildable",
+                    "Cannot be purchased"],
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+]
