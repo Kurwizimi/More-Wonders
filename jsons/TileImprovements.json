@@ -2,10 +2,11 @@
   {
 		"name": "Triangular Trade Route",
 		"type": "Improvement",
+	  	"gold": 1,
 		"terrainsCanBeBuiltOn": ["Ocean","Coast","Atoll"],
 		"uniques": ["[+2 Gold, +1 Production] <before the [Modern era]>",
                 "[+2 Gold] for each adjacent [Resource] <before the [Modern era]>",
-                "[-5 Happiness] <before the [Modern era]>",
+		"[+1 Production] for each adjacent [Atoll] <before the [Modern era]>",
                 "Tile provides yield without assigned population",
                 "Pillaging this improvement yields approximately [+40 Gold]",
                 "Will not be replaced by automated units"],
