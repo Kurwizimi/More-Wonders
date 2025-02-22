@@ -329,7 +329,7 @@
 	"gold" : 2,
 	"production" : 4,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[2] free [Triangular Trade Route] units appear","[+6 Culture] <starting from the [Atomic era]>","Must be next to [Coast]"],
+        "uniques": ["[2] free [Triangular Trade Ship] units appear","[+6 Culture] <starting from the [Atomic era]>","Must be next to [Coast]"],
         "requiredTech": "Economics",
         "quote": "'Prepare for your death, stranger. Time doesn't occur to the king.' - Bossa Ahadee, Cobra Verde"
     },
