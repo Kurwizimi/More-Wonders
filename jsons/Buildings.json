@@ -324,6 +324,17 @@
     },
 
 	{
+        "name": "Elmina Castle",
+        "isWonder": true,
+	"gold" : 2,
+	"production" : 4,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": ["[2] free [Triangular Trade Route] units appear","[+6 Culture] <starting from the [Atomic era]>","Must be next to [Coast]"],
+        "requiredTech": "Economics",
+        "quote": "'Prepare for your death, stranger. Time doesn't occur to the king.' - Bossa Ahadee, Cobra Verde"
+    },
+
+	{
         "name": "The Golden Pavilion",
         "isWonder": true,
 	"culture" : 1,
@@ -826,6 +837,18 @@
         "requiredTech": "Telecommunications",
         "quote": "'We all live under the same sky, but we don't all have the same horizon.' - Konrad Adenauer"
 	},
+
+	{
+        "name": "Turing Complete AI",
+        "isWonder": true,
+        "uniques": [ "Free Technology",
+		     "[+10]% [Culture] [in all cities]",
+		     "[+1 Production] per [5] population [in all cities]",
+		     "[-4 Happiness] [in all cities]"],
+	"greatPersonPoints": {"Great Scientist": 3},
+        "requiredTech": "Robotics",
+        "quote": "'Daisy, Daisy give me your answer do. \nI’m half crazy all for the love of you. \nIt won’t be a stylish marriage, I can’t afford a carriage. \nBut you’ll look sweet, Upon the seat, Of a bicycle made for two.' - Daisy Bell, Harry Dacre",
+    },
 
 
 
