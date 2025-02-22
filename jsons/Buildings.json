@@ -606,6 +606,16 @@
 	},
 
 	{
+        "name": "Delta Works",
+        "isWonder": true,
+	"gold" : 4,
+	"greatPersonPoints": { "Great Engineer": 3},
+	"uniques": ["[+1 Food] from every [Farm] <with [1] to [3] neighboring [Coast] tiles>","[-1 Production] from [River] tiles [in this city]","Must be next to [Coast]"],
+        "requiredTech": "Plastics",
+        "quote": "'The wise man makes an island of himself that no flood can overwhelm.' - Siddharta Guatama"
+	},
+
+	{
         "name": "Empire State Building",
         "isWonder": true,
 	"culture" : 2,
@@ -634,6 +644,16 @@
 	"uniques": ["[+1 Happiness] from every [Theatre]"],
         "requiredTech": "Electronics",
         "quote": "'If I fail, the film industry writes me off as another statistic. If I succeed, they pay me a million bucks to fly out to Hollywood and fart.' - George A. Romero"
+	},
+
+	{
+        "name": "Itaipu Dam",
+        "isWonder": true,
+	"happiness" : 3,
+	"greatPersonPoints": { "Great Engineer": 3},
+	"uniques": ["[+1 Production] from [River] tiles [in this city]","Must be on [River]",],
+        "requiredTech": "Radio",
+        "quote": "'Alone we can do so little; together we can do so much.' - Helen Keller"
 	},
 
 	{
