@@ -673,9 +673,19 @@
         "isWonder": true,
 	"happiness" : 3,
 	"greatPersonPoints": { "Great Engineer": 3},
-	"uniques": ["[+1 Production] from [River] tiles [in this city]","Must be on [River]",],
+	"uniques": ["[+1 Production] from [River] tiles [in this city]","Must be on [River]"],
         "requiredTech": "Radio",
         "quote": "'Alone we can do so little; together we can do so much.' - Helen Keller"
+	},
+
+	{
+        "name": "OPEC",
+        "isWonder": true,
+	"gold" : 2,
+	"greatPersonPoints": { "Great Merchant": 1},
+	"uniques": ["[+2 PGoldoduction] from [Oil] tiles [in all cities]","Must have an owned [Oil well] within [2] tiles","Provides [3] [Oil]"],
+        "requiredTech": "Radio",
+        "quote": "'Formula for success: rise early, work hard, strike oil.' - Paul Getty"
 	},
 
 	{
