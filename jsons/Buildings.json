@@ -78,7 +78,17 @@
 	"faith" : 2,
         "uniques": [  "[+4 Culture] <after discovering [Flight]>","[+2 Science] from every [University]","Must have an owned [Mountain] within [2] tiles"],
         "requiredTech": "Calendar",
-        "quote": "'If the Nazca Lines were made by humans for the gods, these figures were made by humans for humans' - Luis Jaime Castillo"
+        "quote": "@Nothing beside remains. Round the decay \nOf that colossal Wreck, boundless and bare \nThe lone and level sands stretch far away.' - Ozymandias, Percy Bysshe Shelley"
+    },
+
+	{
+        "name": "Temple of Obelisks",
+        "isWonder": true,
+	"culture" : 1,
+	"faith" : 2,
+        "uniques": [  "[+1 Food] from [Oasis] tiles [in this city]","[+1 Food] from [Lakes] tiles [in this city]","[+1 Food] from every [Monument]"],
+        "requiredTech": "Sailing",
+        "quote": "'If the Nazca Lines were made by humans for the gods, these figures were made by humans for humans.' - Luis Jaime Castillo"
     },
 
 	// Classical Era
