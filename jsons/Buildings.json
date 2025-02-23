@@ -200,6 +200,8 @@
         "name": "Krak des Chevaliers",
         "isWonder": true,
 	"culture" : 1,
+	"cityStrength": 10,
+        "cityHealth": 50,
 	"greatPersonPoints": { "Great General": 2 },
         "uniques": ["[+2 Gold] from [Farm] tiles [in this city]"],
         "requiredTech": "Steel",
