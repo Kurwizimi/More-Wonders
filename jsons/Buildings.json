@@ -145,6 +145,17 @@
 	//Medieval
 
 	{
+        "name": "Churches of Lalibela",
+        "isWonder": true,
+	"faith" : 3,
+	"culture" : 3,
+	"greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": [  "[+2 Faith] from every specialist [in all cities]"],
+        "requiredTech": "Physics",
+        "quote": "'Outside the kingdom of the Lord there is no nation which is greater than any other. God and history will remember your judgment.' - Haile Selassie"
+    },
+
+	{
         "name": "Great Canals of Venice",
         "isWonder": true,
 	"gold" : 4,
