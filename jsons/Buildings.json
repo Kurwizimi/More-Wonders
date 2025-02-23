@@ -476,7 +476,7 @@
 	"greatPersonPoints": { "Great Artist": 2 },
         "uniques": ["[+2 Faith] from [River] tiles [in this city]","Must be next to [River]"],
         "requiredTech": "Economics",
-        "quote": "" // FIND QUOTE. its not that hard ... Right?
+        "quote": "'No man ever steps in the same river twice, for it's not the same river and he's not the same man.' - Heraclitus" 
     },
 
 	//Industrial Era
