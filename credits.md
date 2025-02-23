@@ -89,6 +89,7 @@ Classical
   - hollywood sign by Royyan Wijaya from <a href="https://thenounproject.com/browse/icons/term/hollywood-sign/" target="_blank" title="hollywood sign Icons">Noun Project</a> (CC BY 3.0)
   - Manama by DinosoftLabs from <a href="https://thenounproject.com/browse/icons/term/manama/" target="_blank" title="Manama Icons">Noun Project</a> (CC BY 3.0)
   - Rockefeller Center by Celina Leung from <a href="https://thenounproject.com/browse/icons/term/rockefeller-center/" target="_blank" title="Rockefeller Center Icons">Noun Project</a> (CC BY 3.0)
+  - Museum by Xinh Studio from <a href="https://thenounproject.com/browse/icons/term/museum/" target="_blank" title="Museum Icons">Noun Project</a> (CC BY 3.0)
 
   Atomic
 
