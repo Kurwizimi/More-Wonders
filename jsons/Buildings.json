@@ -683,7 +683,7 @@
         "isWonder": true,
 	"gold" : 2,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["[+2 PGoldoduction] from [Oil] tiles [in all cities]","Must have an owned [Oil well] within [2] tiles","Provides [3] [Oil]"],
+	"uniques": ["[+3 Gold] from [Oil] tiles [in all cities]","Must have an owned [Oil well] within [2] tiles","Provides [3] [Oil]"],
         "requiredTech": "Radio",
         "quote": "'Formula for success: rise early, work hard, strike oil.' - Paul Getty"
 	},
