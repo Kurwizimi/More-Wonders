@@ -197,6 +197,16 @@
     },
 
 	{
+        "name": "Krak des Chevaliers",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great General": 2 },
+        "uniques": ["[+2 Gold] from [Farm] tiles [in this city]"],
+        "requiredTech": "Steel",
+        "quote": "'Even Jesus, for three days, died. Who is strong doesn't make the strong.' - Charles de Leusse"
+    },
+
+	{
         "name": "Leshan Giant Buddha",
         "isWonder": true,
 	"happiness" : 6,
