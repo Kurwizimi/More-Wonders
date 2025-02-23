@@ -616,6 +616,17 @@
 	},
 
 	{
+        "name": "Catedral de Sal",
+        "isWonder": true,
+	"culture" : 2,
+	"faith" : 3,
+	"greatPersonPoints": { "Great Engineer": 2 },
+	"uniques": ["[+3 Culture] from every [Salt]", "Must have an owned [Salt] within [3] tiles"],
+        "requiredTech": "Ballistics",
+        "quote": "'Let there be work, bread, water and salt for all.' - Nelson Mandela"
+	},
+
+	{
         "name": "Darjeeling Himalayan Railway",
         "isWonder": true,
 	"happiness" : 3,
