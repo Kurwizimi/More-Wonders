@@ -29,6 +29,7 @@ Classical
   Medieval
 
   - venice by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/venice/" target="_blank" title="venice Icons">Noun Project</a> (CC BY 3.0)
+  - Fort by Eskak from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
   - Cross by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/cross/" target="_blank" title="Cross Icons">Noun Project</a> (CC BY 3.0)
   - Minaret by iconfield from <a href="https://thenounproject.com/browse/icons/term/minaret/" target="_blank" title="Minaret Icons">Noun Project</a> (CC BY 3.0)
   - drum tower by Brickclay from <a href="https://thenounproject.com/browse/icons/term/drum-tower/" target="_blank" title="drum tower Icons">Noun Project</a> (CC BY 3.0)
