@@ -4,6 +4,11 @@
         "uniques": ["[+1] Movement"],
   },
 
+        {
+        "name": "Grand Canal",
+        "uniques": ["[This Unit] heals [10] HP <upon ending a turn in a [Fresh Water] tile>""],
+  },
+
 
 
 
