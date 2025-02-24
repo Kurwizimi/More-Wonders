@@ -522,6 +522,19 @@
     },
 
 	{
+        "name": "Casa Rosada",
+        "isWonder": true,
+	"culture" : 3,
+	"production" : 3,
+	"cityStrength": 15,
+        "cityHealth": 75,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Culture] from [Pasture] tiles [in this city]","Gain a free [Museum] [in this city]"],
+        "requiredTech": "Rifling",
+        "quote": "'The revolution is not an apple that falls when it is ripe. You have to make it fall' - Che Guevara"
+    },
+
+	{
         "name": "Cologne Cathedral",
         "isWonder": true,
 	"culture" : 3,
@@ -544,7 +557,7 @@
         "name": "La Maestranza",
         "isWonder": true,
 	"culture" : 2,
-	"happiness" : 6,
+	"happiness" : 5,
 	"greatPersonPoints": { "Great Merchant": 1 },
         "uniques": ["[+4 Culture] from [Cattle] tiles [in this city]"],
         "requiredTech": "Archaeology",
