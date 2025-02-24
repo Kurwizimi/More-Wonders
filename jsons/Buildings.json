@@ -113,6 +113,15 @@
     },
 
 	{
+        "name": "Dà Yùnhé",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["All newly-trained [Land] units [in this city] receive the [Grand Canal] promotion",],
+        "requiredTech": "Currency",
+        "quote": "'Traveling - it leaves you speechless, then turns you into a storyteller' - Ibn Battuta"
+    },
+
+	{
         "name": "El Tajin",
         "isWonder": true,
 	"culture" : 3,
@@ -150,6 +159,15 @@
         "uniques": [  "[+1 Culture] from [Desert] tiles [in this city]","[+1 Gold, +2 Production] from [Oasis] tiles [in this city]", "Must be next to [Desert]"],
         "requiredTech": "Engineering",
         "quote": "'Let me live in my house by the side of the road,Where the race of men go by; They are good, they are bad; they are weak, they are strong. Wise, foolish.;—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? Let me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
+    },
+
+	{
+        "name": "Xuankong Temple",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Culture] from [Hill] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles"],
+        "requiredTech": "Iron Working",
+        "quote": "'Living at risk is jumping off the cliff and building your wings on the way down' - Ray Bradbury"
     },
 
 	//Medieval
@@ -245,8 +263,7 @@
         "isWonder": true,
 	"percentStatBonus": {"gold": 10},
         "uniques": ["[+3 Gold, +1 Production] from each Trade Route",
-		     "All newly-trained [Land] units [in all cities] receive the [Great Road] promotion",
-		     "[Land] units gain the [Great Road] promotion"
+		     "All newly-trained [Land] units [in this city] receive the [Great Road] promotion"
         ],
         "requiredTech": "Machinery",
         "quote": "'A journey of a thousand miles begins with a single step' - Laozi"
