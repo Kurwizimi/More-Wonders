@@ -165,7 +165,7 @@
         "name": "Xuankong Temple",
         "isWonder": true,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+2 Culture] from [Hill] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles"],
+        "uniques": ["[+2 Culture] from [Hill] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>"],
         "requiredTech": "Iron Working",
         "quote": "'Living at risk is jumping off the cliff and building your wings on the way down' - Ray Bradbury"
     },
