@@ -69,6 +69,7 @@ Classical
   Industrial
 
   - avenue by Creative Mahira from <a href="https://thenounproject.com/browse/icons/term/avenue/" target="_blank" title="avenue Icons">Noun Project</a> (CC BY 3.0)
+  - Casa Rosada by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/casa-rosada/" target="_blank" title="Casa Rosada Icons">Noun Project</a> (CC BY 3.0)
   - cologne cathedral by Jakub Stejskal from <a href="https://thenounproject.com/browse/icons/term/cologne-cathedral/" target="_blank" title="cologne cathedral Icons">Noun Project</a> (CC BY 3.0)
   - Democracy monument by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/democracy-monument/" target="_blank" title="Democracy monument Icons">Noun Project</a> (CC BY 3.0)
   - Tripoli by Sergey Primirenkov from <a href="https://thenounproject.com/browse/icons/term/tripoli/" target="_blank" title="Tripoli Icons">Noun Project</a> (CC BY 3.0)
