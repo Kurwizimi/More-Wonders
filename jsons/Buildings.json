@@ -395,6 +395,15 @@
         "quote": "'A book holds a house of gold' - Chinese Proverb"
     },
 
+	{
+        "name": "Tlachihualtepetl",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","Must be on [Hill]"],
+        "requiredTech": "Acoustics",
+        "quote": "'You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth' - Montezuma II"
+    },
+
 
 	{
         "name": "Gripsholm Castle",
@@ -420,10 +429,10 @@
         "name": "Hawa Mahal",
         "isWonder": true,
 	"culture" : 2,
-	"greatPersonPoints": { "Great Engineer": 1 },
+	"greatPersonPoints": { "Great Engineer": 3 },
         "uniques": ["Free [Great Engineer] appears"],
         "requiredTech": "Architecture",
-        "quote": "'Waisdom sails with wind and time' - John Florio"
+        "quote": "'Wisdom sails with wind and time' - John Florio"
     },
 
 	{
@@ -557,7 +566,7 @@
 	"culture" : 2,
 	"happiness" : 5,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[+4 Culture] from [Cattle] tiles [in this city]"],
+        "uniques": ["[+3 Happiness] from [Cattle] tiles [in this city]"],
         "requiredTech": "Archaeology",
         "quote": "'Not only does the bull attacks his enemies with curved horn, but also the sheep, when harmed fights back.' - Propertius"
     },
