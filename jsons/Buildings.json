@@ -400,7 +400,7 @@
         "isWonder": true,
 	"greatPersonPoints": { "Great Artist": 1 },
 	"uniqueText": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","[+1 Production] from [All] tiles [in this city] adjacent to the City Centre","Must be on [Hill]"],
-        "uniques": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","[+1 Production] from [All] tiles [in this city] <with [1] to [6] neighboring [City centre] tiles> <hidden from users>","Must be on [Hill]"],
+        "uniques": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","[+1 Production] from [All] tiles [in this city] <with [1] to [6] neighboring [City centre] tiles>","Must be on [Hill]"],
         "requiredTech": "Acoustics",
         "quote": "'You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth' - Montezuma II"
     },
