@@ -828,7 +828,7 @@
         "uniques": [ "Free Technology",
 		     "[+10]% [Culture] [in all cities]",
 		     "[+1 Science] per [5] population [in all cities]",
-		     "unavailable <if [Nobles and Merchants] is enabled>"],
+		     "Unavailable <if [Nobles and Merchants] is enabled>"],
 	"greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Computers",
         "quote": "'Beep... Boop... ERROR 404'",
@@ -921,7 +921,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 2},
-	"uniques": ["[+20 Gold] from [Atoll] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+20 Gold] from [Atoll] tiles [in this city]", "Must have an owned [Atoll] within [3] tiles","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Globalization",
         "quote": "'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.' - Jane Austen"
 	},
