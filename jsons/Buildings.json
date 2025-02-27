@@ -56,7 +56,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": [  "[+2 Faith] from [Flood Plains] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [  "[+2 Faith] from [Flood plains] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Calendar",
         "quote": "'Man, know yourself… and you shalt know the gods.' - Inscription at Karnak"
     },
