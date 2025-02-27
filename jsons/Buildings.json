@@ -15,7 +15,7 @@
 	"culture" : 1,
 	"food" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [  "Provides [2] [Rice Grains]","Must be next to [Farm]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [  "Provides [2] [Rice Grains]","Must be next to [Farm]", "Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "The Wheel",
         "quote": "'The buffalo that arrives late will have to drink muddy water and eat dry grass.' - Vietnamese Proverb"
     },
@@ -46,7 +46,6 @@
         "uniques": [ "[+1 Production] from [Pasture] tiles [in this city]",
 	             "[+1 Production] from [Quarry] tiles [in this city]",
 	             "[+1 Gold] from [Plantation] tiles [in this city]",
-		      "Must have an owned [Plantation, Quarry, Pasture] within [3] tiles",
 	             "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Animal Husbandry",
         "quote": "'Is Gobekli Tepe evidence of a lost advanced civilisation from the ice age, or is it shocking proof that ancient people knew how to put rocks on top of each other?' - Milo Rossi"
@@ -117,7 +116,7 @@
         "name": "Dà Yùnhé",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["All newly-trained [Land] units [in this city] receive the [Grand Canal] promotion", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["All newly-trained [Land] units [in this city] receive the [Grand Canal] promotion", "Must be on [Fresh Water]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Currency",
         "quote": "'Traveling - it leaves you speechless, then turns you into a storyteller' - Ibn Battuta"
     },
@@ -140,7 +139,7 @@
         "isWonder": true,
 	"faith" : 3,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [  "[+2 Faith, +2 Gold] from every [Walls]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [  "[+2 Faith, +2 Gold] from every [Walls]", "Must have an owned [Mountain] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Mathematics",
         "quote": "'Trust in dreams, for in them is hidden the gate to eternity' - Khalil Gibran "
     },
@@ -182,7 +181,7 @@
 	"faith" : 3,
 	"culture" : 3,
 	"greatPersonPoints": { "Great Engineer": 2 },
-        "uniques": [  "[+2 Faith] from every specialist [in all cities]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
+        "uniques": [  "[+2 Faith] from every specialist [in all cities]", "Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
         "requiredTech": "Physics",
         "quote": "'Outside the kingdom of the Lord there is no nation which is greater than any other. God and history will remember your judgment.' - Haile Selassie"
     },
@@ -193,7 +192,7 @@
 	"gold" : 4,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 2 },
-        "uniques": [  "[+2 Gold] from each Trade Route", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
+        "uniques": [  "[+2 Gold] from each Trade Route", "Connects trade routes over water", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
         "requiredTech": "Compass",
         "quote": "'It is the city of mirrors, the city of mirages, at once solid and liquid, at once air and stone.' - Erica Jon"
     },
@@ -225,7 +224,7 @@
 	"cityStrength": 10,
         "cityHealth": 50,
 	"greatPersonPoints": { "Great General": 2 },
-        "uniques": ["[+2 Gold] from [Farm] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+2 Gold] from [Farm] tiles [in this city]", "Must have an owned [Fort] within [5] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Steel",
         "quote": "'Even Jesus, for three days, died. Who is strong doesn't make the strong.' - Charles de Leusse"
     },
@@ -267,7 +266,7 @@
         "isWonder": true,
 	"percentStatBonus": {"gold": 10},
         "uniques": ["[+3 Gold, +1 Production] from each Trade Route",
-		     "All newly-trained [Land] units [in this city] receive the [Great Road] promotion", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"
+		     "All newly-trained [Land] units [in this city] receive the [Great Road] promotion", "Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"
         ],
         "requiredTech": "Machinery",
         "quote": "'A journey of a thousand miles begins with a single step' - Laozi"
@@ -279,7 +278,7 @@
 	"culture" : 1,
 	"faith" : 3,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+3 Faith] from [Gold] tiles [in this city]","[+1 Gold] from every [Artist]","[+1 Gold] from every [Engineer]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+3 Faith] from [Gold Ore] tiles [in this city]","[+1 Gold] from every [Artist]","[+1 Gold] from every [Engineer]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Metal Casting",
         "quote": "'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.' - Siddharta Guatama"
     },
@@ -299,7 +298,7 @@
         "name": "Tōdai-ji",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+2 Faith] from [Cattle] tiles [in this city]","[+2 Faith] from [Horse] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+2 Faith] from [Cattle] tiles [in this city]","[+2 Faith] from [Horse] tiles [in this city]", "Must have an owned [Pasture] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Metal Casting",
         "quote": "'Mankind have love, animals have affection. The harmonious and beautiful world is revealed.' - Siddharta Guatama"
     },
@@ -445,7 +444,7 @@
         "isWonder": true,
 	"faith" : 4,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+4 Culture] from every [Merchant]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+4 Culture] from every [Merchant]", "Must be on [Fresh Water]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Metallurgy",
         "quote": "'The Giver of peace is eternally blissful' - Sri Guru Granth Sahib"
     },
@@ -542,7 +541,7 @@
 	"cityStrength": 15,
         "cityHealth": 75,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+2 Culture] from [Pasture] tiles [in this city]","Gain a free [Museum] [in this city]", "Unavailable <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+2 Culture] from [Pasture] tiles [in this city]","Gain a free [Museum] [in this city]", "Must have an owned [Pasture] within [3] tiles","Unavailable <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Rifling",
         "quote": "'The revolution is not an apple that falls when it is ripe. You have to make it fall' - Che Guevara"
     },
@@ -571,7 +570,7 @@
 	{
         "name": "Democracy Monument",
         "isWonder": true,
-        "uniques": ["[+25]% [Production] [in this city] <after adopting [Order]>","[+15 Culture] [in this city] <after adopting [Autocracy]>","[+15 Science] [in this city] <after adopting [Freedom]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+15]% [Production] [in this city] <after adopting [Order]>","[+15 Culture] [in this city] <after adopting [Autocracy]>","[+15 Science] [in this city] <after adopting [Freedom]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Electricity",
         "quote": "'Elections belong to the people. It's their decision. If they decide to turn their back on the fire and burn their behinds, then they will just have to sit on their blisters.' - Abraham Lincoln"
     },
@@ -582,7 +581,7 @@
 	"culture" : 2,
 	"happiness" : 5,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[+3 Happiness] from [Cattle] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+3 Happiness] from [Cattle] tiles [in this city]", "Must have an owned [Pasture] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Archaeology",
         "quote": "'Not only does the bull attacks his enemies with curved horn, but also the sheep, when harmed fights back.' - Propertius"
     },
@@ -592,7 +591,7 @@
         "isWonder": true,
 	"culture" : 3,
 	"greatPersonPoints": { "Great Engineer": 2 },
-        "uniques": ["[-35]% Gold cost of acquiring tiles [in this city]","[-15]% unhappiness from the number of cities", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[-35]% Gold cost of acquiring tiles [in this city]","[-15]% unhappiness from the number of cities", "Must have an owned [Mountain] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Dynamite",
         "quote": "'who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
     },
@@ -841,7 +840,7 @@
 	"happiness" : 5,
 	"culture" : 3,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["[+1 Culture] per [1] population [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+1 Culture] per [1] population [in this city]", "Must be on [River]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Ecology",
         "quote": "'London goes beyond any boundary or convention. It contains every wish or word ever spoken, every action or gesture ever made, every harsh or noble statement ever expressed. It is illimitable. It is Infinite London.' - Peter Ackroyd"
 	},
@@ -903,7 +902,7 @@
         "isWonder": true,
 	"gold" : 20,
 	"faith" : 5,
-	"uniques": ["[+2 Culture] from [Resource] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+3 Culture] from [Resource] tiles [in this city]", "Must have an owned [Holy site] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Globalization",
         "quote": "'A good word is like a good tree whose root is firmly fixed and whose top is in the sky' - Qu'ran"
 	},
@@ -912,7 +911,7 @@
         "name": "Oriental Pearl Tower",
         "isWonder": true,
 	"culture" : 1,
-	"uniques": ["[+10]% Great Person generation [in all cities]","[+10]% [Culture]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+10]% Great Person generation [in all cities]","[+10]% [Culture]", "Must be on [River]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Telecommunications",
         "quote": "'I am not afraid of tomorrow, for I have seen today and I love today' - William Allen White"
 	},
