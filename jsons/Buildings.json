@@ -56,7 +56,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": [  "[+2 Faith] from [Flood plains] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [  "[+2 Faith] from [Flood plains] tiles [in this city]", ,"Must have an owned [Mountain] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Calendar",
         "quote": "'Man, know yourself… and you shalt know the gods.' - Inscription at Karnak"
     },
@@ -78,7 +78,7 @@
 	"faith" : 2,
         "uniques": [  "[+4 Culture] <after discovering [Flight]>","[+2 Science] from every [University]","Must have an owned [Mountain] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Calendar",
-        "quote": "@Nothing beside remains. Round the decay \nOf that colossal Wreck, boundless and bare \nThe lone and level sands stretch far away.' - Ozymandias, Percy Bysshe Shelley"
+        "quote": "'If the Nazca Lines were made by humans for the gods, these figures were made by humans for humans.' - Luis Jaime Castillo"
     },
 
 	{
@@ -88,7 +88,7 @@
 	"faith" : 2,
         "uniques": [  "[+1 Food] from [Oasis] tiles [in this city]","[+1 Food] from [Lakes] tiles [in this city]","[+1 Food] from every [Monument]"],
         "requiredTech": "Sailing",
-        "quote": "'If the Nazca Lines were made by humans for the gods, these figures were made by humans for humans.' - Luis Jaime Castillo"
+        "quote": "Nothing beside remains. Round the decay \nOf that colossal Wreck, boundless and bare \nThe lone and level sands stretch far away.' - Ozymandias, Percy Bysshe Shelley"
     },
 
 	// Classical Era
@@ -148,7 +148,7 @@
         "name": "Hōryū-ji",
         "isWonder": true,
 	"faith" : 8,
-		"uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Philosophy",
         "quote": "'...if rulers and bureaucrats believe they are the owners rather than the servants of the law, corruption will follow.' - Prince Shōtoku"
     },
@@ -160,7 +160,7 @@
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [ "[+1 Culture] from [Desert] tiles [in this city]","[+1 Gold, +2 Production] from [Oasis] tiles [in this city]", "Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
         "requiredTech": "Engineering",
-        "quote": "'Let me live in my house by the side of the road,Where the race of men go by; They are good, they are bad; they are weak, they are strong. Wise, foolish.;—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? Let me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
+        "quote": "'Let me live in my house by the side of the road,Where the race of men go by; \nThey are good, they are bad; they are weak, they are strong. Wise, foolish.; \n—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? \nLet me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
     },
 
 	{
@@ -265,8 +265,7 @@
         "name": "Qhapaq Nan",
         "isWonder": true,
 	"percentStatBonus": {"gold": 10},
-        "uniques": ["[+3 Gold, +1 Production] from each Trade Route",
-		     "All newly-trained [Land] units [in this city] receive the [Great Road] promotion", "Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"
+        "uniques": ["[+3 Gold, +1 Production] from each Trade Route", "All newly-trained [Land] units [in this city] receive the [Great Road] promotion", "Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"
         ],
         "requiredTech": "Machinery",
         "quote": "'A journey of a thousand miles begins with a single step' - Laozi"
@@ -355,13 +354,14 @@
 	"gold" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["[+1 Food] from [Farm] tiles [in this city]",
-		"[+1 Gold] from [Plantation] tiles [in this city]",
+		"[+1 Food] from [Fishing Boats] tiles [in this city]",
 		"[+1 Production] from [Quarry] tiles [in this city]",
 		"[+1 Production] from [Mine] tiles [in this city]",
 		"[+1 Production] from [Lumber mill] tiles [in this city]",
-		"[+1 Food] from [Fishing Boats] tiles [in this city]",
-		"[+1 Gold] from [Camp] tiles [in this city]",
 		"[+1 Production] from [Fort] tiles [in this city]",
+		"[+1 Gold] from [Plantation] tiles [in this city]",
+		"[+1 Gold] from [Camp] tiles [in this city]",
+		"[+1 Gold] from [Trading post] tiles [in this city]",
 		"Must be next to [River]",
 		"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Architecture",
@@ -384,7 +384,7 @@
 	"gold" : 2,
 	"production" : 4,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[2] free [Triangular Trade Ship] units appear","[+6 Culture] <starting from the [Atomic era]>","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[2] free [Triangular Trade Ship] units appear","[+6 Culture] <starting from the [Atomic era]>","Must be next to [Coast]", "Only available <in cities without a [Palace]>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Economics",
         "quote": "'Prepare for your death, stranger. Time doesn't occur to the king.' - Bossa Ahadee, Cobra Verde"
     },
@@ -403,7 +403,7 @@
         "name": "Tlachihualtepetl",
         "isWonder": true,
 	"greatPersonPoints": { "Great Artist": 1 },
-	"uniqueText": "[+2 Culture, +2 Faith] from [Hill] tiles [in this city] \n[+1 Production] from [All] tiles [in this city] adjacent to the City Centre \nMust be on [Hill]\nProvides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",
+	"uniqueText": "[+2 Culture, +2 Faith] from [Hill] tiles [in this city] \n[+1 Production] from [All] tiles [in this city] adjacent to the City Centre \nMust be on [Hill] \nProvides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",
         "uniques": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","[+1 Production] from [All] tiles [in this city] <with [1] to [6] neighboring [City centre] tiles>","Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Acoustics",
         "quote": "'You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth' - Montezuma II"
