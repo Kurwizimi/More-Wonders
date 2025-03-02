@@ -909,6 +909,16 @@
 	},
 
 	{
+        "name": "African Renaissance Monument",
+        "isWonder": true,
+	"gold" : 2,
+	"greatPersonPoints": { "Great Artist": 3 },
+        "uniques": [ "[+1 Science] per [1] population [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Mobile Tactics",
+        "quote": "'Every State is a despotism, be the despot one or many.' - Max Stirner"
+    },
+
+	{
         "name": "Oriental Pearl Tower",
         "isWonder": true,
 	"culture" : 1,
@@ -949,6 +959,16 @@
         "requiredTech": "Globalization",
         "quote": "'We have the best government money can buy' - Mark Twain"
 	},
+
+	{
+        "name": "Statue of Unity",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 3 },
+        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Nuclear Fission",
+        "quote": "'India is, the cradle of human race, birthplace of human speech, mother of history, the grandmother of legend, & great grand mother of tradition' - Mark Twain"
+    },
 
 	{
         "name": "Tokyo Sky Tree",
