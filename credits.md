@@ -116,3 +116,8 @@ Classical
   - Shanghai Tower by Franco Marino Cagnina from <a href="https://thenounproject.com/browse/icons/term/shanghai-tower/" target="_blank" title="Shanghai Tower Icons">Noun Project</a> (CC BY 3.0)
   - Tokyo Tower by Azland Studio from <a href="https://thenounproject.com/browse/icons/term/tokyo-tower/" target="_blank" title="Tokyo Tower Icons">Noun Project</a> (CC BY 3.0)
   - AI by Ketileng Design from <a href="https://thenounproject.com/browse/icons/term/ai/" target="_blank" title="AI Icons">Noun Project</a> (CC BY 3.0)
+  - om by Natalie Doud from <a href="https://thenounproject.com/browse/icons/term/om/" target="_blank" title="om Icons">Noun Project</a> (CC BY 3.0)
+  - Shrivatsa by Alexandre Plennevaux from <a href="https://thenounproject.com/browse/icons/term/shrivatsa/" target="_blank" title="Shrivatsa Icons">Noun Project</a> (CC BY 3.0)
+  - trident of shiva by Gavin Muhammad Isa from <a href="https://thenounproject.com/browse/icons/term/trident-of-shiva/" target="_blank" title="trident of shiva Icons">Noun Project</a> (CC BY 3.0)
+  - statue of unity by conPai from <a href="https://thenounproject.com/icon/statue-of-unity-6819946/">Noun Project</a> (CC BY 3.0)
+  - african renaissance monument by Ary Prasetyo from <a href="https://thenounproject.com/icon/african-renaissance-monument-4596213/">Noun Project</a> (CC BY 3.0)
