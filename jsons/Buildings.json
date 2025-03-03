@@ -887,6 +887,16 @@
 	},
 
 	{
+        "name": "The Motherland Calls",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great General": 3 },
+        "uniques": [ "[+1 Happiness] per [4] population [in this city] <when not at war>", "[+50]% Production when constructing [Melee] units [in this city] <when at war>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Combined Arms",
+        "quote": "'He did what heroes do after their work is accomplished; he died.' - Leo Tolstoy"
+    },
+
+	{
         "name": "White Sands Missile Range",
         "isWonder": true,
 	"gold" : 10,
@@ -916,6 +926,16 @@
         "uniques": [ "[+1 Science] per [1] population [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Mobile Tactics",
         "quote": "'Every State is a despotism, be the despot one or many.' - Max Stirner"
+    },
+
+	{
+        "name": "Mother Ukraine",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [ "[+8 Science] [in all cities] <with a garrison>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Lasers",
+        "quote": "'Life did not stop, and one had to live.' - Leo Tolstoy"
     },
 
 	{
