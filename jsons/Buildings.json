@@ -1391,7 +1391,7 @@
 	"cost" : 1500,
 	"requiredBuilding": "Operation Patel-Gandhi",
         "uniques": [  "Comment [Together, our people stand united, ready to face the brave new world infront of us. As Gods and Kings had their rise and fall, they all tried to secure their right to rule and attempt to control the crossroads of the world. But these warlords failed to look beyond the sword, and turned a blind eye to the gathering storm on the horizon. Our civilization may suffer the same fate if we do not learn from the pasts mistakes. We shall unite the world under the banner of unity and acceptance, so no person shall suffer the fate of their ancestors. Our enemies will, of course, not accept this, so we must teach them with the words of the Smiling Bhudda, so they can learn of our peaceful ways!]",
-		      "Triggers a global alert upon completion", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+		      "Triggers a global alert upon completion", "Unavailable <in cities without a [Operation Patel-Gandhi]>", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     },
 
 
