@@ -965,7 +965,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 3 },
-        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]",  "Gain a free [Operation Patel-Gandhi] [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Nuclear Fission",
         "quote": "'India is, the cradle of human race, birthplace of human speech, mother of history, the grandmother of legend, & great grand mother of tradition' - Mark Twain"
     },
@@ -1353,7 +1353,12 @@
 
 
 	
-
+{
+        "name": "Operation Patel-Gandhi",
+	"culture" : 1,
+	"cost" : 1869,
+        "uniques": [ "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+    },
 
 
 
@@ -1364,8 +1369,9 @@
         "name": "Project Smiling Buddha",
 	"faith" : 2,
 	"cost" : 1500,
+	"requiredBuilding": "Operation Patel-Gandhi",
         "uniques": [  "Comment [Together, our people stand united, ready to face the brave new world infront of us. As Gods and Kings had their rise and fall, they all tried to secure their right to rule and attempt to control the crossroads of the world. But these warlords failed to look beyond the sword, and turned a blind eye to the gathering storm on the horizon. Our civilization may suffer the same fate if we do not learn from the pasts mistakes. We shall unite the world under the banner of unity and acceptance, so no person shall suffer the fate of their ancestors. Our enemies will, of course, not accept this, so we must teach them with the words of the Smiling Bhudda, so they can learn of our peaceful ways!]",
-		      "Only Available <in cities with a [Statue of Unity]>", "Triggers a global alert upon completion", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+		      "Triggers a global alert upon completion", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     },
 
 
