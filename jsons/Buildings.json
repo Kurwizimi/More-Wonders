@@ -1377,7 +1377,7 @@
         "name": "Operation Patel-Gandhi",
 	"culture" : 1,
 	"cost" : 1869,
-        "uniques": [ "Unbuildable", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "Unbuildable", "Unavailable <in cities without a [Statue of Unity]>", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     },
 
 
