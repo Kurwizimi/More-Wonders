@@ -824,6 +824,16 @@
 	},
 
 	{
+        "name": "Channel Tunnel",
+        "isWonder": true,
+	"gold" : 3,
+	"greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": [ "[+2 Gold, +4 Production] from each Trade Route", "[+1 Production] from [Coast] tiles [in this city]", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Pharmaceuticals",
+        "quote": "'Chitty-Chitty Bang Bang’s going to take us right across the English Channel to France' - Chitty-Chitty Bang-Bang"
+        },
+
+	{
         "name": "Internet",
         "isWonder": true,
         "uniques": [ "Free Technology",
@@ -833,7 +843,7 @@
 	"greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Computers",
         "quote": "'Beep... Boop... ERROR 404'",
-    },
+        },
 
 	{
         "name": "London Eye",
