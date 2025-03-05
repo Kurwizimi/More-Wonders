@@ -5,10 +5,19 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [ "[+3 Production] from [Landmark] tiles [in all cities]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+3 Production] from [Landmark] tiles [in all cities]", "Only availabe <if [Nobles and Merchants] is not enabled>"],
         "requiredTech": "Writing",
         "quote": "'The heads of Rameses II at Abu Simbel and, for that matter, the skyscrapers of New York, have another idea of man.' - John Leonard"
     },
+		{
+        		"name": "Abu Simbel (Nobles and Merchants)",
+        		"isWonder": true,
+			"culture" : 2,
+			"greatPersonPoints": { "Great Engineer": 1 },
+        		"uniques": [ "[+3 Production] from every [Great Work of Writing]","[+3 Production] from every [Great Work of Art]","[+3 Production] from every [Great Work of Art]","Only Availabe <if [Nobles and Merchants] is enabled>","Provides [2] [Tourism] <after discovering [Flight]>"],
+        		"requiredTech": "Writing",
+        		"quote": "'The heads of Rameses II at Abu Simbel and, for that matter, the skyscrapers of New York, have another idea of man.' - John Leonard"
+    		},
 	{
         "name": "Bananue Rice Terraces",
         "isWonder": true,
@@ -109,7 +118,7 @@
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["[+20]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Engineering",
-        "quote": "'Noone can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
+        "quote": "'No one can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
     },
 
 	{
@@ -256,7 +265,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+1 Food, +1 Production, +1 Gold] from [Coast] tiles [in this city]","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+1 Culture, +1 Production, +1 Gold] from [Coast] tiles [in this city]","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Civil Service",
         "quote": "'Out there, on the water, in darkness, out of sight, men encounter the image within them. Or so they suppose.' - Robert Aickman"
     },
@@ -400,7 +409,7 @@
     },
 
 	{
-        "name": "Tlachihualtepetl",
+        "name": "Tlachihualtepetl", //Production bonus is broken
         "isWonder": true,
 	"greatPersonPoints": { "Great Artist": 1 },
 	"uniqueText": "[+2 Culture, +2 Faith] from [Hill] tiles [in this city] \n[+1 Production] from [All] tiles [in this city] adjacent to the City Centre \nMust be on [Hill] \nProvides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",
@@ -445,7 +454,7 @@
         "isWonder": true,
 	"faith" : 4,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+4 Culture] from every [Merchant]", "Must be on [Fresh Water]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+5 Culture] from every [Merchant]", "Must be on [Fresh Water]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Metallurgy",
         "quote": "'The Giver of peace is eternally blissful' - Sri Guru Granth Sahib"
     },
@@ -582,7 +591,7 @@
 	"culture" : 2,
 	"happiness" : 5,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[+3 Happiness] from [Cattle] tiles [in this city]", "Must have an owned [Pasture] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+3 Happiness] from [Cattle] tiles [in this city]", "Must have an owned [Cattle] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Archaeology",
         "quote": "'Not only does the bull attacks his enemies with curved horn, but also the sheep, when harmed fights back.' - Propertius"
     },
@@ -594,7 +603,7 @@
 	"greatPersonPoints": { "Great Engineer": 2 },
         "uniques": ["[-35]% Gold cost of acquiring tiles [in this city]","[-15]% unhappiness from the number of cities", "Must have an owned [Mountain] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Dynamite",
-        "quote": "'who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
+        "quote": "'Who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
     },
 
 	{
@@ -664,7 +673,7 @@
         "isWonder": true,
 	"faith" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
-	"uniques": ["[+20]% [Faith]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+50]% [Faith]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Archaeology",
         "quote": "'Buddhism teaches one to embrace change.' - Koo Stark"
     },
@@ -674,7 +683,7 @@
         "isWonder": true,
 	"science" : 3,
 	"greatPersonPoints": { "Great Scientist": 1 },
-	"uniques": ["[+20]% [Science]","[+2 Science] from every [Shrine]","[+2 Science] from every [Temple]","[+2 Science] from every [Cathedral]","[+2 Science] from every [Mosque]","[+2 Science] from every [Pagoda]","[+2 Science] from every [Monestary]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+10]% [Science]","[+2 Science] from every [Shrine]","[+2 Science] from every [Temple]","[+2 Science] from every [Cathedral]","[+2 Science] from every [Mosque]","[+2 Science] from every [Pagoda]","[+2 Science] from every [Monestary]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Archaeology",
         "quote": "'Every morning we are born again. What we do today is what matters most.' - Siddharta Guatama"
     },
@@ -839,7 +848,7 @@
         "uniques": [ "Free Technology",
 		     "[+10]% [Culture] [in all cities]",
 		     "[+1 Science] per [5] population [in all cities]",
-		     "Unavailable <if [Nobles and Merchants] is enabled>"],
+		     "Only Availabe <if [Nobles and Merchants] is not enabled>"],
 	"greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Computers",
         "quote": "'Beep... Boop... ERROR 404'",
@@ -911,7 +920,7 @@
         "isWonder": true,
 	"gold" : 10,
 	"greatPersonPoints": { "Great Scientist": 2},
-	"uniques": ["[+3] Range <for [Air] units>","[4] free [Guided Missile] units appear", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+2] Range <for [Air] units>","[4] free [Guided Missile] units appear", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Rocketry",
         "quote": "'What is pride? A rocket that emulates the stars.' - William Wordsworth"
 	},
@@ -943,7 +952,7 @@
         "isWonder": true,
 	"culture" : 1,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [ "[+8 Science] [in all cities] <with a garrison>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+10 Science] [in all cities] <with a garrison>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Lasers",
         "quote": "'Life did not stop, and one had to live.' - Leo Tolstoy"
     },
@@ -982,7 +991,7 @@
 	{
         "name": "Shanghai World Financial Center",
         "isWonder": true,
-	"gold" : 10,
+	"gold" : 20,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 4},
 	"uniques": [ "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>" ]
@@ -995,7 +1004,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 3 },
-        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]",  "Gain a free [Operation Patel-Gandhi] [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]",  "Gain a free [Operation Patel-Gandhi] [in this city] <hidden from users>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Nuclear Fission",
         "quote": "'India is, the cradle of human race, birthplace of human speech, mother of history, the grandmother of legend, & great grand mother of tradition' - Mark Twain"
     },
