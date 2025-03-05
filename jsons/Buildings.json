@@ -822,6 +822,16 @@
 	//Atomic Era
 
 	{
+        "name": "Al Wusta Oryx Sanctuary",
+        "isWonder": true,
+	"culture" : 3,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": [ "[+3 Happiness] from [Desert] tiles [in this city]", "[-10 Gold, -10 Production, -10 Happiness] from [Oil well] tiles [in this city]","Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Ecology",
+        "quote": "'After everything that's happened, how can the world still be so beautiful? Because it is.' - Margaret Atwood"
+    },
+	
+	{
         "name": "Arecibo Observatory",
         "isWonder": true,
 	"science" : 4,
@@ -829,7 +839,7 @@
 	"greatPersonPoints": { "Great Scientist": 3},
 	"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]","Free [Great Scientist] appears", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Radar",
-        "quote": "'11 \n11 \n11 \n11 \n11 \n01 \n11 \n11 \n01 \n11 \n01 \n11 \n10 \n11 \n11 \n01' - DNA double helix, Arecibo Message"
+        "quote": "'11 11 11 11 11 01 11 11 01 11 01 11 10 11 11 01' - DNA double helix, Arecibo Message"
 	},
 
 	{
@@ -901,7 +911,7 @@
 	"gold" : 10,
 	"greatPersonPoints": { "Great Merchant": 3},
 	"uniques": ["[+1 Science] per [1] population [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Ecology",
+        "requiredTech": "Computers",
         "quote": "'The road of excess leads to the palace of wisdom.' - William Blake"
 	},
 
