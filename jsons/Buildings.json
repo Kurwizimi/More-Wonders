@@ -958,6 +958,17 @@
     },
 
 	{
+        "name": "Mir",
+        "isWonder": true,
+	"science" : 4,
+	"percentStatBonus": {"production": 10},
+	"greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": [ "Free [Great Scientist] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Satelites",
+        "quote": "'Everyone, red state, blue state, everyone supports space exploration' - Bill Nye"
+    },
+
+	{
         "name": "Mother Ukraine",
         "isWonder": true,
 	"culture" : 1,
