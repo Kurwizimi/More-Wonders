@@ -125,3 +125,4 @@ Classical
   - african renaissance monument by Ary Prasetyo from <a href="https://thenounproject.com/icon/african-renaissance-monument-4596213/">Noun Project</a> (CC BY 3.0)
   - statue by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/statue/" target="_blank" title="statue Icons">Noun Project</a> (CC BY 3.0)
   - motherland monument by Brand Mania from <a href="https://thenounproject.com/browse/icons/term/motherland-monument/" target="_blank" title="motherland monument Icons">Noun Project</a> (CC BY 3.0)
+  - space station by ABDUL LATIF from <a href="https://thenounproject.com/browse/icons/term/space-station/" target="_blank" title="space station Icons">Noun Project</a> (CC BY 3.0)
