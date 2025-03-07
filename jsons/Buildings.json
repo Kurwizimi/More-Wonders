@@ -857,7 +857,7 @@
         "isWonder": true,
 	"percentStatBonus": {"food": 10},
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [ "[+1 Food] from [non-{Fresh Water}] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+1 Food] from [non-[Fresh Water]] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Atomic Theory",
         "quote": "'All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?' - John Cleese"
     },
