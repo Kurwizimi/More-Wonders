@@ -101,6 +101,7 @@ Classical
 
   -Oryx by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/oryx/" target="_blank" title="Oryx Icons">Noun Project</a> (CC BY 3.0)
   - dish antenna by Vectors Market from <a href="https://thenounproject.com/browse/icons/term/dish-antenna/" target="_blank" title="dish antenna Icons">Noun Project</a> (CC BY 3.0)
+  - irrigation by Marz Gallery from <a href="https://thenounproject.com/browse/icons/term/irrigation/" target="_blank" title="irrigation Icons">Noun Project</a> (CC BY 3.0)
   - high speed train by Jason Gray from <a href="https://thenounproject.com/browse/icons/term/high-speed-train/" target="_blank" title="high speed train Icons">Noun Project</a> (CC BY 3.0)
   - London Eye by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/london-eye/" target="_blank" title="London Eye Icons">Noun Project</a> (CC BY 3.0)
   - martin luther king jr. memorial by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/martin-luther-king-jr-memorial/" target="_blank" title="martin luther king jr. memorial Icons">Noun Project</a> (CC BY 3.0)
