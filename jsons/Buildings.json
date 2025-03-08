@@ -788,6 +788,15 @@
 	},
 
 	{
+        "name": "Kansai International Airport",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Engineer": 3 },
+        "uniques": [ "Creates a [KIX Airport] improvement on a specific tile", "Must be next to [Coast]", "Provides [4] [Tourism] <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Flight",
+        "quote": "'All our sweetest hours fly fastest' - Virgil"
+    },
+
+	{
         "name": "OPEC",
         "isWonder": true,
 	"gold" : 2,
