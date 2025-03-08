@@ -91,6 +91,7 @@ Classical
   - Empire State Building by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/empire-state-building/" target="_blank" title="Empire State Building Icons">Noun Project</a> (CC BY 3.0)
   - Stairs by ARIPATUT DASUKI from <a href="https://thenounproject.com/browse/icons/term/stairs/" target="_blank" title="Stairs Icons">Noun Project</a> (CC BY 3.0)
   - Hydroelectric Energy by Kamin Ginkaew from <a href="https://thenounproject.com/browse/icons/term/hydroelectric-energy/" target="_blank" title="Hydroelectric Energy Icons">Noun Project</a> (CC BY 3.0)
+  - kansai airport by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/kansai-airport/" target="_blank" title="kansai airport Icons">Noun Project</a> (CC BY 3.0)
   - Oil by Yudhi Restu Pebriyanto from <a href="https://thenounproject.com/browse/icons/term/oil/" target="_blank" title="Oil Icons">Noun Project</a> (CC BY 3.0)
   - hollywood sign by Royyan Wijaya from <a href="https://thenounproject.com/browse/icons/term/hollywood-sign/" target="_blank" title="hollywood sign Icons">Noun Project</a> (CC BY 3.0)
   - Manama by DinosoftLabs from <a href="https://thenounproject.com/browse/icons/term/manama/" target="_blank" title="Manama Icons">Noun Project</a> (CC BY 3.0)
