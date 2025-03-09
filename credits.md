@@ -30,7 +30,7 @@ Classical
 - canyon by Cahya Kurniawan from <a href="https://thenounproject.com/browse/icons/term/canyon/" target="_blank" title="canyon Icons">Noun Project</a> (CC BY 3.0)
 - taoism by Surya Lesmana from <a href="https://thenounproject.com/browse/icons/term/taoism/" target="_blank" title="taoism Icons">Noun Project</a> (CC BY 3.0)
 
-  Medieval
+Medieval
 
   - venice by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/venice/" target="_blank" title="venice Icons">Noun Project</a> (CC BY 3.0)
   - Fort by Eskak from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
