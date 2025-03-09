@@ -753,6 +753,20 @@ ResourceIcons/Rice Grains
   orig: 89, 78
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Triangular Trade Ship
+  rotate: false
+  xy: 1974, 837
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/KIX Airport
+  rotate: false
+  xy: 1974, 901
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 UnitIcons/BRAHMA-III
   rotate: false
   xy: 4, 480
