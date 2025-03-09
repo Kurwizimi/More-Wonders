@@ -256,7 +256,7 @@ BuildingIcons/Great Mosque of Aleppo
   orig: 89, 79
   offset: 0, 0
   index: -1
-BuildingIcons/Great Sphynx
+BuildingIcons/Great Sphinx
   rotate: false
   xy: 1288, 925
   size: 90, 90
