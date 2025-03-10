@@ -98,6 +98,8 @@ Medieval
   - Manama by DinosoftLabs from <a href="https://thenounproject.com/browse/icons/term/manama/" target="_blank" title="Manama Icons">Noun Project</a> (CC BY 3.0)
   - Rockefeller Center by Celina Leung from <a href="https://thenounproject.com/browse/icons/term/rockefeller-center/" target="_blank" title="Rockefeller Center Icons">Noun Project</a> (CC BY 3.0)
   - Museum by Xinh Studio from <a href="https://thenounproject.com/browse/icons/term/museum/" target="_blank" title="Museum Icons">Noun Project</a> (CC BY 3.0)
+  - jukebox by Baswara Studio from <a href="https://thenounproject.com/browse/icons/term/jukebox/" target="_blank" title="jukebox Icons">Noun Project</a> (CC BY 3.0)
+  - Music by Jo Santos from <a href="https://thenounproject.com/browse/icons/term/music/" target="_blank" title="Music Icons">Noun Project</a> (CC BY 3.0)
 
   Atomic
 
