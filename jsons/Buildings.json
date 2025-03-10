@@ -3,6 +3,7 @@
 	{
         "name": "Abu Simbel",
         "isWonder": true,
+	"civilopediaText": [ {"text": "Abu Simbel is a set of two rock temples located i sothern Egypt, of the coast of what is now Lake Nasser. Commisioned by Ramesess II, it commemerates his victory in the Battle of Kadesh."}],
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [ "[+3 Production] from [Landmark] tiles [in all cities]", "Only availabe <if [Nobles and Merchants] is not enabled>"],
@@ -21,6 +22,7 @@
 	{
         "name": "Bananue Rice Terraces",
         "isWonder": true,
+	"civilopediaText": [ {"text": "These terraces were carved with minimal equipment over 2000 years ago, and are still currently being used. The --- rely on water from rainforests above it to feed the irrigation systems. The steps that line the terraces are believed to cover a total distance close to half of the worlds equator."}],
 	"culture" : 1,
 	"food" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
@@ -32,6 +34,7 @@
 	{
         "name": "Cheomseongdae",
         "isWonder": true,
+	"civilopediaText": [ {"text": "Cheomseongdae is an obsevatory located in Gyeongju, being the oldest known observatory in Asia. It is believed to have been ordered to be built by Queen Seondeok in order to spread the knowledge of astronomy instead of entrusting it to just one person."}],
 	"culture" : 1,
 	"greatPersonPoints": { "Great Scientist": 1 },
         "uniques": [  "[+1 Science] per [3] population [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -42,6 +45,7 @@
 	{
         "name": "Chogha Zanbil",
         "isWonder": true,
+	"civilopediaText": [ {"text": "This Ziggurat is one of the few that we know of that has been built outside of Mesopotamia, as well as being one of the largest ever made. It is dedicated to the deity Inshushinak, and was mostly desroyed when Ashurbanipal of Assyria invaded the Elamite lands."}],
 	"faith" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [  "Gain a free [Temple] [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
