@@ -844,7 +844,7 @@
 	{
         "name": "Rock 'n' Roll",
         "isWonder": true,
-	"civilopediaText": [ {"text": "These terraces were carved with minimal equipment over 2000 years ago, and are still currently being used. The --- rely on water from rainforests above it to feed the irrigation systems. The steps that line the terraces are believed to cover a total distance close to half of the worlds equator."}],
+	"civilopediaText": [ {"text": ""}],
 	"culture" : 3,
 	"food" : 3,
 	"greatPersonPoints": { "Great Artist": 1 },
