@@ -12,5 +12,10 @@
         "gold": 1,
         "resourceType": "Luxury",
     },
+ {
+        "name": "Hit Singles", 
+        "culture": 1,
+        "resourceType": "Luxury",
+    }
 
 ]
