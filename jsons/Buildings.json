@@ -841,6 +841,18 @@
         "quote": "'Don't be afraid to give up the good to go to the great' - John D. Rockefeller"
 	},
 
+	{
+        "name": "Rock 'n' Roll",
+        "isWonder": true,
+	"civilopediaText": [ {"text": "These terraces were carved with minimal equipment over 2000 years ago, and are still currently being used. The --- rely on water from rainforests above it to feed the irrigation systems. The steps that line the terraces are believed to cover a total distance close to half of the worlds equator."}],
+	"culture" : 3,
+	"food" : 3,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [  "Provides [4] [Hit Singles]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Radar",
+        "quote": "'And then she turns on that New York station, you know her life was saved by rock and roll.' - The Velvet Underground, Elvis Presley"
+    },
+
 	//Atomic Era
 
 	{
