@@ -846,7 +846,7 @@
         "isWonder": true,
 	"civilopediaText": [ {"text": ""}],
 	"culture" : 3,
-	"food" : 3,
+	"happiness" : 3,
 	"greatPersonPoints": { "Great Artist": 1 },
         "uniques": [  "Provides [4] [Hit Singles]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Radar",
