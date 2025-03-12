@@ -26,6 +26,7 @@ Classical
 - chichen itza by VM from <a href="https://thenounproject.com/browse/icons/term/chichen-itza/" target="_blank" title="chichen itza Icons">Noun Project</a> (CC BY 3.0)
 - gate of the sun by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/gate-of-the-sun/" target="_blank" title="gate of the sun Icons">Noun Project</a> (CC BY 3.0)
 - Pagoda by hanis tusiyani from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- drainage by M. Oki Orlando from <a href="https://thenounproject.com/browse/icons/term/drainage/" target="_blank" title="drainage Icons">Noun Project</a> (CC BY 3.0)
 - great wall by Dio Sugiharto from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
 - Petra by Icons Cart from <a href="https://thenounproject.com/browse/icons/term/petra/" target="_blank" title="Petra Icons">Noun Project</a> (CC BY 3.0)
 - canyon by Cahya Kurniawan from <a href="https://thenounproject.com/browse/icons/term/canyon/" target="_blank" title="canyon Icons">Noun Project</a> (CC BY 3.0)
