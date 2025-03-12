@@ -8,9 +8,10 @@
         "name": "Grand Canal",
         "uniques": ["[This Unit] heals [10] HP <upon ending a turn in a [Fresh Water] tile>"],
   },
+	
         {
-		"name": "Karez Builder",
-		"uniques": ["Can build [Karez] improvements on tiles"],
+	"name": "Karez Builder",
+	"uniques": ["Can build [Karez] improvements on tiles"],
   },
 
 
