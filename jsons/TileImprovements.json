@@ -23,6 +23,19 @@
                 "Will not be replaced by automated units"],
 	},
 
+	{
+        	"name": "Karez",
+        	"terrainsCanBeBuiltOn": ["River","Desert"],
+        	"food": 2,
+        	"production": 1,
+        	"turnsToBuild": 7,
+        	"uniques": ["[+1 Production] for each adjacent [Mountain]",
+                    "[+2 Production] for each adjacent [Oasis]",
+                    "Cannot be built on [resource] tiles",
+                    "Pillaging this improvement yields approximately [+20 Gold]",
+                    "Only available <for units with [Karez Builders]>"],
+    	},
+
 
 
 
