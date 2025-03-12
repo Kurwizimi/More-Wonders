@@ -189,6 +189,15 @@
     },
 
 	{
+        "name": "Gonabad Qanat",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["All newly-trained [worker] units [in all cities] receive the [Karez Builder] promotion", "[Worker] units gain the [Karez Builder] promotion","Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Mathematics",
+        "quote": "'The air is the most marvellous I ever was in, in any city. Mountain air, so sweet, dry and 'preserving', delicious and life-giving.' - Florence Khanum"
+    },
+
+	{
         "name": "Mada'in Saleh",
         "isWonder": true,
 	"culture" : 2,
