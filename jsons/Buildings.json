@@ -316,6 +316,17 @@
     },
 
 	{
+        "name": "Rani Ki Vav",
+        "isWonder": true,
+	"happiness" : 2,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [  "[+20]% growth [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
+        "requiredTech": "Civil Service",
+        "quote": "'Thousands have lived without love, not one without water.' - H. Auden"
+    },
+
+	{
         "name": "Shwedagon Paya",
         "isWonder": true,
 	"culture" : 1,
