@@ -236,7 +236,7 @@
 	"gold" : 4,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 2 },
-        "uniques": [  "[+2 Gold] from each Trade Route", "Connects trade routes over water", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
+        "uniques": [  "[+2 Gold] from each Trade Route", "Connects trade routes over water", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Compass",
         "quote": "'It is the city of mirrors, the city of mirages, at once solid and liquid, at once air and stone.' - Erica Jon"
     },
