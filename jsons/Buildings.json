@@ -1090,7 +1090,7 @@
         "name": "SETI",
         "isWonder": true,
 	"science" : 2,
-	"greatPersonPoints": { "Great scientist": 1},
+	"greatPersonPoints": { "Great Scientist": 1},
 	"uniques": ["[+10 Science, +10 Faith] from [Unimproved] tiles [in all cities]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Lasers",
         "quote": "'The universe is a pretty big place. If it's just us, seems like an awful waste of space' - Carl Sagan"
