@@ -653,6 +653,15 @@
     },
 
 	{
+        "name": "Mourisco Pavillion",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": ["[+5 Food] from each Trade Route",  "[+2 Food] from every specialist <in cities with at least [10] [Population]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Scientific Theory",
+        "quote": "'Healing is a matter of time, but it is sometimes also a matter of opportunity' - Hippocrates"
+    },
+
+	{
         "name": "Pena National Palace",
         "isWonder": true,
 	"culture" : 2,
