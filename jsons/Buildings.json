@@ -212,7 +212,7 @@
         "isWonder": true,
 	"faith" : 1,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": [ "[+2 Culture] from [Hill] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
+        "uniques": [ "[+2 Culture] from [Hill] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Iron Working",
         "quote": "'Living at risk is jumping off the cliff and building your wings on the way down' - Ray Bradbury"
     },
