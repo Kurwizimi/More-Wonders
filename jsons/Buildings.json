@@ -15,7 +15,7 @@
         		"isWonder": true,
 			"culture" : 2,
 			"greatPersonPoints": { "Great Engineer": 1 },
-        		"uniques": [ "[+3 Production] from every [Great Work of Writing]","[+3 Production] from every [Great Work of Art]","[+3 Production] from every [Great Work of Art]","Only Availabe <if [Nobles and Merchants] is enabled>","Provides [2] [Tourism] <after discovering [Flight]>"],
+        		"uniques": [ "[+3 Production] from every [Great Work of Writing]","[+3 Production] from every [Great Work of Art]","[+3 Production] from every [Great Work of Art]","Only availabe <if [Nobles and Merchants] is enabled>","Provides [2] [Tourism] <after discovering [Flight]>"],
         		"requiredTech": "Writing",
         		"quote": "'The heads of Rameses II at Abu Simbel and, for that matter, the skyscrapers of New York, have another idea of man.' - John Leonard"
     		},
