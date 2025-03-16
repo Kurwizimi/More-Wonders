@@ -349,6 +349,15 @@
     },
 
 	{
+        "name": "Thermae Antoninianae",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [ "All newly-trained [Worker] units [in all cities] receive the [Great Aqueduct] promotion","[Worker] units gain the [Great Aqueduct] promotion",, "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Machinery",
+        "quote": "'Every man has a right to a Saturday night bath.' - Lyndon B. Johnson"
+    },
+
+	{
         "name": "Tōdai-ji",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
