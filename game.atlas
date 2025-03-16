@@ -825,7 +825,7 @@ ResourceIcons/Rice Grains
   index: -1
 TileSets/AbsoluteUnits/Units/Triangular Trade Ship
   rotate: false
-  xy: 1121, 505
+  xy: 1193, 485
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -835,6 +835,13 @@ TileSets/HexaRealm/Tiles/KIX Airport
   xy: 1121, 569
   size: 64, 60
   orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Karez
+  rotate: false
+  xy: 1121, 505
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/BRAHMA-III
