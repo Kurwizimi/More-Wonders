@@ -44,6 +44,8 @@ Medieval
   - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
   - swayambhunath stupa by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/swayambhunath-stupa/" target="_blank" title="swayambhunath stupa Icons">Noun Project</a> (CC BY 3.0)
   - old fort of zanzibar by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/old-fort-of-zanzibar/" target="_blank" title="old fort of zanzibar Icons">Noun Project</a> (CC BY 3.0)
+  - Fountain by Paulo Volkova from <a href="https://thenounproject.com/icon/fountain-3837/" target="_blank" title="Fountain">Noun Project</a>
+  - Aqueduct by Arthur Shlain from <a href="https://thenounproject.com/browse/icons/term/aqueduct/" target="_blank" title="Aqueduct Icons">Noun Project</a> (CC BY 3.0)
   - Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
   - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
   - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
