@@ -36,6 +36,18 @@
                     "Only available <for units with [Karez Builder]>"],
     	},
 
+	{
+        	"name": "Aqua Thermae",
+        	"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+        	"happiness": 1,
+        	"turnsToBuild": 7,
+        	"uniques": ["[+1 Food] for each adjacent [Aqua Thermae]",
+                    "[+1 Food] for each adjacent [Mountain]",
+                    "Cannot be built on [resource] tiles",
+                    "Pillaging this improvement yields approximately [+30 Food]",
+                    "Only available <for units with [Grand Aqueduct]>"],
+    	},
+
 
 
 
