@@ -1021,6 +1021,16 @@
     },
 
 	{
+        "name": "Tomb of the Unknown Soldier",
+        "isWonder": true,
+	"happiness" : 2,
+	"greatPersonPoints": { "Great General": 1 },
+        "uniques": [ "All newly-trained [Military] units [in this city] receive the [Lest We Forget] promotion", "New [Military] units start with [15] XP [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Combined Arms",
+        "quote": "'The old Lie: Dulce et decorum est, pro patria mori' - Wilfred Owen"
+    },
+
+	{
         "name": "White Sands Missile Range",
         "isWonder": true,
 	"gold" : 10,
