@@ -19,6 +19,11 @@
 	"uniques": ["Can build [Aqua Thermae] improvements on tiles"],
   },
 
+	{
+        "name": "Lest We Forget",
+        "uniques": ["[-20]% Strength <when fighting in [Foreign Land] tiles>", "[+50]% Strength <when fighting in [Friendly Land] tiles>"],
+  },
+
 
 
 
