@@ -117,6 +117,7 @@ Medieval
   - millau viaduct by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/millau-viaduct/" target="_blank" title="millau viaduct Icons">Noun Project</a> (CC BY 3.0)
   - sky tower by IconPai from <a href="https://thenounproject.com/browse/icons/term/sky-tower/" target="_blank" title="sky tower Icons">Noun Project</a> (CC BY 3.0)
   - Taipei 101 by Nikita Ivanov from <a href="https://thenounproject.com/browse/icons/term/taipei-101/" target="_blank" title="Taipei 101 Icons">Noun Project</a> (CC BY 3.0)
+  - poppy by Nicole Macdonald from <a href="https://thenounproject.com/browse/icons/term/poppy/" target="_blank" title="poppy Icons">Noun Project</a> (CC BY 3.0)
   - Rocket by Rohan Gupta from <a href="https://thenounproject.com/browse/icons/term/rocket/" target="_blank" title="Rocket Icons">Noun Project</a> (CC BY 3.0)
 
   Information
