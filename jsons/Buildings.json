@@ -22,7 +22,7 @@
 	{
         "name": "Bananue Rice Terraces",
         "isWonder": true,
-	"civilopediaText": [ {"text": "These terraces were carved with minimal equipment over 2000 years ago, and are still currently being used. The --- rely on water from rainforests above it to feed the irrigation systems. The steps that line the terraces are believed to cover a total distance close to half of the worlds equator."}],
+	"civilopediaText": [ {"text": "These terraces were carved with minimal equipment over 2000 years ago, and are still currently being used. The Bananue Rice Terraces rely on water from rainforests above it to feed the irrigation systems. The steps that line the terraces are believed to cover a total distance close to half of the worlds equator."}],
 	"culture" : 1,
 	"food" : 4,
 	"greatPersonPoints": { "Great Engineer": 1 },
