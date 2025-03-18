@@ -971,6 +971,16 @@
 	},
 
 	{
+        "name": "Baháʼí Lotus Temple",
+        "isWonder": true,
+	"happiness" : 2,
+	"greatPersonPoints": { "Great Prophet": 3},
+	"uniques": ["[+1 Culture, +1 Faith] per [3] population <in cities not following a [your] religion>", "Only available <in cities not following a [your] religion>", "Provides [3] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Pharmaceuticals",
+        "quote": "'Be a breath of life to the body of humankind, a dew to the soil of the human heart, and a fruit upon the tree of humility.' - Bahahullah"
+	},
+
+	{
         "name": "Martin Luther King Memorial",
         "isWonder": true,
 	"happiness" : 5,
