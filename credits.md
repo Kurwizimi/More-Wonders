@@ -113,6 +113,7 @@ Medieval
   - irrigation by Marz Gallery from <a href="https://thenounproject.com/browse/icons/term/irrigation/" target="_blank" title="irrigation Icons">Noun Project</a> (CC BY 3.0)
   - high speed train by Jason Gray from <a href="https://thenounproject.com/browse/icons/term/high-speed-train/" target="_blank" title="high speed train Icons">Noun Project</a> (CC BY 3.0)
   - London Eye by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/london-eye/" target="_blank" title="London Eye Icons">Noun Project</a> (CC BY 3.0)
+  - lotus temple by IconPai from <a href="https://thenounproject.com/browse/icons/term/lotus-temple/" target="_blank" title="lotus temple Icons">Noun Project</a> (CC BY 3.0)
   - martin luther king jr. memorial by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/martin-luther-king-jr-memorial/" target="_blank" title="martin luther king jr. memorial Icons">Noun Project</a> (CC BY 3.0)
   - millau viaduct by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/millau-viaduct/" target="_blank" title="millau viaduct Icons">Noun Project</a> (CC BY 3.0)
   - sky tower by IconPai from <a href="https://thenounproject.com/browse/icons/term/sky-tower/" target="_blank" title="sky tower Icons">Noun Project</a> (CC BY 3.0)
