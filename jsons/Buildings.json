@@ -370,7 +370,7 @@
         "isWonder": true,
 	"science" : 1,
 	"greatPersonPoints": { "Great Scientist": 3 },
-        "uniques": [ "[+3 Science, +2 Gold] from each Trade Route", "Gain a free [University] [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+3 Science, +2 Gold] from each Trade Route", "Gain a free [University] [in this city]", "Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Guilds",
         "quote": "'Upon the education of the people of this country the fate of this country depends' - Benjamin Disraeli"
     },
