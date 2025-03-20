@@ -764,6 +764,16 @@
 	// Modern Era
 
 	{
+        "name": "Anıtkabir",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great General": 2 },
+	"uniques": [ "Gain [500] [Science] <upon expending a [Great Person] unit>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Ballistics",
+        "quote": "'If one day, my words are against science, choose science' - Mustafa Kemal Atatürk"
+	},
+	
+	{
         "name": "Brooklyn Bridge",
         "isWonder": true,
 	"culture" : 2,
