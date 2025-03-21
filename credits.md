@@ -19,7 +19,8 @@ Ancient Era
 
 Classical
 
-- Buddha by SONG TAEJIN from <a href="https://thenounproject.com/browse/icons/term/buddha/" target="_blank" title="Buddha Icons">Noun Project</a> (CC BY 3.0)
+- leptis magna by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/leptis-magna/" target="_blank" title="leptis magna Icons">Noun Project</a> (CC BY 3.0)
+-  Buddha by SONG TAEJIN from <a href="https://thenounproject.com/browse/icons/term/buddha/" target="_blank" title="Buddha Icons">Noun Project</a> (CC BY 3.0)
 - cairo citadel by Icongeek26 from <a href="https://thenounproject.com/browse/icons/term/cairo-citadel/" target="_blank" title="cairo citadel Icons">Noun Project</a> (CC BY 3.0)
 - castel sant angelo by Brickclay from <a href="https://thenounproject.com/browse/icons/term/castel-sant-angelo/" target="_blank" title="castel sant angelo Icons">Noun Project</a> (CC BY 3.0)
 - Boat by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/boat/" target="_blank" title="Boat Icons">Noun Project</a> (CC BY 3.0)
