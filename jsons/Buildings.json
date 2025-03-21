@@ -116,6 +116,16 @@
 	// Classical Era
 
 	{
+        "name": "Basilica de Leptis Magna",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [  "[+100]% Production when constructing [Settler] units [in this city]", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Drama and Poetry",
+        "quote": "'Be harmonious, enrich the soldiers, scorn all others' - Septimius Severus"
+    },
+	
+	{
         "name": "Buddhas of Bamiyan",
         "isWonder": true,
 	"culture" : 3,
@@ -129,7 +139,7 @@
         "name": "Cairo Citadel",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["[+20]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+20]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Engineering",
         "quote": "'No one can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
     },
