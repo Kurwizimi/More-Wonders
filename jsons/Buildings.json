@@ -782,6 +782,16 @@
         "requiredTech": "Ballistics",
         "quote": "'If one day, my words are against science, choose science' - Mustafa Kemal Atatürk"
 	},
+
+	{
+        "name": "Bletchley Park",
+        "isWonder": true,
+	"percentStatBonus": {"science": 10},
+	"greatPersonPoints": { "Great Scientist": 2},
+	"uniques": ["Promotes all spies [1] time(s)","[+20]% spy effectiveness [in all cities]", "Only available <when at war>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Radio",
+        "quote": "'Espionage and counterespionage go together like horse and carriage' - Charles McCarry"
+	},
 	
 	{
         "name": "Brooklyn Bridge",
