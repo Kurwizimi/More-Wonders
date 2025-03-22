@@ -35,25 +35,25 @@ Classical
 
 Medieval
 
-  - venice by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/venice/" target="_blank" title="venice Icons">Noun Project</a> (CC BY 3.0)
-  - Fort by Eskak from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
-  - Cross by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/cross/" target="_blank" title="Cross Icons">Noun Project</a> (CC BY 3.0)
-  - Minaret by iconfield from <a href="https://thenounproject.com/browse/icons/term/minaret/" target="_blank" title="Minaret Icons">Noun Project</a> (CC BY 3.0)
-  - drum tower by Brickclay from <a href="https://thenounproject.com/browse/icons/term/drum-tower/" target="_blank" title="drum tower Icons">Noun Project</a> (CC BY 3.0)
-  - giant buddha by Foxyard Studio from <a href="https://thenounproject.com/browse/icons/term/giant-buddha/" target="_blank" title="giant buddha Icons">Noun Project</a> (CC BY 3.0)
-  - turtle by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/turtle/" target="_blank" title="turtle Icons">Noun Project</a> (CC BY 3.0)
-  - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
-  - swayambhunath stupa by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/swayambhunath-stupa/" target="_blank" title="swayambhunath stupa Icons">Noun Project</a> (CC BY 3.0)
-  - old fort of zanzibar by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/old-fort-of-zanzibar/" target="_blank" title="old fort of zanzibar Icons">Noun Project</a> (CC BY 3.0)
-  - Fountain by Paulo Volkova from <a href="https://thenounproject.com/icon/fountain-3837/" target="_blank" title="Fountain">Noun Project</a>
-  - Aqueduct by Arthur Shlain from <a href="https://thenounproject.com/browse/icons/term/aqueduct/" target="_blank" title="Aqueduct Icons">Noun Project</a> (CC BY 3.0)
-  - Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
-  - Timbuktu by Dutchken from <a href="https://thenounproject.com/browse/icons/term/timbuktu/" target="_blank" title="Timbuktu Icons">Noun Project</a> (CC BY 3.0)
-  - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
-  - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
-  - Samarra by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/samarra/" target="_blank" title="Samarra Icons">Noun Project</a> (CC BY 3.0)
+- venice by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/venice/" target="_blank" title="venice Icons">Noun Project</a> (CC BY 3.0)
+- Fort by Eskak from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
+- Cross by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/cross/" target="_blank" title="Cross Icons">Noun Project</a> (CC BY 3.0)
+- Minaret by iconfield from <a href="https://thenounproject.com/browse/icons/term/minaret/" target="_blank" title="Minaret Icons">Noun Project</a> (CC BY 3.0)
+- drum tower by Brickclay from <a href="https://thenounproject.com/browse/icons/term/drum-tower/" target="_blank" title="drum tower Icons">Noun Project</a> (CC BY 3.0)
+- giant buddha by Foxyard Studio from <a href="https://thenounproject.com/browse/icons/term/giant-buddha/" target="_blank" title="giant buddha Icons">Noun Project</a> (CC BY 3.0)
+- turtle by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/turtle/" target="_blank" title="turtle Icons">Noun Project</a> (CC BY 3.0)
+- indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
+- swayambhunath stupa by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/swayambhunath-stupa/" target="_blank" title="swayambhunath stupa Icons">Noun Project</a> (CC BY 3.0)
+- old fort of zanzibar by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/old-fort-of-zanzibar/" target="_blank" title="old fort of zanzibar Icons">Noun Project</a> (CC BY 3.0)
+- Fountain by Paulo Volkova from <a href="https://thenounproject.com/icon/fountain-3837/" target="_blank" title="Fountain">Noun Project</a>
+- Aqueduct by Arthur Shlain from <a href="https://thenounproject.com/browse/icons/term/aqueduct/" target="_blank" title="Aqueduct Icons">Noun Project</a> (CC BY 3.0)
+- Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- Timbuktu by Dutchken from <a href="https://thenounproject.com/browse/icons/term/timbuktu/" target="_blank" title="Timbuktu Icons">Noun Project</a> (CC BY 3.0)
+- Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
+- yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
+- Samarra by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/samarra/" target="_blank" title="Samarra Icons">Noun Project</a> (CC BY 3.0)
 
-  Renaissance
+Renaissance
 
   - kasbah by Grégory Montigny from <a href="https://thenounproject.com/browse/icons/term/kasbah/" target="_blank" title="kasbah Icons">Noun Project</a> (CC BY 3.0)
   - Thailand by nakals from <a href="https://thenounproject.com/browse/icons/term/thailand/" target="_blank" title="Thailand Icons">Noun Project</a> (CC BY 3.0)
@@ -93,8 +93,9 @@ Medieval
 
   Modern
 
-  -ataturk mausoleum by Brickclay from <a href="https://thenounproject.com/browse/icons/term/ataturk-mausoleum/" target="_blank" title="ataturk mausoleum Icons">Noun Project</a> (CC BY 3.0)
-  -  bridge by Chris McDonnell from <a href="https://thenounproject.com/browse/icons/term/bridge/" target="_blank" title="bridge Icons">Noun Project</a> (CC BY 3.0)
+  - ataturk mausoleum by Brickclay from <a href="https://thenounproject.com/browse/icons/term/ataturk-mausoleum/" target="_blank" title="ataturk mausoleum Icons">Noun Project</a> (CC BY 3.0)
+  - Punched Card by Puspito from <a href="https://thenounproject.com/browse/icons/term/punched-card/" target="_blank" title="Punched Card Icons">Noun Project</a> (CC BY 3.0)
+  - bridge by Chris McDonnell from <a href="https://thenounproject.com/browse/icons/term/bridge/" target="_blank" title="bridge Icons">Noun Project</a> (CC BY 3.0)
   - steam train by Abu Ibrahim Icon from <a href="https://thenounproject.com/browse/icons/term/steam-train/" target="_blank" title="steam train Icons">Noun Project</a> (CC BY 3.0)
   - Dam by Win Ningsih from <a href="https://thenounproject.com/browse/icons/term/dam/" target="_blank" title="Dam Icons">Noun Project</a> (CC BY 3.0)
   - Empire State Building by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/empire-state-building/" target="_blank" title="Empire State Building Icons">Noun Project</a> (CC BY 3.0)
@@ -111,7 +112,7 @@ Medieval
 
   Atomic
 
-  -Oryx by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/oryx/" target="_blank" title="Oryx Icons">Noun Project</a> (CC BY 3.0)
+  - Oryx by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/oryx/" target="_blank" title="Oryx Icons">Noun Project</a> (CC BY 3.0)
   - dish antenna by Vectors Market from <a href="https://thenounproject.com/browse/icons/term/dish-antenna/" target="_blank" title="dish antenna Icons">Noun Project</a> (CC BY 3.0)
   - irrigation by Marz Gallery from <a href="https://thenounproject.com/browse/icons/term/irrigation/" target="_blank" title="irrigation Icons">Noun Project</a> (CC BY 3.0)
   - high speed train by Jason Gray from <a href="https://thenounproject.com/browse/icons/term/high-speed-train/" target="_blank" title="high speed train Icons">Noun Project</a> (CC BY 3.0)
