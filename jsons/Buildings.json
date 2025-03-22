@@ -1117,7 +1117,7 @@
 	"science" : 4,
 	"percentStatBonus": {"production": 10},
 	"greatPersonPoints": { "Great Scientist": 1 },
-        "uniques": [ "Free [Great Scientist] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Mir]>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "Free [Great Scientist] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Skylab]>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Satellites",
         "quote": "'Everyone, red state, blue state, everyone supports space exploration' - Bill Nye"
     },
