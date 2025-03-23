@@ -423,7 +423,7 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Merchant": 1 },
-        "uniques": ["[+1 Gold] from [Resource] tiles [in this city]","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+1 Gold] from [resource] tiles [in this city]","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Banking",
         "quote": "'You can't be unhappy in the middle of a big, beautiful river' - Jim Harrison"
     },
@@ -1093,7 +1093,7 @@
         "isWonder": true,
 	"gold" : 20,
 	"faith" : 5,
-	"uniques": ["[+3 Culture] from [Resource] tiles [in this city]", "Must have an owned [Holy site] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"uniques": ["[+3 Culture] from [resource] tiles [in this city]", "Must have an owned [Holy site] within [3] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Globalization",
         "quote": "'A good word is like a good tree whose root is firmly fixed and whose top is in the sky' - Qu'ran"
 	},
