@@ -8,6 +8,7 @@ Resources
 Ancient Era
 
 - Abu Simbel by Laymik from <a href="https://thenounproject.com/browse/icons/term/abu-simbel/" target="_blank" title="Abu Simbel Icons">Noun Project</a> (CC BY 3.0)
+- Inukshuk by Raiyan Kamal from <a href="https://thenounproject.com/browse/icons/term/inukshuk/" target="_blank" title="Inukshuk Icons">Noun Project</a> (CC BY 3.0)
 - paddy field by Creative Mania from <a href="https://thenounproject.com/browse/icons/term/paddy-field/" target="_blank" title="paddy field Icons">Noun Project</a> (CC BY 3.0)
 - observatory by 1516 from <a href="https://thenounproject.com/browse/icons/term/observatory/" target="_blank" title="observatory Icons">Noun Project</a> (CC BY 3.0)
 - ziggurat of ur by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/ziggurat-of-ur/" target="_blank" title="ziggurat of ur Icons">Noun Project</a> (CC BY 3.0)
