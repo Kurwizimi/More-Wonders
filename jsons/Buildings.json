@@ -1041,12 +1041,22 @@
 	{
         "name": "Millau Viaduct",
         "isWonder": true,
-	"culture" : 2,
+	"culture" : 1,
 	"greatPersonPoints": { "Great Engineer": 2},
 	"uniques": ["[+2] Movement <for [Land] units>","Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Ecology",
         "quote": "'The stars in the heavens sing a music, if only we had ears to hear.' - Pythagoras"
 	},
+
+	{
+        "name": "Monas Monument",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great General": 2 },
+        "uniques": [ "[+1 Happiness, +4 Culture] from every [Monument]", "[+5 Culture] in cities on [Coastal] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Nuclear Fission",
+        "quote": "'I hate imperialism. I detest colonialism. And I fear the consequences of their last bitter struggle for life.' - Sukarno"
+    },
 
 	{
         "name": "Sky Tower",
@@ -1056,6 +1066,16 @@
         "requiredTech": "Ecology",
         "quote": "'Without rain there can be no rainbow.' - Maori Proverb"
 	},
+
+	{
+        "name": "Statue of Unity",
+        "isWonder": true,
+	"culture" : 2,
+	"greatPersonPoints": { "Great Engineer": 3 },
+        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]",  "Gain a free [Operation Patel-Gandhi] [in this city] <hidden from users>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Nuclear Fission",
+        "quote": "'India is the cradle of human race, birthplace of human speech, mother of history, the grandmother of legend, & great grand mother of tradition' - Mark Twain"
+    },
 
 	{
         "name": "Taipei 101",
@@ -1201,17 +1221,6 @@
         "uniques": [ "Free [Great Engineer] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Mir]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Satellites",
         "quote": "'An astronaut cannot be suspended in space and not have God in his mind and his heart.' - Yuri Gagarin"
-    },
-
-
-	{
-        "name": "Statue of Unity",
-        "isWonder": true,
-	"culture" : 2,
-	"greatPersonPoints": { "Great Engineer": 3 },
-        "uniques": [ "[+10 Faith, +4 Culture] from [Landmark] tiles [in all cities]",  "Gain a free [Operation Patel-Gandhi] [in this city] <hidden from users>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Nuclear Fission",
-        "quote": "'India is the cradle of human race, birthplace of human speech, mother of history, the grandmother of legend, & great grand mother of tradition' - Mark Twain"
     },
 
 	{
