@@ -84,6 +84,7 @@ Renaissance
   - Democracy monument by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/democracy-monument/" target="_blank" title="Democracy monument Icons">Noun Project</a> (CC BY 3.0)
   - Tripoli by Sergey Primirenkov from <a href="https://thenounproject.com/browse/icons/term/tripoli/" target="_blank" title="Tripoli Icons">Noun Project</a> (CC BY 3.0)
   - Mount Rushmore by Paul Jessop from <a href="https://thenounproject.com/browse/icons/term/mount-rushmore/" target="_blank" title="Mount Rushmore Icons">Noun Project</a> (CC BY 3.0)
+  - Parliament by Alexander Skowalsky from <a href="https://thenounproject.com/browse/icons/term/parliament/" target="_blank" title="Parliament Icons">Noun Project</a> (CC BY 3.0)
   - School by The Icon Z from <a href="https://thenounproject.com/browse/icons/term/school/" target="_blank" title="School Icons">Noun Project</a> (CC BY 3.0)
   - Sagrada Familia by Nikita Ivanov from <a href="https://thenounproject.com/browse/icons/term/sagrada-familia/" target="_blank" title="Sagrada Familia Icons">Noun Project</a> (CC BY 3.0)
   - Cairo tower by Tokka Elkholy from <a href="https://thenounproject.com/browse/icons/term/cairo-tower/" target="_blank" title="Cairo tower Icons">Noun Project</a> (CC BY 3.0)
