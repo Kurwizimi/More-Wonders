@@ -136,6 +136,7 @@ Renaissance
 
   - Big Ben by Marta M. Soldevilla from <a href="https://thenounproject.com/browse/icons/term/big-ben/" target="_blank" title="Big Ben Icons">Noun Project</a> (CC BY 3.0)
   - Oriental Pearl Tower Shanghai by mikicon from <a href="https://thenounproject.com/browse/icons/term/oriental-pearl-tower-shanghai/" target="_blank" title="Oriental Pearl Tower Shanghai Icons">Noun Project</a> (CC BY 3.0)
+  - iss by Léa Lortal from <a href="https://thenounproject.com/browse/icons/term/iss/" target="_blank" title="iss Icons">Noun Project</a> (CC BY 3.0)
   - Dubai by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/dubai/" target="_blank" title="Dubai Icons">Noun Project</a> (CC BY 3.0)
   - Petronas Towers by Lazar Nikolic from <a href="https://thenounproject.com/browse/icons/term/petronas-towers/" target="_blank" title="Petronas Towers Icons">Noun Project</a> (CC BY 3.0)
   - Shanghai Tower by Franco Marino Cagnina from <a href="https://thenounproject.com/browse/icons/term/shanghai-tower/" target="_blank" title="Shanghai Tower Icons">Noun Project</a> (CC BY 3.0)
