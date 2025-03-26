@@ -1150,12 +1150,25 @@
     },
 
 	{
+        "name": "ISS",
+        "isWonder": true,
+	"science" : 3,
+	"gold" : 3,
+	"percentStatBonus": {"culture": 20},
+	"greatPersonPoints": { "Great Merchant": 3 },
+	"greatPersonPoints": { "Great Artist": 3 },
+        "uniques": [  "[+2 Science] from [Great Improvement] tiles [in all cities]", "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Mir]>","Only available <in cities without a [Skylab]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Globalization",
+        "quote": "'In space, we're all people from Earth' - Sunita Williams"
+    },
+
+	{
         "name": "Mir",
         "isWonder": true,
 	"science" : 4,
 	"percentStatBonus": {"production": 10},
-	"greatPersonPoints": { "Great Scientist": 1 },
-        "uniques": [ "Free [Great Scientist] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Skylab]>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": [ "Free [Great Scientist] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Skylab]>","Only available <in cities without a [ISS]>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Satellites",
         "quote": "'Everyone, red state, blue state, everyone supports space exploration' - Bill Nye"
     },
@@ -1197,7 +1210,7 @@
 	"faith" : 1,
 	"greatPersonPoints": { "Great Merchant": 1},
 	"uniques": ["Free Great Person", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Globalization",
+        "requiredTech": "Robotics",
         "quote": "'Like most animals, we're wired to associate height with power.' - Helen Fisher"
 	},
 
@@ -1228,7 +1241,7 @@
 	"science" : 4,
 	"percentStatBonus": {"science": 10},
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": [ "Free [Great Engineer] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Mir]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "Free [Great Engineer] appears",  "[+50]% Production when constructing [Spaceship part] units [in this city]", "Only available <in cities without a [Mir]>", "Only available <in cities without a [ISS]>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Satellites",
         "quote": "'An astronaut cannot be suspended in space and not have God in his mind and his heart.' - Yuri Gagarin"
     },
