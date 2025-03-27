@@ -201,21 +201,21 @@
     },
 
 	{
-        "name": "Hōryū-ji",
-        "isWonder": true,
-	"faith" : 8,
-	"uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Philosophy",
-        "quote": "'...if rulers and bureaucrats believe they are the owners rather than the servants of the law, corruption will follow.' - Prince Shōtoku"
-    },
-
-	{
         "name": "Gonabad Qanat",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["All newly-trained [worker] units [in all cities] receive the [Karez Builder] promotion", "[Worker] units gain the [Karez Builder] promotion","Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Mathematics",
         "quote": "'The air is the most marvellous I ever was in, in any city. Mountain air, so sweet, dry and 'preserving', delicious and life-giving.' - Florence Khanum"
+    },
+
+	{
+        "name": "Hōryū-ji",
+        "isWonder": true,
+	"faith" : 8,
+	"uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Philosophy",
+        "quote": "'...if rulers and bureaucrats believe they are the owners rather than the servants of the law, corruption will follow.' - Prince Shōtoku"
     },
 
 	{
@@ -226,6 +226,16 @@
         "uniques": [ "[+1 Culture] from [Desert] tiles [in this city]","[+1 Gold, +2 Production] from [Oasis] tiles [in this city]", "Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
         "requiredTech": "Engineering",
         "quote": "'Let me live in my house by the side of the road,Where the race of men go by; \nThey are good, they are bad; they are weak, they are strong. Wise, foolish.; \n—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? \nLet me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
+    },
+
+	{
+        "name": "Naqsh-e Rostam",
+        "isWonder": true,
+	"faith" : 1,
+	"greatPersonPoints": { "Great General": 2 },
+        "uniques": ["All newly-trained [Military] units [in this city] receive the [Flame of Zoroaster] promotion", "Empire enters golden age", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Horseback Riding",
+        "quote": "'A great god is Ahura Mazda, who created this earth, who created yonder sky, who created man, who created happiness for man, who made Darius king, one king of many, one lord of many.' - Inscription on the tomb of Darius I"
     },
 
 	{
