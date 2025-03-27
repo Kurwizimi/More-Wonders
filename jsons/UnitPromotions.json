@@ -24,6 +24,11 @@
         "uniques": ["[-20]% Strength <when fighting in [Foreign Land] tiles>", "[+50]% Strength <when fighting in [Friendly Land] tiles>"],
   },
 
+	{
+        "name": "Flame of Zoroaster",
+        "uniques": ["[+10]% Strength <vs [Wounded] units>"],
+  },
+
 
 
 
