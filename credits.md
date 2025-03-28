@@ -63,6 +63,7 @@ Renaissance
   - kinkakuji by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/kinkakuji/" target="_blank" title="kinkakuji Icons">Noun Project</a> (CC BY 3.0)
   - aztec by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/aztec/" target="_blank" title="aztec Icons">Noun Project</a> (CC BY 3.0)
   - Elmina Castle by usubaliev from <a href="https://thenounproject.com/browse/icons/term/elmina-castle/" target="_blank" title="Elmina Castle Icons">Noun Project</a> (CC BY 3.0)
+  - humayun tomb by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/humayun-tomb/" target="_blank" title="humayun tomb Icons">Noun Project</a> (CC BY 3.0)
   - triangular by MBR from <a href="https://thenounproject.com/browse/icons/term/triangular/" target="_blank" title="triangular Icons">Noun Project</a> (CC BY 3.0)
   - Castle by Kesya Sams from <a href="https://thenounproject.com/browse/icons/term/castle/" target="_blank" title="Castle Icons">Noun Project</a> (CC BY 3.0)
   - Mosque by Jojoid from <a href="https://thenounproject.com/browse/icons/term/mosque/" target="_blank" title="Mosque Icons">Noun Project</a> (CC BY 3.0)
