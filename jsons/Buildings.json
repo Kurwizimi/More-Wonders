@@ -510,6 +510,17 @@
         "quote": "'You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth' - Montezuma II"
     },
 
+	{
+        "name": "Tomb of Humayun",
+        "isWonder": true,
+	"faith" : 2,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["Gain a free [Garden] [in this city]", "[+3 Faith] from Trade Routes", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Acoustics",
+        "quote": "'His name meant 'the Lucky', there is no king in the history to be named as wrong as Humayun.' - Stanley Lane-Poole"
+    },
+
 
 	{
         "name": "Gripsholm Castle",
