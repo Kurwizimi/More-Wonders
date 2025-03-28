@@ -55,7 +55,7 @@ BuildingIcons/Arecibo Observatory
   index: -1
 BuildingIcons/Avenue Habib Bourguiba
   rotate: false
-  xy: 1614, 388
+  xy: 1712, 381
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
@@ -97,7 +97,7 @@ BuildingIcons/Basilica de Leptis Magna
   index: -1
 BuildingIcons/Bletchley Park
   rotate: false
-  xy: 1711, 350
+  xy: 1809, 355
   size: 89, 94
   orig: 89, 94
   offset: 0, 0
@@ -153,14 +153,14 @@ BuildingIcons/Castel Sant' Angelo
   index: -1
 BuildingIcons/Catedral de Sal
   rotate: false
-  xy: 1810, 369
+  xy: 1712, 289
   size: 89, 84
   orig: 89, 84
   offset: 0, 0
   index: -1
 BuildingIcons/Changdeokgung
   rotate: false
-  xy: 1808, 279
+  xy: 1809, 265
   size: 89, 82
   orig: 89, 82
   offset: 0, 0
@@ -760,16 +760,23 @@ BuildingIcons/Tokyo Sky Tree
   orig: 90, 88
   offset: 0, 0
   index: -1
-BuildingIcons/Tomb of the Unknown Soldier
+BuildingIcons/Tomb of Humayun
   rotate: false
   xy: 1516, 552
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+BuildingIcons/Tomb of the Unknown Soldier
+  rotate: false
+  xy: 1418, 550
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 BuildingIcons/Topkapı Palace
   rotate: false
-  xy: 1418, 560
+  xy: 1712, 559
   size: 90, 80
   orig: 90, 80
   offset: 0, 0
@@ -783,28 +790,28 @@ BuildingIcons/Torre del Oro
   index: -1
 BuildingIcons/Trafalgar Square
   rotate: false
-  xy: 1712, 550
+  xy: 1810, 555
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
   index: -1
 BuildingIcons/Turing Complete AI
   rotate: false
-  xy: 1908, 559
+  xy: 1614, 472
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/Tōdai-ji
   rotate: false
-  xy: 1614, 474
+  xy: 1712, 467
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
   index: -1
 BuildingIcons/University of Sankore
   rotate: false
-  xy: 1712, 452
+  xy: 1810, 457
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -818,7 +825,7 @@ BuildingIcons/Wat Arun
   index: -1
 BuildingIcons/Wat Pho
   rotate: false
-  xy: 1908, 467
+  xy: 1516, 460
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
@@ -846,14 +853,14 @@ BuildingIcons/White Sands Missile Range
   index: -1
 BuildingIcons/Xuankong Temple
   rotate: false
-  xy: 1418, 471
+  xy: 1418, 461
   size: 90, 81
   orig: 90, 81
   offset: 0, 0
   index: -1
 BuildingIcons/Yellow Crane Tower
   rotate: false
-  xy: 1516, 460
+  xy: 1614, 380
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
@@ -881,14 +888,14 @@ BuildingIcons/Kansai International Airport
   index: -1
 ImprovementIcons/Triangular Trade Route
   rotate: false
-  xy: 1810, 555
+  xy: 1908, 556
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
   index: -1
 UnitIcons/Triangular Trade Ship
   rotate: false
-  xy: 1810, 555
+  xy: 1908, 556
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
@@ -951,7 +958,7 @@ UnitIcons/SHIVA-II
   index: -1
 UnitIcons/VISHNU-I
   rotate: false
-  xy: 1810, 461
+  xy: 1908, 462
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
