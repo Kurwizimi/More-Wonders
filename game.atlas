@@ -816,6 +816,13 @@ BuildingIcons/University of Sankore
   orig: 90, 90
   offset: 0, 0
   index: -1
+BuildingIcons/Uraniborg
+  rotate: false
+  xy: 1908, 458
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 BuildingIcons/Wat Arun
   rotate: false
   xy: 493, 113
@@ -825,35 +832,35 @@ BuildingIcons/Wat Arun
   index: -1
 BuildingIcons/Wat Pho
   rotate: false
-  xy: 1516, 460
+  xy: 1124, 563
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
   index: -1
 BuildingIcons/Wat Phra Kaew
   rotate: false
-  xy: 1124, 553
+  xy: 1222, 548
   size: 90, 94
   orig: 90, 94
   offset: 0, 0
   index: -1
 BuildingIcons/Westminster Abbey
   rotate: false
-  xy: 1222, 556
+  xy: 1320, 549
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/White Sands Missile Range
   rotate: false
-  xy: 1320, 549
+  xy: 1418, 456
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/Xuankong Temple
   rotate: false
-  xy: 1418, 461
+  xy: 1320, 460
   size: 90, 81
   orig: 90, 81
   offset: 0, 0
@@ -958,7 +965,7 @@ UnitIcons/SHIVA-II
   index: -1
 UnitIcons/VISHNU-I
   rotate: false
-  xy: 1908, 462
+  xy: 1516, 458
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
