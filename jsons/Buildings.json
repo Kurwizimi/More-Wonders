@@ -492,37 +492,6 @@
     },
 
 	{
-        "name": "The Golden Pavilion",
-        "isWonder": true,
-	"culture" : 1,
-	"greatPersonPoints": { "Great Merchant": 2 },
-        "uniques": ["[+1 Gold] per [2] population [in this city]","[+100]% Great Person generation [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Banking",
-        "quote": "'A book holds a house of gold' - Chinese Proverb"
-    },
-
-	{
-        "name": "Tlachihualtepetl", //Production bonus is broken
-        "isWonder": true,
-	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Acoustics",
-        "quote": "'You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth' - Montezuma II"
-    },
-
-	{
-        "name": "Tomb of Humayun",
-        "isWonder": true,
-	"faith" : 2,
-	"culture" : 1,
-	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["Gain a free [Garden] [in this city]", "[+3 Faith] from each Trade Route", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Acoustics",
-        "quote": "'His name meant 'the Lucky', there is no king in the history to be named as wrong as Humayun.' - Stanley Lane-Poole"
-    },
-
-
-	{
         "name": "Gripsholm Castle",
         "isWonder": true,
 	"culture" : 1,
@@ -607,6 +576,36 @@
     },
 
 	{
+        "name": "The Golden Pavilion",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Merchant": 2 },
+        "uniques": ["[+1 Gold] per [2] population [in this city]","[+100]% Great Person generation [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Banking",
+        "quote": "'A book holds a house of gold' - Chinese Proverb"
+    },
+
+	{
+        "name": "Tlachihualtepetl", //Production bonus is broken
+        "isWonder": true,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+2 Culture, +2 Faith] from [Hill] tiles [in this city]","Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Acoustics",
+        "quote": "'You have graciously arrived, you have known pain, you have known weariness, now come on earth, take your rest, enter into your palace, rest your limbs; may our lords come on earth' - Montezuma II"
+    },
+
+	{
+        "name": "Tomb of Humayun",
+        "isWonder": true,
+	"faith" : 2,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["Gain a free [Garden] [in this city]", "[+3 Faith] from each Trade Route", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Acoustics",
+        "quote": "'His name meant 'the Lucky', there is no king in the history to be named as wrong as Humayun.' - Stanley Lane-Poole"
+    },
+
+	{
         "name": "Topkapı Palace",
         "isWonder": true,
 	"culture" : 2,
@@ -626,6 +625,15 @@
         "uniques": ["[+20]% [Gold] from Trade Routes","Gain a free [Seaport] [in this city]","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Navigation",
         "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
+    },
+
+	{
+        "name": "Uraniborg",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": ["Gain a free [Observatory] [in this city]", "[+1 Science] from every [Improvement] <with [3] to [6] neighboring [Coast] tiles>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Gunpowder",
+        "quote": "'Let me not seem to have lived in vain' - Tycho Brahé"
     },
 
 	{
