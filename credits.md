@@ -49,6 +49,7 @@ Medieval
 - Fountain by Paulo Volkova from <a href="https://thenounproject.com/icon/fountain-3837/" target="_blank" title="Fountain">Noun Project</a>
 - Aqueduct by Arthur Shlain from <a href="https://thenounproject.com/browse/icons/term/aqueduct/" target="_blank" title="Aqueduct Icons">Noun Project</a> (CC BY 3.0)
 - Pagoda by Arkinasi from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- sher dor madrasah samarkand by kusuma potter from <a href="https://thenounproject.com/browse/icons/term/sher-dor-madrasah-samarkand/" target="_blank" title="sher dor madrasah samarkand Icons">Noun Project</a> (CC BY 3.0)
 - Timbuktu by Dutchken from <a href="https://thenounproject.com/browse/icons/term/timbuktu/" target="_blank" title="Timbuktu Icons">Noun Project</a> (CC BY 3.0)
 - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
 - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
