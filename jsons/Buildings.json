@@ -396,6 +396,14 @@
     },
 
 	{
+        "name": "Ulugh Beg's Madrasa",
+        "isWonder": true,
+        "uniques": ["[+1 Science] from each Trade Route","[+1 Science, +2 Faith] from every [Observatory]","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Steel",
+        "quote": "'It is the duty of every true Muslim, man and woman, to strive after knowledge.' - Inscription on the Gate of Bukhara"
+    },
+
+	{
         "name": "University of Sankore",
         "isWonder": true,
 	"science" : 1,
