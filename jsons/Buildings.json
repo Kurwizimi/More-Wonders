@@ -3,7 +3,7 @@
 	{
         "name": "Abu Simbel",
         "isWonder": true,
-	"civilopediaText": [ {"text": "Abu Simbel is a set of two rock temples located i sothern Egypt, of the coast of what is now Lake Nasser. Commisioned by Ramesess II, it commemerates his victory in the Battle of Kadesh."}],
+	"civilopediaText": [ {"text": "Abu Simbel is a set of two rock temples located in sothern Egypt, of the coast of what is now Lake Nasser. Commisioned by Ramesess II, it commemerates his victory in the Battle of Kadesh."}],
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [ "[+3 Production] from [Landmark] tiles [in all cities]", "Only availabe <if [Nobles and Merchants] is not enabled>"],
