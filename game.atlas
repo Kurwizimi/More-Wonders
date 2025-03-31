@@ -55,7 +55,7 @@ BuildingIcons/Arecibo Observatory
   index: -1
 BuildingIcons/Avenue Habib Bourguiba
   rotate: false
-  xy: 1908, 278
+  xy: 602, 570
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
@@ -97,7 +97,7 @@ BuildingIcons/Basilica de Leptis Magna
   index: -1
 BuildingIcons/Bletchley Park
   rotate: false
-  xy: 406, 636
+  xy: 700, 640
   size: 89, 94
   orig: 89, 94
   offset: 0, 0
@@ -153,14 +153,14 @@ BuildingIcons/Castel Sant' Angelo
   index: -1
 BuildingIcons/Catedral de Sal
   rotate: false
-  xy: 406, 544
+  xy: 699, 548
   size: 89, 84
   orig: 89, 84
   offset: 0, 0
   index: -1
 BuildingIcons/Changdeokgung
   rotate: false
-  xy: 503, 656
+  xy: 602, 480
   size: 89, 82
   orig: 89, 82
   offset: 0, 0
@@ -223,7 +223,7 @@ BuildingIcons/Delta Works (Nobles and Merchants)
   index: -1
 BuildingIcons/Democracy Monument
   rotate: false
-  xy: 503, 562
+  xy: 699, 454
   size: 89, 86
   orig: 89, 86
   offset: 0, 0
@@ -237,7 +237,7 @@ BuildingIcons/Dà Yùnhé
   index: -1
 BuildingIcons/El Tajin
   rotate: false
-  xy: 600, 657
+  xy: 504, 472
   size: 89, 83
   orig: 89, 83
   offset: 0, 0
@@ -258,7 +258,7 @@ BuildingIcons/Empire State Building
   index: -1
 BuildingIcons/Escadaria Selarón
   rotate: false
-  xy: 600, 564
+  xy: 601, 387
   size: 89, 85
   orig: 89, 85
   offset: 0, 0
@@ -293,7 +293,7 @@ ImprovementIcons/Karez
   index: -1
 BuildingIcons/Great Canals of Venice
   rotate: false
-  xy: 697, 650
+  xy: 698, 362
   size: 89, 84
   orig: 89, 84
   offset: 0, 0
@@ -307,7 +307,7 @@ BuildingIcons/Great Man-Made River
   index: -1
 BuildingIcons/Great Mosque of Aleppo
   rotate: false
-  xy: 697, 563
+  xy: 1908, 381
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
@@ -328,7 +328,7 @@ BuildingIcons/Gripsholm Castle
   index: -1
 BuildingIcons/Gulou
   rotate: false
-  xy: 891, 550
+  xy: 396, 354
   size: 89, 85
   orig: 89, 85
   offset: 0, 0
@@ -349,14 +349,14 @@ BuildingIcons/Harmandir Sahib
   index: -1
 BuildingIcons/Hawa Mahal
   rotate: false
-  xy: 988, 549
+  xy: 396, 263
   size: 89, 83
   orig: 89, 83
   offset: 0, 0
   index: -1
 BuildingIcons/Hollywood
   rotate: false
-  xy: 503, 471
+  xy: 396, 172
   size: 89, 83
   orig: 89, 83
   offset: 0, 0
@@ -517,7 +517,7 @@ BuildingIcons/Naqsh-e Rostam
   index: -1
 BuildingIcons/Nazca Geoglyphs
   rotate: false
-  xy: 600, 471
+  xy: 396, 79
   size: 89, 85
   orig: 89, 85
   offset: 0, 0
@@ -545,7 +545,7 @@ BuildingIcons/Országház
   index: -1
 BuildingIcons/Palm Jumeirah
   rotate: false
-  xy: 697, 470
+  xy: 493, 379
   size: 89, 85
   orig: 89, 85
   offset: 0, 0
@@ -711,170 +711,177 @@ BuildingIcons/Taipei 101
   orig: 90, 87
   offset: 0, 0
   index: -1
+BuildingIcons/Taq Kasra
+  rotate: false
+  xy: 1418, 643
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 BuildingIcons/Te Tii Marae
   rotate: false
-  xy: 1418, 648
+  xy: 1516, 655
   size: 90, 85
   orig: 90, 85
   offset: 0, 0
   index: -1
 BuildingIcons/Temple of Obelisks
   rotate: false
-  xy: 1516, 650
+  xy: 1614, 653
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/The Golden Pavilion
   rotate: false
-  xy: 1614, 662
+  xy: 1712, 656
   size: 90, 81
   orig: 90, 81
   offset: 0, 0
   index: -1
 BuildingIcons/The Motherland Calls
   rotate: false
-  xy: 1712, 647
+  xy: 1810, 652
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Thermae Antoninianae
   rotate: false
-  xy: 1810, 652
+  xy: 1908, 652
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Tlachihualtepetl
   rotate: false
-  xy: 1908, 653
+  xy: 1124, 558
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
   index: -1
 BuildingIcons/Tokyo Sky Tree
   rotate: false
-  xy: 1614, 566
+  xy: 1222, 554
   size: 90, 88
   orig: 90, 88
   offset: 0, 0
   index: -1
 BuildingIcons/Tomb of Humayun
   rotate: false
-  xy: 1516, 552
+  xy: 1320, 545
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Tomb of the Unknown Soldier
   rotate: false
-  xy: 1418, 550
+  xy: 1418, 545
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Topkapı Palace
   rotate: false
-  xy: 1712, 559
+  xy: 1516, 567
   size: 90, 80
   orig: 90, 80
   offset: 0, 0
   index: -1
 BuildingIcons/Torre del Oro
   rotate: false
-  xy: 406, 458
+  xy: 493, 207
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 BuildingIcons/Trafalgar Square
   rotate: false
-  xy: 1810, 555
+  xy: 1614, 556
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
   index: -1
 BuildingIcons/Turing Complete AI
   rotate: false
-  xy: 1614, 472
+  xy: 1810, 558
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/Tōdai-ji
   rotate: false
-  xy: 1712, 467
+  xy: 1908, 560
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
   index: -1
 BuildingIcons/Ulugh Beg's Madrasa
   rotate: false
-  xy: 1810, 457
+  xy: 1516, 469
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/University of Sankore
   rotate: false
-  xy: 1908, 458
+  xy: 1614, 458
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Uraniborg
   rotate: false
-  xy: 1516, 454
+  xy: 1712, 461
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Wat Arun
   rotate: false
-  xy: 396, 368
+  xy: 493, 117
   size: 89, 82
   orig: 89, 82
   offset: 0, 0
   index: -1
 BuildingIcons/Wat Pho
   rotate: false
-  xy: 1712, 375
+  xy: 1908, 468
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
   index: -1
 BuildingIcons/Wat Phra Kaew
   rotate: false
-  xy: 1810, 355
+  xy: 406, 636
   size: 90, 94
   orig: 90, 94
   offset: 0, 0
   index: -1
 BuildingIcons/Westminster Abbey
   rotate: false
-  xy: 1908, 364
+  xy: 406, 542
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/White Sands Missile Range
   rotate: false
-  xy: 1124, 561
+  xy: 504, 652
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
   index: -1
 BuildingIcons/Xuankong Temple
   rotate: false
-  xy: 1222, 561
+  xy: 504, 563
   size: 90, 81
   orig: 90, 81
   offset: 0, 0
   index: -1
 BuildingIcons/Yellow Crane Tower
   rotate: false
-  xy: 1320, 551
+  xy: 602, 656
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
@@ -902,21 +909,21 @@ BuildingIcons/Kansai International Airport
   index: -1
 ImprovementIcons/Triangular Trade Route
   rotate: false
-  xy: 1908, 556
+  xy: 1712, 559
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
   index: -1
 UnitIcons/Triangular Trade Ship
   rotate: false
-  xy: 1908, 556
+  xy: 1712, 559
   size: 90, 89
   orig: 90, 89
   offset: 0, 0
   index: -1
 ResourceIcons/Green Tea Leaves
   rotate: false
-  xy: 794, 564
+  xy: 396, 447
   size: 89, 83
   orig: 89, 83
   offset: 0, 0
@@ -930,21 +937,21 @@ ResourceIcons/Hit Singles
   index: -1
 ResourceIcons/Rice Grains
   rotate: false
-  xy: 794, 478
+  xy: 493, 293
   size: 89, 78
   orig: 89, 78
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Triangular Trade Ship
   rotate: false
-  xy: 396, 304
+  xy: 590, 255
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/KIX Airport
   rotate: false
-  xy: 891, 482
+  xy: 590, 319
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
@@ -972,7 +979,7 @@ UnitIcons/SHIVA-II
   index: -1
 UnitIcons/VISHNU-I
   rotate: false
-  xy: 1614, 378
+  xy: 1810, 464
   size: 90, 86
   orig: 90, 86
   offset: 0, 0
