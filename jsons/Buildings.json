@@ -239,6 +239,17 @@
     },
 
 	{
+        "name": "Taq Kasra",
+        "isWonder": true,
+	"gold" : 2,
+	"greatPersonPoints": { "Great General": 1 },
+        "uniques": [ "[+1 Gold] per every [25] [Faith]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Currency",
+        "quote": "'I was flying over the desert solo in an old Hawker Hart biplane and I had my camera round my neck. When I spotted the huge arch standing alone in a sea of sand, I dropped one wing and hung in my straps and let go of the stick while I took aim and clicked the shutter.' - Roald Dahl"
+    },
+
+
+	{
         "name": "Xuankong Temple",
         "isWonder": true,
 	"faith" : 1,
