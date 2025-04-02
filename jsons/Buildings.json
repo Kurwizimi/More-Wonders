@@ -23,6 +23,7 @@
 	{
         "name": "Baffin Island Inukshuks",
         "isWonder": true,
+	"civilopediaText": [ {"text": "Inukshuks, also known as Inuksuks, are large humanoid megaliths, built by the First Nations of Canada. They serve a variety of uses, ostly related to navigation, since their large stature can easily mark a hunting ground or food cache from a distance. The place with the most Inukshuks is on Baffin Island, where over 100 are located on just a small peninsula alone. Inukshuks serve as a national icon of the Canadian people, being present on the 2010 Vancouver Winter Olympic Icon."}],
 	"faith" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
         "uniques": [  "[+1 Food, +1 Production, +1 Culture] from [Tundra] tiles [in this city]", "[+1 Science, +1 Production, +1 Happiness] from [Snow] tiles [in this city]","Must be next to [Tundra]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -67,6 +68,7 @@
 	{
         "name": "Gobekli Tepe",
         "isWonder": true,
+	"civilopediaText": [ {"text": "It is very rare that a single archeaological site can completely change how we view prehistory, but Gobleki Tepe did just that. Located in modern-day Turkiye, this site is the oldest known human settlement, predating the invention of agriculture. It is covered in stone carvings and designs of a culture that have developed settlements before the stories of Gilgamesh or of Amun-Ra. Not only does this site hold major importance in how we veiw humanities origins, but it is also a holy site for many Turkish Sufi's. Many Sufi's still visit the site to pray even after excavations, however they now need to avoid hordes of tourists flocking to the site."}],
         "uniques": [ "[+1 Production] from [Pasture] tiles [in this city]",
 	             "[+1 Production] from [Quarry] tiles [in this city]",
 	             "[+1 Gold] from [Plantation] tiles [in this city]",
@@ -78,6 +80,7 @@
 	{
         "name": "Great Sphinx",
         "isWonder": true,
+	"civilopediaText": [ {"text": "The Sphinx is a large structure located beside the Great Pyramids, facing east so that it is always facing the sunrise.. The sphinx is a mythical creature that is shared among many different cultures across the world, similar to that of dragons. Current theories suggest that the Sphinx was built so that the tombs and templesbehind it were defended from evil."}],
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [ "[+2 Faith, +2 Culture] from every [Wonder] <in this city>", "[+1 Faith] from every [Quarry]","Must be next to [River]","Provides [2] [Tourism] <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Mining",
@@ -87,6 +90,7 @@
 	{
         "name": "Karnak",
         "isWonder": true,
+	"civilopediaText": [ {"text": "Karnak is a temple comlex located in Luxor, Egypt. Here lies the work of 30 generations of pharaohs, each one adding to the temples over the cource of heir reign. Gods from the stories of the ancient pantheons of Egypt, to the ashes of Aten, to the sermons of Coptic Church are all present here. Currently it is the second most visited landmark in Egypt, with only the Great Pyramids overtaking it."}],
 	"culture" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
         "uniques": [  "[+2 Faith] from [Flood plains] tiles [in this city]", "Must have an owned [Flood plains] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -97,6 +101,7 @@
 	{
         "name": "Mesa Verde",
         "isWonder": true,
+	"civilopediaText": [ {"text": "A large mesa located in Colorado,USA, Mesa Verde is the location of possibly one of the first pueblo settlments in the Mojave Desert. The people who settled here would late grow into thr Pueblo people, who carved a trade network accross the entire South west of thr modern-day United States. The cliff-dwelling people dispersed in the 1200's, resulting in the site being deeply ingraned in the folklore of the surrounding cultures, coloniser and natives alike."}],
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [  "[+1 Food] from [Desert] tiles [in this city]","[+15]% Great Person generation [in all cities]", "Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -107,6 +112,7 @@
 	{
         "name": "Nazca Geoglyphs",
         "isWonder": true,
+	"civilopediaText": [ {"text": "Carved in the rock of the Nazca desert large geoglyphs, these marking have lead to great speculation worldwide. Some of the smaller lines are most likely just water collecting ducts, but the purpose of the larger geoglyphs is what makes the site so interesting. Patternsa and depictions of many different animals cover the land, so large that planes and satelites are needed to fully observe them. We still do not know the purpose of these geoglyph, and we are constantly discovering new structures in the area, meaning this site is constantly experiencing new breakthroughs."}],
 	"culture" : 2,
 	"faith" : 2,
         "uniques": [  "[+4 Culture] <after discovering [Flight]>","[+2 Science] from every [University]","Must have an owned [Mountain] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -117,6 +123,7 @@
 	{
         "name": "Temple of Obelisks",
         "isWonder": true,
+	"civilopediaText": [ {"text": "The Temple of Obelisks are a large temple comlex in the ruins of the old Phonecian city of Byblos. Here, as the name suggests, are a large number of obelisks, all from different pantheors of gods, event including some ancient egypthian gods too. The site is now a locaton of national pride, as it is the tourim poster-child for Lebanon, with this wonder aloe generating significant amounts of the tourism income for the country."}],
 	"culture" : 1,
 	"faith" : 2,
         "uniques": [  "[+1 Food] from [Oasis] tiles [in this city]","[+1 Food] from [Lakes] tiles [in this city]","[+1 Food] from every [Monument]", "Must be next to [Coast]","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
