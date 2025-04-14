@@ -255,6 +255,15 @@
         "quote": "'I was flying over the desert solo in an old Hawker Hart biplane and I had my camera round my neck. When I spotted the huge arch standing alone in a sea of sand, I dropped one wing and hung in my straps and let go of the stick while I took aim and clicked the shutter.' - Roald Dahl"
     },
 
+	{
+        "name": "Temple of Gamla Uppsala",
+        "isWonder": true,
+	"faith" : 2,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [ "[+2 Faith, +1 Culture] from [Forest] tiles [in this city]", "Must be next to [Tundra]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Optics",
+        "quote": "'[Freyr] erected a great shrine at Uppsala and made his chief residence there, directing it to all tribute due to him, both lands and chattels. This was the origin of the Uppsala crown goods, which have been kept up ever since.' - Ynglinga Saga"
+    },
 
 	{
         "name": "Xuankong Temple",
