@@ -260,7 +260,7 @@
         "isWonder": true,
 	"faith" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": [ "[+2 Faith, +1 Culture] from [Forest] tiles [in this city]", "Must be next to [Tundra]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [ "[+2 Faith, +1 Culture] from [Forest] tiles [in this city]","[+25]% Natural religion spread [in this city]", "Must be next to [Tundra]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Optics",
         "quote": "'[Freyr] erected a great shrine at Uppsala and made his chief residence there, directing it to all tribute due to him, both lands and chattels. This was the origin of the Uppsala crown goods, which have been kept up ever since.' - Ynglinga Saga"
     },
