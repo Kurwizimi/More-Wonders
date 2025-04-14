@@ -32,6 +32,7 @@ Classical
 - great wall by Dio Sugiharto from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
 - Petra by Icons Cart from <a href="https://thenounproject.com/browse/icons/term/petra/" target="_blank" title="Petra Icons">Noun Project</a> (CC BY 3.0)
 - canyon by Cahya Kurniawan from <a href="https://thenounproject.com/browse/icons/term/canyon/" target="_blank" title="canyon Icons">Noun Project</a> (CC BY 3.0)
+- odin by parkjisun from <a href="https://thenounproject.com/browse/icons/term/odin/" target="_blank" title="odin Icons">Noun Project</a> (CC BY 3.0)
 - taoism by Surya Lesmana from <a href="https://thenounproject.com/browse/icons/term/taoism/" target="_blank" title="taoism Icons">Noun Project</a> (CC BY 3.0)
 
 Medieval
