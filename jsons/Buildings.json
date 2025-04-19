@@ -131,6 +131,17 @@
         "quote": "Nothing beside remains. Round the decay \nOf that colossal Wreck, boundless and bare \nThe lone and level sands stretch far away.' - Ozymandias, Percy Bysshe Shelley"
     },
 
+	{
+        "name": "Wurdi Youang",
+        "isWonder": true,
+	"civilopediaText": [ {"text": "located in Victoria,Australia, this megalithic site was built by native Australian Aboriginals. Its purpose is most likely similar to other megalithic sites such as Stonehenge, as it is alignes to the Solstices and the Equinoxes. Currently we do not know its exact age, but current estimates say that it could be around 11,000 years old, making it 6,000 years older than the oldest parts of Stonehenge. "}],
+	"culture" : 1,
+	"science" : 1,
+        "uniques": [ "[+1 Faith] from [Hill] tiles [in this city]","[+1 Science] from [Plantation] tiles [in all cities] <before founding a religion>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Pottery",
+        "quote": "The more you know, the less you need.' - Aboriginal Saying"
+    },
+
 	// Classical Era
 
 	{
