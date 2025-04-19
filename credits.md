@@ -17,6 +17,7 @@ Ancient Era
 - hands by Tiago Russo from <a href="https://thenounproject.com/browse/icons/term/hands/" target="_blank" title="hands Icons">Noun Project</a> (CC BY 3.0)
 - göbekli tepe fox by Zack McCune from <a href="https://thenounproject.com/browse/icons/term/gobekli-tepe-fox/" target="_blank" title="göbekli tepe fox Icons">Noun Project</a> (CC BY 3.0)
 - great sphynx by Azland Studio from <a href="https://thenounproject.com/browse/icons/term/great-sphynx/" target="_blank" title="great sphynx Icons">Noun Project</a> (CC BY 3.0)
+- pattern by Clément Branger from <a href="https://thenounproject.com/browse/icons/term/pattern/" target="_blank" title="pattern Icons">Noun Project</a> (CC BY 3.0)
 
 Classical
 
