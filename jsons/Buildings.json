@@ -892,6 +892,17 @@
     },
 
 	{
+        "name": "Virgin of El Panecillo",
+        "isWonder": true,
+	"culture" : 2,
+	"faith" : 2,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+1 Production, +3 Faith] from each Trade Route", "Must have an owned [Hill] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Dynamite",
+        "quote": "'He is no fool who gives what he cannot keep to gain that which he cannot lose.' - Elisabeth Elliot"
+    },
+
+	{
         "name": "Wat Pho",
         "isWonder": true,
 	"faith" : 2,
