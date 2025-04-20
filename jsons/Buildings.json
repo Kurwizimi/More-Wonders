@@ -277,6 +277,17 @@
     },
 
 	{
+        "name": "Sigiriya",
+        "isWonder": true,
+	"culture" : 2,
+	"food" : 1,
+	"greatPersonPoints": { "Great Engineer": 1 },
+	"uniques": ["Provides [2] [Frescos]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Philosophy",
+        "quote": "'Like geese who have seen a lake, I listened to the message given by her. Like a bee who has seen full-blown lotuses, the bewildered heart of mine was consoled.' - Poem found in Sigiriya"
+    },
+
+	{
         "name": "Xuankong Temple",
         "isWonder": true,
 	"faith" : 1,
