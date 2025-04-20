@@ -29,6 +29,8 @@ Classical
 - chichen itza by VM from <a href="https://thenounproject.com/browse/icons/term/chichen-itza/" target="_blank" title="chichen itza Icons">Noun Project</a> (CC BY 3.0)
 - gate of the sun by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/gate-of-the-sun/" target="_blank" title="gate of the sun Icons">Noun Project</a> (CC BY 3.0)
 - Pagoda by hanis tusiyani from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- Adam's Peak by Raashid.A from <a href="https://thenounproject.com/browse/icons/term/adams-peak/" target="_blank" title="Adam's Peak Icons">Noun Project</a> (CC BY 3.0)
+- The Creation of Adam by Arthur Shlain from <a href="https://thenounproject.com/browse/icons/term/the-creation-of-adam/" target="_blank" title="The Creation of Adam Icons">Noun Project</a> (CC BY 3.0)
 - drainage by M. Oki Orlando from <a href="https://thenounproject.com/browse/icons/term/drainage/" target="_blank" title="drainage Icons">Noun Project</a> (CC BY 3.0)
 - great wall by Dio Sugiharto from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
 - Petra by Icons Cart from <a href="https://thenounproject.com/browse/icons/term/petra/" target="_blank" title="Petra Icons">Noun Project</a> (CC BY 3.0)
@@ -80,11 +82,13 @@ Renaissance
   - astronomy by Tithy from <a href="https://thenounproject.com/browse/icons/term/astronomy/" target="_blank" title="astronomy Icons">Noun Project</a> (CC BY 3.0)
   - Torre de Belem by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/torre-de-belem/" target="_blank" title="Torre de Belem Icons">Noun Project</a> (CC BY 3.0)
   - Wat Arun by Justicon from <a href="https://thenounproject.com/browse/icons/term/wat-arun/" target="_blank" title="Wat Arun Icons">Noun Project</a> (CC BY 3.0)
+  - Amusement by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/amusement/" target="_blank" title="Amusement Icons">Noun Project</a> (CC BY 3.0)
  
   Industrial
 
   - avenue by Creative Mahira from <a href="https://thenounproject.com/browse/icons/term/avenue/" target="_blank" title="avenue Icons">Noun Project</a> (CC BY 3.0)
   - Casa Rosada by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/casa-rosada/" target="_blank" title="Casa Rosada Icons">Noun Project</a> (CC BY 3.0)
+  - Free by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/free/" target="_blank" title="Free Icons">Noun Project</a> (CC BY 3.0)
   - cologne cathedral by Jakub Stejskal from <a href="https://thenounproject.com/browse/icons/term/cologne-cathedral/" target="_blank" title="cologne cathedral Icons">Noun Project</a> (CC BY 3.0)
   - Democracy monument by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/democracy-monument/" target="_blank" title="Democracy monument Icons">Noun Project</a> (CC BY 3.0)
   - Tripoli by Sergey Primirenkov from <a href="https://thenounproject.com/browse/icons/term/tripoli/" target="_blank" title="Tripoli Icons">Noun Project</a> (CC BY 3.0)
@@ -95,8 +99,10 @@ Renaissance
   - Cairo tower by Tokka Elkholy from <a href="https://thenounproject.com/browse/icons/term/cairo-tower/" target="_blank" title="Cairo tower Icons">Noun Project</a> (CC BY 3.0)
   - wharenui by Rachelle Smith from <a href="https://thenounproject.com/browse/icons/term/wharenui/" target="_blank" title="wharenui Icons">Noun Project</a> (CC BY 3.0)
   - trafalgar square nelsons column by Stephen Longwill from <a href="https://thenounproject.com/browse/icons/term/trafalgar-square-nelsons-column/" target="_blank" title="trafalgar square nelsons column Icons">Noun Project</a> (CC BY 3.0)
+  - san cristobal hill by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/san-cristobal-hill/" target="_blank" title="san cristobal hill Icons">Noun Project</a> (CC BY 3.0)
   - Wat Pho by WiStudio from <a href="https://thenounproject.com/browse/icons/term/wat-pho/" target="_blank" title="Wat Pho Icons">Noun Project</a> (CC BY 3.0)
   - Wat Phra Kaew by tezar tantular from <a href="https://thenounproject.com/browse/icons/term/wat-phra-kaew/" target="_blank" title="Wat Phra Kaew Icons">Noun Project</a> (CC BY 3.0)
+  - water wheel by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/water-wheel/" target="_blank" title="water wheel Icons">Noun Project</a> (CC BY 3.0)
 
   Modern
 
