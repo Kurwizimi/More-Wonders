@@ -780,6 +780,16 @@
     },
 
 	{
+        "name": "Laxley Wheel",
+        "isWonder": true,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Engineer": 1 },
+        "uniques": ["[+1 Culture, +1 Happiness] from [Mine] tiles [in this city]", "Must be on [Hill]", "Only available <in cities without a [Factory]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Industrialization",
+        "quote": "'The waterwheel accepts water and turns and gives it away, weeping.' - Rumi"
+    },
+
+	{
         "name": "Mount Rushmore",
         "isWonder": true,
 	"culture" : 3,
