@@ -14,6 +14,11 @@
 	"uniques": ["Can build [Karez] improvements on tiles"],
   },
 
+	{
+        "name": "Break the Chains",
+        "uniques": ["[+15]% Strength <when defending>"],
+  },
+
 	 {
 	"name": "Grand Aqueduct",
 	"uniques": ["Can build [Aqua Thermae] improvements on tiles"],
