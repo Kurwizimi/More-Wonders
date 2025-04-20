@@ -727,6 +727,18 @@
 	},
 
 	{
+        "name": "Citadelle Laferrière",
+        "isWonder": true,
+	"cityStrength": 30,
+        "cityHealth": 40,
+	"happiness": 1,
+	"greatPersonPoints": { "Great General": 1 },
+        "uniques": ["All newly-trained [Melee] units [in this city] receive the [Break the Chains] promotion", "Must be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Rifling",
+        "quote": "'The revolution is not an apple that falls when it is ripe. You have to make it fall' - Che Guevara"
+    },
+
+	{
         "name": "Cologne Cathedral",
         "isWonder": true,
 	"culture" : 3,
