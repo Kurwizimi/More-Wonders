@@ -300,6 +300,17 @@
     },
 
 	{
+        "name": "Dyrehavsbakken",
+        "isWonder": true,
+	"happiness" : 3,
+	"culture" : 1,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": [  "[+25]% [Happiness] [in this city]", "Must be next to [Fresh Water]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
+        "requiredTech": "Physics",
+        "quote": "'Der er noget om snakken, der er dejligt på Bakken' - Slogan of Dyrehavsbakken"
+    },
+
+	{
         "name": "Great Canals of Venice",
         "isWonder": true,
 	"gold" : 4,
