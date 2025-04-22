@@ -386,6 +386,15 @@
     },
 
 	{
+        "name": "Menara Kudus Mosque",
+        "isWonder": true,
+	"faith": 2,
+        "uniques": [ "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Theology",
+        "quote": "'.' - Al-Baladhuri, Kitab Futuh al-Buldan"
+    },
+
+	{
         "name": "Nan Madol",
         "isWonder": true,
 	"culture" : 2,
@@ -877,6 +886,17 @@
         "uniques": ["[+3 Happiness] from every [Courthouse]", "Only available <in cities without a [Palace]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Military Science",
         "quote": "'Let your valor rise! Let your valor rage! \nLet us ward off these haunted hands \nto protect our wives and children!' - Te Rauparaha, Ka Mate"
+    },
+
+	{
+        "name": "The Ice House",
+        "isWonder": true,
+	"culture" : 2,
+	"science": 1,
+	"greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": ["[+150]% [Culture] [in this city] <for [10] turns> <(modified by game speed)>", "Must be next to [Tundra]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Dynamite",
+        "quote": "'Some say the world will end in fire, some say in ice' - Robert Frost"
     },
 
 	{
