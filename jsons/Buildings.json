@@ -3,7 +3,7 @@
 	{
         "name": "Abu Simbel",
         "isWonder": true,
-	"civilopediaText": [ {"text": "Abu Simbel is a set of two rock temples located in sothern Egypt, of the coast of what is now Lake Nasser. Commisioned by Ramesess II, it commemerates his victory in the Battle of Kadesh."}],
+	"civilopediaText": [ {"text": "Abu Simbel is a set of two rock temples located in southern Egypt, just off the coast of Lake Nasser. Commisioned by Ramesess II, it commemerates his victory in the Battle of Kadesh."}],
 	"culture" : 2,
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": [ "[+3 Production] from [Landmark] tiles [in all cities]", "Only availabe <if [Nobles and Merchants] is not enabled>"],
@@ -391,7 +391,7 @@
 	"faith": 2,
         "uniques": [ "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Theology",
-        "quote": "'.' - Al-Baladhuri, Kitab Futuh al-Buldan"
+        "quote": "'The world is divided into men who have wit and no religion and men who have religion and no wit.' - ibn Sina"
     },
 
 	{
@@ -422,6 +422,17 @@
         "uniques": [  "[+20]% growth [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Civil Service",
         "quote": "'Thousands have lived without love, not one without water.' - H. Auden"
+    },
+
+	{
+        "name": "Royal Court of Tiébélé",
+        "isWonder": true,
+	"gold" : 2,
+	"food": 2,
+	"greatPersonPoints": { "Great General": 2 },
+        "uniques": ["[+2 Culture] from [Quarry] tiles [in this city]", "[+1 Culture] from every specialist [in capital]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Steel",
+        "quote": "'Even in the mud and scum of things, something always, always sings' - Ralph Waldo Emerson"
     },
 
 	{
@@ -628,6 +639,18 @@
         "uniques": [, "[+3 Faith] from [Fishing Boats] tiles [in this city]", "New [Military] units start with [15] XP [in this city]", "All newly-trained [Land] units [in this city] receive the [Amphibious] promotion","Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Astronomy",
         "quote": "'A heavenly nature; an earthly nature.' - King Kamehameha I"
+    },
+
+	{
+        "name": "Rova of Antananarivo",
+        "isWonder": true,
+	"culture" : 1,
+	"cityStrength": 15,
+        "cityHealth": 60,
+	"greatPersonPoints": { "Great General": 1 },
+        "uniques": ["[+15]% [Production] [in all cities] <for [5] turns> <upon entering a Golden Age>", "Must be next to [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Chemistry",
+        "quote": "'The walls between art and engineering exist only in our minds' - Theo Jansen"
     },
 
 	{
