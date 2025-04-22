@@ -48,6 +48,7 @@ Medieval
 - giant buddha by Foxyard Studio from <a href="https://thenounproject.com/browse/icons/term/giant-buddha/" target="_blank" title="giant buddha Icons">Noun Project</a> (CC BY 3.0)
 - turtle by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/turtle/" target="_blank" title="turtle Icons">Noun Project</a> (CC BY 3.0)
 - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
+- national museum of burkina faso by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/national-museum-of-burkina-faso/" target="_blank" title="national museum of burkina faso Icons">Noun Project</a> (CC BY 3.0)
 - swayambhunath stupa by Phạm Thanh Lộc from <a href="https://thenounproject.com/browse/icons/term/swayambhunath-stupa/" target="_blank" title="swayambhunath stupa Icons">Noun Project</a> (CC BY 3.0)
 - old fort of zanzibar by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/old-fort-of-zanzibar/" target="_blank" title="old fort of zanzibar Icons">Noun Project</a> (CC BY 3.0)
 - Fountain by Paulo Volkova from <a href="https://thenounproject.com/icon/fountain-3837/" target="_blank" title="Fountain">Noun Project</a>
@@ -58,6 +59,7 @@ Medieval
 - Westminster Abbey by Rafiico Creative Studio from <a href="https://thenounproject.com/browse/icons/term/westminster-abbey/" target="_blank" title="Westminster Abbey Icons">Noun Project</a> (CC BY 3.0)
 - yellow tower by Symbolon from <a href="https://thenounproject.com/browse/icons/term/yellow-tower/" target="_blank" title="yellow tower Icons">Noun Project</a> (CC BY 3.0)
 - Samarra by Muhammad Atiq from <a href="https://thenounproject.com/browse/icons/term/samarra/" target="_blank" title="Samarra Icons">Noun Project</a> (CC BY 3.0)
+- pura by alifiyah fitri nurisa from <a href="https://thenounproject.com/browse/icons/term/pura/" target="_blank" title="pura Icons">Noun Project</a> (CC BY 3.0)
 
 Renaissance
 
@@ -78,6 +80,7 @@ Renaissance
   - Last Supper by bsd studio from <a href="https://thenounproject.com/browse/icons/term/last-supper/" target="_blank" title="Last Supper Icons">Noun Project</a> (CC BY 3.0)
   - aztec by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/aztec/" target="_blank" title="aztec Icons">Noun Project</a> (CC BY 3.0)
   - humayun tomb by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/humayun-tomb/" target="_blank" title="humayun tomb Icons">Noun Project</a> (CC BY 3.0)
+  - Royal Palace complex by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/royal-palace-complex/" target="_blank" title="Royal Palace complex Icons">Noun Project</a> (CC BY 3.0)
   - topkapi palace by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/topkapi-palace/" target="_blank" title="topkapi palace Icons">Noun Project</a> (CC BY 3.0)
   - astronomy by Tithy from <a href="https://thenounproject.com/browse/icons/term/astronomy/" target="_blank" title="astronomy Icons">Noun Project</a> (CC BY 3.0)
   - Torre de Belem by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/torre-de-belem/" target="_blank" title="Torre de Belem Icons">Noun Project</a> (CC BY 3.0)
@@ -98,6 +101,7 @@ Renaissance
   - Sagrada Familia by Nikita Ivanov from <a href="https://thenounproject.com/browse/icons/term/sagrada-familia/" target="_blank" title="Sagrada Familia Icons">Noun Project</a> (CC BY 3.0)
   - Cairo tower by Tokka Elkholy from <a href="https://thenounproject.com/browse/icons/term/cairo-tower/" target="_blank" title="Cairo tower Icons">Noun Project</a> (CC BY 3.0)
   - wharenui by Rachelle Smith from <a href="https://thenounproject.com/browse/icons/term/wharenui/" target="_blank" title="wharenui Icons">Noun Project</a> (CC BY 3.0)
+  - Museum by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/museum/" target="_blank" title="Museum Icons">Noun Project</a> (CC BY 3.0)
   - trafalgar square nelsons column by Stephen Longwill from <a href="https://thenounproject.com/browse/icons/term/trafalgar-square-nelsons-column/" target="_blank" title="trafalgar square nelsons column Icons">Noun Project</a> (CC BY 3.0)
   - san cristobal hill by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/san-cristobal-hill/" target="_blank" title="san cristobal hill Icons">Noun Project</a> (CC BY 3.0)
   - Wat Pho by WiStudio from <a href="https://thenounproject.com/browse/icons/term/wat-pho/" target="_blank" title="Wat Pho Icons">Noun Project</a> (CC BY 3.0)
