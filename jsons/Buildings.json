@@ -149,8 +149,8 @@
         "isWonder": true,
 	"culture" : 2,
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": [  "[+100]% Production when constructing [Settler] units [in this city]", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
-        "requiredTech": "Drama and Poetry",
+        "uniques": [  "Free [Settler] appears", "[+100]% Production when constructing [Settler] units [in this city]", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Optics",
         "quote": "'Be harmonious, enrich the soldiers, scorn all others' - Septimius Severus"
     },
 	
@@ -170,7 +170,7 @@
 	"greatPersonPoints": { "Great Engineer": 1 },
         "uniques": ["[+20]% Strength <for [All] units> <vs cities> ","[+10]% Strength <for [All] units> <when fighting in [Desert] tiles>", "Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Engineering",
-        "quote": "'No one can defeat a nation whose youth is awakened' - Salahdin Yusuf ibn-Ayyub"
+        "quote": "'No one can defeat a nation whose youth is awakened' - Salah ad-Din Yusuf ibn-Ayyub"
     },
 
 	{
@@ -228,6 +228,15 @@
     },
 
 	{
+        "name": "Great Omari Mosque",
+        "isWonder": true,
+	"greatPersonPoints": { "Great Artist": 1 },
+        "uniques": ["[+15]% [Faith] [in this city] <after adopting [Tradition Complete]>","[+15]% [Faith] [in this city] <after adopting [Liberty Complete]>","[+15]% [Faith] [in this city] <after adopting [Honor Complete]>","[+15]% [Faith] [in this city] <after adopting [Piety Complete]>","[+15]% [Faith] [in this city] <after adopting [Commerce Complete]>","[+15]% [Faith] [in this city] <after adopting [Rationalism Complete]>","[+15]% [Faith] [in this city] <after adopting [Order Complete]>","[+15]% [Faith] [in this city] <after adopting [Freedom Complete]>","[+15]% [Faith] [in this city] <after adopting [Autocracy Complete]>","[+15]% [Faith] [in this city] <after adopting [Patronage Complete]>", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Drama and Poetry",
+        "quote": "'Jerusalem is ours as much as yours; indeed, it is even more sacred to us than to you....' - Salah ad-Din Yusuf ibn-Ayyub"
+    },
+
+	{
         "name": "Hōryū-ji",
         "isWonder": true,
 	"faith" : 8,
@@ -254,6 +263,17 @@
         "uniques": ["All newly-trained [Military] units [in this city] receive the [Flame of Zoroaster] promotion", "Empire enters golden age", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Horseback Riding",
         "quote": "'A great god is Ahura Mazda, who created this earth, who created yonder sky, who created man, who created happiness for man, who made Darius king, one king of many, one lord of many.' - Inscription on the tomb of Darius I"
+    },
+
+	{
+        "name": "Nishiyama Onsen Keiunkan",
+        "isWonder": true,
+	"culture" : 1,
+	"happiness" : 1,
+	"greatPersonPoints": { "Great Merchant": 1 },
+        "uniques": ["[+1 Gold, +1 Happiness] from [Fresh Water] tiles [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Drama and Poetry",
+        "quote": "'Nihon San Kotō' - 'The Three Ancient Springs'"
     },
 
 	{
