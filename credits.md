@@ -28,6 +28,7 @@ Classical
 - Boat by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/boat/" target="_blank" title="Boat Icons">Noun Project</a> (CC BY 3.0)
 - chichen itza by VM from <a href="https://thenounproject.com/browse/icons/term/chichen-itza/" target="_blank" title="chichen itza Icons">Noun Project</a> (CC BY 3.0)
 - gate of the sun by Ary Prasetyo from <a href="https://thenounproject.com/browse/icons/term/gate-of-the-sun/" target="_blank" title="gate of the sun Icons">Noun Project</a> (CC BY 3.0)
+- Mosque by Irham Arrasyad from <a href="https://thenounproject.com/browse/icons/term/mosque/" target="_blank" title="Mosque Icons">Noun Project</a> (CC BY 3.0)
 - Pagoda by hanis tusiyani from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
 - Adam's Peak by Raashid.A from <a href="https://thenounproject.com/browse/icons/term/adams-peak/" target="_blank" title="Adam's Peak Icons">Noun Project</a> (CC BY 3.0)
 - The Creation of Adam by Arthur Shlain from <a href="https://thenounproject.com/browse/icons/term/the-creation-of-adam/" target="_blank" title="The Creation of Adam Icons">Noun Project</a> (CC BY 3.0)
@@ -37,6 +38,7 @@ Classical
 - canyon by Cahya Kurniawan from <a href="https://thenounproject.com/browse/icons/term/canyon/" target="_blank" title="canyon Icons">Noun Project</a> (CC BY 3.0)
 - odin by parkjisun from <a href="https://thenounproject.com/browse/icons/term/odin/" target="_blank" title="odin Icons">Noun Project</a> (CC BY 3.0)
 - taoism by Surya Lesmana from <a href="https://thenounproject.com/browse/icons/term/taoism/" target="_blank" title="taoism Icons">Noun Project</a> (CC BY 3.0)
+- Onsen by dDara from <a href="https://thenounproject.com/browse/icons/term/onsen/" target="_blank" title="Onsen Icons">Noun Project</a> (CC BY 3.0)
 
 Medieval
 
