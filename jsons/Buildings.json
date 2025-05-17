@@ -192,7 +192,7 @@
 	"culture" : 1,
 	"cityHealth": 50
 	"greatPersonPoints": { "Great Artist": 1 },
-        "uniques": ["[+35]% [Faith] [in this city] <for [`5] turns> <upon entering a Golden Age>", "[+10]% [Gold] [in this city] <for [15] turns> <upon entering a Golden Age>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["[+35]% [Faith] [in this city] <for [15] turns> <upon entering a Golden Age>", "[+10]% [Gold] [in this city] <for [15] turns> <upon entering a Golden Age>","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Horseback Riding",
         "quote": "'In the absence of a natural disaster we are left again to our own uneasy devices.' - Joan Didion"
     },
