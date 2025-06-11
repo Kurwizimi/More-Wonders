@@ -1,5 +1,5 @@
 {
     "uniques": [
-        "Suppress warning [* contains parameter Tourism, which does not fit parameter type resource !*]" // This file just exists to not have to define it for each wonder - Princess Fanny of Pink
+        "Suppress warning [*which does not fit parameter type resource !*]" // This file just exists to not have to define it for each wonder - Princess Fanny of Pink contains parameter Tourism,
     ]
 }
