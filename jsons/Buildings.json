@@ -86,6 +86,14 @@
         "requiredTech": "Mining",
         "quote": "'There are various eyes. Even the Sphinx has eyes: and as a result there are various truths, and as a result there is no truth' - Friedrich Nietzsche"
     },
+	{
+        "name": "Gunung Padang",
+        "isWonder": true,
+	"food": 4,
+        "uniques": [ "[+1] population [in this city] <upon entering a Golden Age>", "Must be on [Hill]","Provides [2] [Tourism] <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Writing",
+        "quote": " On the mountain top Goenoeng Padang, near Goenoeng Melati, a succession of 4 terraces, connected by steps of rough stone, paved with rough flat stones and decorated with numerous sharp and columnar upright andesite stones. On each terrace a small mound, probably a grave, surrounded and covered with stones and topped with 2 pointed stones.' - Rogier Verbeek"
+    },
 
 	{
         "name": "Karnak",
