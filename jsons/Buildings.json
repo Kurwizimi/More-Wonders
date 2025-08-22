@@ -325,6 +325,35 @@
         "requiredTech": "Philosophy",
         "quote": "'Like geese who have seen a lake, I listened to the message given by her. Like a bee who has seen full-blown lotuses, the bewildered heart of mine was consoled.' - Poem found in Sigiriya"
     },
+		{
+        "name": "[Sigiriya] [Great Work of Art]",
+		"requiredBuilding": "Museum",
+        "culture": 3,
+        "cost": 1,
+        "uniques": [
+            "Great Work",
+			"Unavailable <without [Artifact]> <without [Great Work of Art]> <hidden from users>",
+			"Unavailable <when number of [Artifact] is less than [1]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Great Work of Art] <when number of [Copper] is less than [1]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+            "Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+            "Never destroyed when the city is captured <hidden from users>",
+            "Unsellable <hidden from users>",
+			"Only available <in cities with a [Museum]> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+        ],
+		"civilopediaText": [
+			{ "text": "Great Works", "link": "Tutorial/Great Works" },
+			{ "text": "Requires at least one of the following:" },
+			{ "text": "Great Work of Art", "link": "Resource/Great Work of Art" },
+			{ "text": "Artifact", "link": "Resource/Artifact" }
+		]
+    },
 
 	{
         "name": "Xuankong Temple",
@@ -647,6 +676,86 @@
         "requiredTech": "Architecture",
         "quote": "'Wisdom sails with wind and time' - John Florio"
     },
+		{
+		"name": "[Hawa Mahal] [Theming Bonus]",
+		"requiredBuilding": "Hawa Mahal",
+		"cost": 1,
+		"culture": 2,
+		"uniques": [
+			"Only available <in cities with a [Hawa Mahal]> <hidden from users>",
+			"Only available <in cities with a [[Hawa Mahal] [Great Work of Art] 1]> <hidden from users>",
+			"Only available <in cities with a [[Hawa Mahal] [Great Work of Art] 2]> <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Never destroyed when the city is captured <hidden from users>",
+			"Automatically built in all cities where it is buildable <hidden from users>",
+			"Provides [2] [Tourism]",
+			"Provides [2] [Tourism] <in [Capital] cities> <for [City of Light] Civilizations> <hidden from users>",
+			"[+2 Culture] <in [Capital] cities> <for [City of Light] Civilizations> <hidden from users>",
+			"Provides [2] [Tourism] <after adopting [Aesthetics Complete]> <hidden from users>",
+			"[+2 Culture] <after adopting [Aesthetics Complete]> <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+		],
+		"civilopediaText": [{"text": "Great Works", "link": "Tutorial/Great Works"}]
+	},
+		{
+        "name": "[Hawa Mahal] [Great Work of Art] 1",
+		"requiredBuilding": "Museum",
+        "culture": 2,
+        "cost": 1,
+        "uniques": [
+            "Great Work",
+			"Unavailable <without [Artifact]> <without [Great Work of Art]> <hidden from users>",
+			"Unavailable <when number of [Artifact] is less than [1]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Great Work of Art] <when number of [Copper] is less than [1]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+            "Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+            "Never destroyed when the city is captured <hidden from users>",
+            "Unsellable <hidden from users>",
+			"Only available <in cities with a [Hawa Mahal]> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+        ],
+		"civilopediaText": [
+			{ "text": "Great Works", "link": "Tutorial/Great Works" },
+			{ "text": "Requires at least one of the following:" },
+			{ "text": "Great Work of Art", "link": "Resource/Great Work of Art" },
+			{ "text": "Artifact", "link": "Resource/Artifact" }
+		]
+    },
+	{
+        "name": "[Hawa Mahal] [Great Work of Art] 2",
+		"requiredBuilding": "Hawa Mahal",
+        "culture": 2,
+        "cost": 1,
+        "uniques": [
+            "Great Work",
+			"Unavailable <without [Artifact]> <without [Great Work of Art]> <hidden from users>",
+			"Unavailable <when number of [Artifact] is less than [1]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Great Work of Art] <when number of [Copper] is less than [1]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+            "Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+            "Never destroyed when the city is captured <hidden from users>",
+            "Unsellable <hidden from users>",
+			"Only available <in cities with a [Hawa Mahal]> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+        ],
+		"civilopediaText": [
+			{ "text": "Great Works", "link": "Tutorial/Great Works" },
+			{ "text": "Requires at least one of the following:" },
+			{ "text": "Great Work of Art", "link": "Resource/Great Work of Art" },
+			{ "text": "Artifact", "link": "Resource/Artifact" }
+		]
+    },
+		
 
 	{
         "name": "Harmandir Sahib",
@@ -712,6 +821,85 @@
         "requiredTech": "Printing Press",
         "uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"]
         "quote": "'Once you have taken flight, \nYou'll decide, \nGaze towards the sky, you'll know that \nThat is where your heart will feel at home' - Leonardo da Vinci, Sogno di Volare"
+    },
+		{
+		"name": "[Santa Maria delle Grazie] [Theming Bonus]",
+		"requiredBuilding": "Santa Maria delle Grazie",
+		"cost": 1,
+		"culture": 2,
+		"uniques": [
+			"Only available <in cities with a [Santa Maria delle Grazie]> <hidden from users>",
+			"Only available <in cities with a [[Santa Maria delle Grazie] [Great Work of Art] 1]> <hidden from users>",
+			"Only available <in cities with a [[Santa Maria delle Grazie] [Great Work of Art] 2]> <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Never destroyed when the city is captured <hidden from users>",
+			"Automatically built in all cities where it is buildable <hidden from users>",
+			"Provides [2] [Tourism]",
+			"Provides [2] [Tourism] <in [Capital] cities> <for [City of Light] Civilizations> <hidden from users>",
+			"[+2 Culture] <in [Capital] cities> <for [City of Light] Civilizations> <hidden from users>",
+			"Provides [2] [Tourism] <after adopting [Aesthetics Complete]> <hidden from users>",
+			"[+2 Culture] <after adopting [Aesthetics Complete]> <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+		],
+		"civilopediaText": [{"text": "Great Works", "link": "Tutorial/Great Works"}]
+	},
+		{
+        "name": "[Santa Maria delle Grazie] [Great Work of Art] 1",
+		"requiredBuilding": "Santa Maria delle Grazie",
+        "culture": 2,
+        "cost": 1,
+        "uniques": [
+            "Great Work",
+			"Unavailable <without [Artifact]> <without [Great Work of Art]> <hidden from users>",
+			"Unavailable <when number of [Artifact] is less than [1]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Great Work of Art] <when number of [Copper] is less than [1]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+            "Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+            "Never destroyed when the city is captured <hidden from users>",
+            "Unsellable <hidden from users>",
+			"Only available <in cities with a [Santa Maria delle Grazie]> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+        ],
+		"civilopediaText": [
+			{ "text": "Great Works", "link": "Tutorial/Great Works" },
+			{ "text": "Requires at least one of the following:" },
+			{ "text": "Great Work of Art", "link": "Resource/Great Work of Art" },
+			{ "text": "Artifact", "link": "Resource/Artifact" }
+		]
+    },
+	{
+        "name": "[Santa Maria delle Grazie] [Great Work of Art] 2",
+		"requiredBuilding": "Santa Maria delle Grazie",
+        "culture": 2,
+        "cost": 1,
+        "uniques": [
+            "Great Work",
+			"Unavailable <without [Artifact]> <without [Great Work of Art]> <hidden from users>",
+			"Unavailable <when number of [Artifact] is less than [1]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Great Work of Art] <when number of [Copper] is less than [1]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+            "Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+            "Never destroyed when the city is captured <hidden from users>",
+            "Unsellable <hidden from users>",
+			"Only available <in cities with a [Santa Maria delle Grazie]> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+        ],
+		"civilopediaText": [
+			{ "text": "Great Works", "link": "Tutorial/Great Works" },
+			{ "text": "Requires at least one of the following:" },
+			{ "text": "Great Work of Art", "link": "Resource/Great Work of Art" },
+			{ "text": "Artifact", "link": "Resource/Artifact" }
+		]
     },
 
 	{
@@ -929,6 +1117,35 @@
         "requiredTech": "Scientific Theory",
         "quote": "'The best prophet of the future is the past' - Lord George Gordon Bryon"
     },
+		{
+        "name": "[Smithsonian Institution] [Great Work of Art]",
+		"requiredBuilding": "Smithsonian Institution",
+        "science": 2,
+        "cost": 1,
+        "uniques": [
+            "Great Work",
+			"Unavailable <without [Artifact]> <without [Great Work of Art]> <hidden from users>",
+			"Unavailable <when number of [Artifact] is less than [1]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is less than [1]> <hidden from users>",
+			"Instantly consumes [1] [Great Work of Art] <when number of [Copper] is less than [1]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+			"Instantly consumes [1] [Artifact] <when number of [Artifact] is more than [0]> <when number of [Great Work of Art] is more than [0]> <hidden from users>",
+            "Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+            "Never destroyed when the city is captured <hidden from users>",
+            "Unsellable <hidden from users>",
+			"Only available <in cities with a [Smithsonian Institution]> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>"
+        ],
+		"civilopediaText": [
+			{ "text": "Great Works", "link": "Tutorial/Great Works" },
+			{ "text": "Requires at least one of the following:" },
+			{ "text": "Great Work of Art", "link": "Resource/Great Work of Art" },
+			{ "text": "Artifact", "link": "Resource/Artifact" }
+		]
+    },
 
 	{
         "name": "Tahrir Square",
@@ -1111,6 +1328,68 @@
 	"uniques": ["[+1 Happiness] from every [Theatre]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Electronics",
         "quote": "'If I fail, the film industry writes me off as another statistic. If I succeed, they pay me a million bucks to fly out to Hollywood and fart.' - George A. Romero"
+	},
+		{
+		"name": "[Hollywood] [Theming Bonus]",
+		"requiredBuilding": "Hollywood",
+		"cost": 1,
+		"culture": 3,
+		"uniques": [
+			"Only available <in cities with a [Hollywood]> <hidden from users>",
+			"Only available <in cities with a [[Hollywood] [Great Work of Music] 1]> <hidden from users>",
+			"Only available <in cities with a [[Hollywood] [Great Work of Music] 2]> <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Never destroyed when the city is captured <hidden from users>",
+			"Automatically built in all cities where it is buildable <hidden from users>",
+			"Provides [3] [Tourism]",
+			"Provides [3] [Tourism] <in [Capital] cities> <for [City of Light] Civilizations> <hidden from users>",
+			"[+3 Culture] <in [Capital] cities> <for [City of Light] Civilizations> <hidden from users>",
+			"Provides [3] [Tourism] <after adopting [Aesthetics Complete]> <hidden from users>",
+			"[+3 Culture] <after adopting [Aesthetics Complete]> <hidden from users>"
+		],
+		"civilopediaText": [{"text": "Great Works", "link": "Tutorial/Great Works"}]
+	},
+	{
+		"name": "[Hollywood] [Great Work of Music] 1",
+		"requiredBuilding": "Hollywood",
+		"culture": 2,
+		"cost": 1,
+		"uniques": [
+			"Great Work",
+			"Instantly consumes [1] [Great Work of Music]",
+			"Unavailable <without [Great Work of Music]> <hidden from users>",
+			"Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+			"Never destroyed when the city is captured <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Only available <in cities with a [Hollywood]> <hidden from users>",
+			"Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>",
+		],
+		"civilopediaText": [{"text": "Great Works", "link": "Tutorial/Great Works"}]
+	},
+	{
+		"name": "[Hollywood] [Great Work of Music] 2",
+		"requiredBuilding": "Hollywood",
+		"culture": 2,
+		"cost": 1,
+		"uniques": [
+			"Great Work",
+			"Instantly consumes [1] [Great Work of Music]",
+			"Unavailable <without [Great Work of Music]> <hidden from users>",
+			"Provides [2] [Tourism]",
+			"Provides [1] [Tourism] <in cities with a [Airport]> <hidden from users>",
+			"Provides [1] [Tourism] <in cities with a [Hotel]> <hidden from users>",
+			"Provides [2] [Tourism] <in cities with a [National Visitor Center]> <hidden from users>",
+			"Never destroyed when the city is captured <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Only available <in cities with a [Hollywood]> <hidden from users>",
+			"Automatically built in all cities where it is buildable <hidden from users>",
+			"Only available <if [Civ V Brave New World] is enabled> <hidden from users>",
+		],
+		"civilopediaText": [{"text": "Great Works", "link": "Tutorial/Great Works"}]
 	},
 
 	{
