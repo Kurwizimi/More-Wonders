@@ -1,6 +1,7 @@
 {
     "uniques": [
         "Suppress warning [*which does not fit parameter type resource !*]", // This file just exists to not have to define it for each wonder - Princess Fanny of Pink
+        "Suppress warning [*This contains the parameter Artifact which does not fit parameter type resource !*]",
         "Suppress warning [*which does not fit parameter type stockpiledResource !*]",
         "Suppress warning [*which does not fit parameter type countable !*]"
     ]
