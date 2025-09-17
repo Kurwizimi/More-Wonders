@@ -49,7 +49,7 @@
 	"civilopediaText": [ {"text": "Cheomseongdae is an obsevatory located in Gyeongju, being the oldest known observatory in Asia. It is believed to have been ordered to be built by Queen Seondeok in order to spread the knowledge of astronomy instead of entrusting it to just one person."}],
 	"culture" : 1,
 	"greatPersonPoints": { "Great Scientist": 1 },
-        "uniques": [  "[+1 Science] per [3] population [in this city]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": [  "[+1 Science] per [3] population [in this city]", "Must not be on [Hill]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Masonry",
         "quote": "'When it is darkest, men see the stars.' - Ralph Waldo Emerson"
     },
@@ -120,7 +120,7 @@
 	{
         "name": "Nazca Geoglyphs",
         "isWonder": true,
-	"civilopediaText": [ {"text": "Carved in the rock of the Nazca desert large geoglyphs, these marking have lead to great speculation worldwide. Some of the smaller lines are most likely just water collecting ducts, but the purpose of the larger geoglyphs is what makes the site so interesting. Patternsa and depictions of many different animals cover the land, so large that planes and satelites are needed to fully observe them. We still do not know the purpose of these geoglyph, and we are constantly discovering new structures in the area, meaning this site is constantly experiencing new breakthroughs."}],
+	"civilopediaText": [ {"text": "Carved in the rock of the Nazca Desert, these markings have lead to great speculation worldwide. Some of the smaller lines are most likely just water collecting ducts, but the purpose of the larger geoglyphs is what makes the site so interesting. Patterns and depictions of many different animals cover the land, so large that planes and satelites are needed to fully observe them. We still do not know the purpose of these geoglyphs, and we are constantly discovering new structures in the area, meaning this site is constantly experiencing new breakthroughs."}],
 	"culture" : 2,
 	"faith" : 2,
         "uniques": [  "[+4 Culture] <after discovering [Flight]>","[+2 Science] from every [University]","Must have an owned [Mountain] within [2] tiles", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -241,7 +241,7 @@
         "name": "Gonabad Qanat",
         "isWonder": true,
 	"greatPersonPoints": { "Great Engineer": 1 },
-        "uniques": ["All newly-trained [worker] units [in all cities] receive the [Karez Builder] promotion", "[Worker] units gain the [Karez Builder] promotion","Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "uniques": ["All newly-trained [Worker] units [in all cities] receive the [Karez Builder] promotion", "[Worker] units gain the [Karez Builder] promotion","Must be next to [Desert]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Mathematics",
         "quote": "'The air is the most marvellous I ever was in, in any city. Mountain air, so sweet, dry and 'preserving', delicious and life-giving.' - Florence Khanum"
     },
