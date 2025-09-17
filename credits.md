@@ -148,6 +148,7 @@ Renaissance
   - statue of unity by conPai from <a href="https://thenounproject.com/icon/statue-of-unity-6819946/">Noun Project</a> (CC BY 3.0)
   - Monas by BnB Studio from <a href="https://thenounproject.com/browse/icons/term/monas/" target="_blank" title="Monas Icons">Noun Project</a> (CC BY 3.0)
   - Taipei 101 by Nikita Ivanov from <a href="https://thenounproject.com/browse/icons/term/taipei-101/" target="_blank" title="Taipei 101 Icons">Noun Project</a> (CC BY 3.0)
+  - The Memphis Pyramid - Pyramid by insdesign86 from <a href="https://thenounproject.com/browse/icons/term/pyramid/" target="_blank" title="Pyramid Icons">Noun Project</a> (CC BY 3.0)
   - poppy by Nicole Macdonald from <a href="https://thenounproject.com/browse/icons/term/poppy/" target="_blank" title="poppy Icons">Noun Project</a> (CC BY 3.0)
   - Rocket by Rohan Gupta from <a href="https://thenounproject.com/browse/icons/term/rocket/" target="_blank" title="Rocket Icons">Noun Project</a> (CC BY 3.0)
 
