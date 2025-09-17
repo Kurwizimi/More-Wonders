@@ -1589,6 +1589,17 @@
 	},
 
 	{
+        "name": "The Memphis Pyramid",
+        "isWonder": true,
+		"gold" : 2,
+		"happiness": 2,
+		"greatPersonPoints": { "Great Merchant": 4},
+		"uniques": ["[+1 Food, +1 Culture] from [Fish] tiles [in this city]", "[+2 Culture, +2 Food] from [{unimproved} {Land}] tiles [in all cities]", "Must be on [River]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+        "requiredTech": "Computers",
+        "quote": "'We all live downstream.' - Bass Pro Shops"
+	},
+
+	{
         "name": "The Motherland Calls",
         "isWonder": true,
 	"culture" : 1,
