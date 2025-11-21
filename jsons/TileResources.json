@@ -24,4 +24,38 @@
         "resourceType": "Luxury",
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+        "name": "Artifact", 
+        "resourceType": "Bonus",
+        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+    },
+ {
+        "name": "Great Work of Writing", 
+        "resourceType": "Bonus",
+        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+    },
+  {
+        "name": "Great Work of Art", 
+        "resourceType": "Bonus",
+        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+    },
+  {
+        "name": "Great Work of Music", 
+        "resourceType": "Bonus",
+        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+    },
 ]
