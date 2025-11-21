@@ -2,7 +2,7 @@
     "uniques": [
         "Suppress warning [*which does not fit parameter type resource !*]", // This file just exists to not have to define it for each wonder - Princess Fanny of Pink
         "Suppress warning [*which does not fit parameter type policy or belief !*]",
-        "Suppress warning [*which does not fit parameter type stockpiledResource !*]",
+        "Suppress warning [*Great Work of Art's unique Only available 〈if [Civ V Brave New World] is not enabled〉 is not allowed on its target type !*]",
         "Suppress warning [*which does not fit parameter type countable !*]"
     ]
 }
