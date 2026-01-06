@@ -18,14 +18,12 @@
         "range": 12,
         "cost": 1500,
         "requiredTech": "Advanced Ballistics",
-        "uniques": [
-            "Nuclear weapon of Strength [2]",
+        "uniques": ["Nuclear weapon of Strength [2]",
 			"Limited to [1] per Civilization",
-            "Only available <if [Project Smiling Bhudda] is constructed>",
+            "Only available <if [Project Smiling Buddha] is constructed>",
             "Blast radius [3]",
-		"Will not be displayed in Civilopedia",
-            "Cannot be purchased"
-        ],
+			"Will not be displayed in Civilopedia",
+            "Cannot be purchased"],
         "attackSound": "nuke"
     },
 	{
@@ -37,33 +35,29 @@
         "range": 12,
         "cost": 1500,
         "requiredTech": "Advanced Ballistics",
-        "uniques": [
-            "Nuclear weapon of Strength [3]",
-		"Limited to [1] per Civilization",
-            "Only available <if [Project Smiling Bhudda] is constructed>",
-		"Will not be displayed in Civilopedia",
+        "uniques": ["Nuclear weapon of Strength [3]",
+			"Limited to [1] per Civilization",
+            "Only available <if [Project Smiling Buddha] is constructed>",
+			"Will not be displayed in Civilopedia",
             "Blast radius [2]",
-            "Cannot be purchased"
-        ],
+            "Cannot be purchased"],
         "attackSound": "nuke"
     },
 	{
         "name": "BRAHMA-III",
         "unitType": "Missile",
         "movement": 1,
-        "strength": 350,
-        "rangedStrength": 350,
+        "strength": 400,
+        "rangedStrength": 400,
         "range": 12,
         "cost": 1500,
         "requiredTech": "Advanced Ballistics",
-        "uniques": [
-            "Nuclear weapon of Strength [4]",
-		"Limited to [1] per Civilization",
-            "Only available <if [Project Smiling Bhudda] is constructed>",
-	"Will not be displayed in Civilopedia",
+        "uniques": ["Nuclear weapon of Strength [4]",
+			"Limited to [1] per Civilization",
+            "Only available <if [Project Smiling Buddha] is constructed>",
+			"Will not be displayed in Civilopedia",
             "Blast radius [1]",
-            "Cannot be purchased"
-        ],
+            "Cannot be purchased"],
         "attackSound": "nuke"
     },
 
