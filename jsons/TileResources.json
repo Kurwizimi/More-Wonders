@@ -38,24 +38,36 @@
 
 
 
- {
-        "name": "Artifact", 
+        {
+        "name": "Great Work of Writing",
         "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally"],
+        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+                        {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
+                        {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
     },
- {
-        "name": "Great Work of Writing", 
+       {
+        "name": "Great Work of Art",
         "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+                        {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
+                        {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
     },
-  {
-        "name": "Great Work of Art", 
+        {
+        "name": "Great Work of Music",
         "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+                        {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
+                        {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
     },
-  {
-        "name": "Great Work of Music", 
+        {
+        "name": "Artifact",
         "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+                        {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
+                        {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
     },
 ]
