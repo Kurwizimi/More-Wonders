@@ -2,6 +2,6 @@
    {
       "name": "Aesthetics Complete",
       "type": "Pantheon",
-      "uniques": ["Will not be displayed in Civilopedia", "Unavailable"]
+      "uniques": ["Will not be displayed in Civilopedia", "Only available <when number of [Units] is less than [1]>"]
    },
 ]
