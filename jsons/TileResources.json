@@ -41,7 +41,7 @@
  {
         "name": "Artifact", 
         "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally", "Only available <if [Civ V Brave New World] is not enabled>"],
+        "uniques": ["Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally"],
     },
  {
         "name": "Great Work of Writing", 
