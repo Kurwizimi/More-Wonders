@@ -1480,7 +1480,7 @@
 	"greatPersonPoints": { "Great Engineer": 2 },
         "uniques": [ "[+2 Gold, +4 Production] from each Trade Route", "[+1 Production] from [Coast] tiles [in this city]", "Must be next to [Coast]", "Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
         "requiredTech": "Pharmaceuticals",
-        "quote": "'Chitty-Chitty Bang Bang’s going to take us right across the English Channel to France' - Chitty-Chitty Bang-Bang"
+        "quote": "'Chitty-Chitty Bang Bang’s going to take us right across the English Channel to France!' - Chitty-Chitty Bang-Bang"
         },
 
 	{
@@ -1499,7 +1499,7 @@
         "uniques": [ "Free Technology", "[+10]% [Culture] [in all cities]", "[+1 Science] per [5] population [in all cities]", "Only Availabe <if [Nobles and Merchants] is not enabled>"],
 	"greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Computers",
-        "quote": "'Beep... Boop... ERROR 404'",
+        "quote": "'Beep... Boop...'",
         },
 
 	{
@@ -1760,7 +1760,7 @@
         "uniques": [ "Free Technology","[+10]% [Culture] [in all cities]","[+1 Production] per [5] population [in all cities]","[-4 Happiness] [in all cities]","Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
 	"greatPersonPoints": {"Great Scientist": 3},
         "requiredTech": "Robotics",
-        "quote": "'Daisy, Daisy give me your answer do. \nI’m half crazy all for the love of you. \nIt won’t be a stylish marriage, I can’t afford a carriage. \nBut you’ll look sweet, Upon the seat, Of a bicycle made for two.' - Daisy Bell, Harry Dacre",
+        "quote": "'Daisy, Daisy give me your answer do. \nI’m half crazy all for the love of you. \nIt won’t be a stylish marriage, I can’t afford a carriage. \nBut you’ll look sweet, Upon the seat, of a bicycle made for two.' - Daisy Bell, Harry Dacre",
     },
 
 
