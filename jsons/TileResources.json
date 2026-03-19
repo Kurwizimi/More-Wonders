@@ -1,72 +1,58 @@
 [
+	{
+    "name": "Rice Grains", 
+    "resourceType": "Luxury",
+},
+	
+ 	{
+    "name": "Frescos", 
+    "resourceType": "Luxury",
+},
+	
+	{
+    "name": "Green Tea Leaves", 
+    "resourceType": "Luxury",
+},
+	
+ 	{
+    "name": "Hit Singles", 
+    "resourceType": "Luxury",
+},
 
- 
-{
-        "name": "Rice Grains", 
-        "gold": 1,
-        "resourceType": "Luxury",
-    },
-
- {
-        "name": "Frescos", 
-        "gold": 1,
-        "resourceType": "Luxury",
-    },
-
-{
-        "name": "Green Tea Leaves", 
-        "gold": 1,
-        "resourceType": "Luxury",
-    },
- {
-        "name": "Hit Singles", 
-        "culture": 1,
-        "resourceType": "Luxury",
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        {
-        "name": "Great Work of Writing",
-        "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
-		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+//Civ V BMW compatability
+	
+    {
+    "name": "Great Work of Writing",
+    "resourceType": "Bonus",
+    "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+	"civilopediaText": [{"text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+    					{"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
+                        {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
+},
+	
+	{
+    "name": "Great Work of Art",
+    "resourceType": "Bonus",
+    "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+	"civilopediaText": [{"text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
                         {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
                         {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
-    },
-       {
-        "name": "Great Work of Art",
-        "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
-		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+},
+	
+    {
+    "name": "Great Work of Music",
+    "resourceType": "Bonus",
+    "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+	"civilopediaText": [{"text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
                         {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
                         {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
-    },
-        {
-        "name": "Great Work of Music",
-        "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
-		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
-                        {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
-                        {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
-    },
-        {
-        "name": "Artifact",
-        "resourceType": "Bonus",
-        "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
-		      "civilopediaText": [		{ "text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
+},
+	
+    {
+    "name": "Artifact",
+    "resourceType": "Bonus",
+    "uniques": ["Stockpiled", "Excluded from map editor", "Doesn't generate naturally", "Not shown on world screen", "Cannot be traded <hidden from users>"],
+	"civilopediaText": [{"text": "If you are reading this and are using the Civ V Brave New World mod, you activated your modsin the wrong order!" }	
                         {"text": "Make sure you activated More Wonders BEFORE Civ V Brave New World, otherwise you may find weird errors." }
                         {"text": "If you are not currently using Civ V Brave New World, you can ignore this. This resource will not impact your game." }	]
     },
