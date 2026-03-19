@@ -6,45 +6,32 @@
 
         {
         "name": "Grand Canal",
-        "uniques": ["[This Unit] heals [10] HP <upon ending a turn in a [Fresh Water] tile>"],
+        "uniques": ["[This Unit] heals [5] HP <upon ending a turn in a [Fresh Water] tile>"],
   },
 	
         {
-	"name": "Karez Builder",
-	"uniques": ["Can build [Karez] improvements on tiles"],
+		"name": "Karez Builder",
+		"uniques": ["Can build [Karez] improvements on tiles"],
   },
 
-	{
+		{
         "name": "Break the Chains",
         "uniques": ["[+15]% Strength <when defending>"],
   },
 
-	 {
-	"name": "Grand Aqueduct",
-	"uniques": ["Can build [Aqua Thermae] improvements on tiles"],
+	 	{
+		"name": "Grand Aqueduct",
+		"uniques": ["Can build [Aqua Thermae] improvements on tiles"],
   },
 
-	{
+		{
         "name": "Lest We Forget",
-        "uniques": ["[-20]% Strength <when fighting in [Foreign Land] tiles>", "[+50]% Strength <when fighting in [Friendly Land] tiles>"],
+        "uniques": ["[-20]% Strength <when fighting in [Foreign Land] tiles>",
+					"[+20]% Strength <when fighting in [Friendly Land] tiles>"],
   },
 
-	{
+		{
         "name": "Flame of Zoroaster",
         "uniques": ["[+10]% Strength <vs [Wounded] units>"],
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
