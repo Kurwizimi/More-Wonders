@@ -3,13 +3,14 @@
 		"name": "Triangular Trade Route",
 		"type": "Improvement",
 	  	"gold": 1,
+	  	"happiness": -2,
 		"terrainsCanBeBuiltOn": ["Ocean","Coast","Atoll"],
 		"uniques": ["[+2 Gold, +1 Production] <before the [Modern era]>",
-                "[+2 Gold] for each adjacent [resource] <before the [Modern era]>",
-		"[+1 Production] for each adjacent [Atoll] <before the [Modern era]>",
-                "Tile provides yield without assigned population",
-                "Pillaging this improvement yields approximately [+40 Gold]",
-                "Will not be replaced by automated units"],
+                	"[+2 Gold] for each adjacent [resource] <before the [Modern era]>",
+					"[+1 Production] for each adjacent [Atoll] <before the [Modern era]>",
+                	"Tile provides yield without assigned population",
+                	"Pillaging this improvement yields approximately [+40 Gold]",
+                	"Will not be replaced by automated units"],
 	},
 
 	{
@@ -17,46 +18,35 @@
 		"type": "Improvement",
 		"production": 2,
 		"terrainsCanBeBuiltOn": ["Coast"],
-		"uniques": ["[+2 Culture] for each adjacent [Coast]",  "[+1 Production] for each adjacent [resource]", "Costs [15] [Gold] per turn",
-                "Tile provides yield without assigned population",
-                "Pillaging this improvement yields approximately [+500 Gold]",
-                "Will not be replaced by automated units"],
+		"uniques": ["[+2 Culture] for each adjacent [Coast]", 
+					"[+1 Production] for each adjacent [resource]",
+					"Costs [15] [Gold] per turn",
+                	"Tile provides yield without assigned population",
+                	"Pillaging this improvement yields approximately [+500 Gold]",
+               		"Will not be replaced by automated units"],
 	},
 
 	{
-        	"name": "Karez",
-        	"terrainsCanBeBuiltOn": ["Desert"],
-        	"food": 2,
-        	"production": 1,
-        	"turnsToBuild": 7,
-        	"uniques": ["[+1 Production] for each adjacent [Mountain]",
-                    "[+2 Production] for each adjacent [Oasis]",
-		    "Can also be built on tiles adjacent to fresh water <in [Land] tiles>",
+        "name": "Karez",
+        "terrainsCanBeBuiltOn": ["Desert"],
+        "food": 2,
+        "production": 1,
+        "turnsToBuild": 7,
+        "uniques": ["[+1 Production] for each adjacent [Mountain]",
+                    "[+1 Production] for each adjacent [Oasis]",
+		    		"Can also be built on tiles adjacent to fresh water <in [Land] tiles>",
                     "Pillaging this improvement yields approximately [+20 Gold]",
                     "Only available <for units with [Karez Builder]>"],
-    	},
+    },
 
 	{
-        	"name": "Aqua Thermae",
-        	"terrainsCanBeBuiltOn": ["Grassland","Plains"],
-        	"happiness": 1,
-        	"turnsToBuild": 7,
-        	"uniques": ["[+1 Food] for each adjacent [Aqua Thermae]",
+        "name": "Aqua Thermae",
+        "terrainsCanBeBuiltOn": ["Grassland","Plains"],
+        "happiness": 1,
+        "turnsToBuild": 7,
+        "uniques": ["[+1 Food] for each adjacent [Aqua Thermae]",
                     "[+1 Food] for each adjacent [Mountain]",
                     "Pillaging this improvement yields approximately [+30 Food]",
                     "Only available <for units with [Grand Aqueduct]>"],
     	},
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
