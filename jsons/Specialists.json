@@ -1,0 +1,11 @@
+[
+  {
+		"name":"Administrator",
+		"science": 1,
+    "culture": 1,
+    "production": 1,
+    "gold": 1,
+    "happiness": 1,
+		"color": [48,27,130]
+	},
+]
