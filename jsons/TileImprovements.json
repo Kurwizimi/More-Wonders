@@ -1,5 +1,17 @@
 [
   {
+		"name": "Amusement Park",
+		"type": "Improvement",
+	  	"happiness": 5,
+	  	"culture": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["[+2 Gold] for each adjacent [Deer]",
+					"Can only be built on [Fresh water] tiles",
+                	"Tile provides yield without assigned population",
+                	"Pillaging this improvement yields approximately [+40 Gold]",
+                	"Will not be replaced by automated units"],
+	},
+	{
 		"name": "Triangular Trade Route",
 		"type": "Improvement",
 	  	"gold": 1,
@@ -12,7 +24,6 @@
                 	"Pillaging this improvement yields approximately [+40 Gold]",
                 	"Will not be replaced by automated units"],
 	},
-
 	{
 		"name": "KIX Airport",
 		"type": "Improvement",
