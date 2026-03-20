@@ -741,10 +741,10 @@
 	{
     "name": "Changdeokgung",
     "isWonder": true,
-	"greatPersonPoints": { "Great Artist": 1 },
-    "uniques": ["[+100]% Great Person generation [in this city]",
-				"[+1 Science] per [3] population [in this city]",
-				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+	"greatPersonPoints": { "Great Artist": 2,
+						   "Great Scientist": 2 },
+	"specialistSlots": { "Scholar": 4, },
+    "uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Printing Press",
     "quote": "'If the people prosper, how can the king not prosper with them? And if the people do not prosper, how may the king prosper without them?' - Sejong the Great"
     },
@@ -1360,12 +1360,14 @@
 	{
     "name": "Trafalgar Square", //Change ability
     "isWonder": true,
-	"gold" : 4,
-	"happiness" : 5,
-	"culture": 4,
+	"gold" : 1,
+	"culture": 2,
 	"greatPersonPoints": { "Great Admiral": 2 },
     "requiredTech": "Steam Power",
-    "uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+    "uniques": ["[+3 Movement] <for [Great Admiral] units>",
+				"Free [Great Admiral] appears",
+				"May buy [Water] units with [Faith] [in all cities]",
+				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "quote": "'Time is everything; five minutes make the difference between victory and defeat.' - Lord Horatio Nelson"
     },
 
