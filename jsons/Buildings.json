@@ -452,10 +452,9 @@
 	{
     "name": "Dyrehavsbakken", //Change ability
     "isWonder": true,
-	"happiness" : 2,
 	"culture" : 1,
-    "uniques": ["[+25]% [Happiness] [in this city]",
-				"Must be next to [Fresh Water]",
+    "uniques": ["Creates a [Amusement Park] improvement on a specific tile",
+				"Must have an owned [Fresh water] within [2] tiles",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
     "requiredTech": "Physics",
     "quote": "'Der er noget om snakken, der er dejligt på Bakken' - Slogan of Dyrehavsbakken"
