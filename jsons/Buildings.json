@@ -1364,7 +1364,7 @@
 	"culture": 2,
 	"greatPersonPoints": { "Great Admiral": 2 },
     "requiredTech": "Steam Power",
-    "uniques": ["[+3 Movement] <for [Great Admiral] units>",
+    "uniques": ["[+3] Movement <for [Great Admiral] units>",
 				"Free [Great Admiral] appears",
 				"May buy [Water] units with [Faith] [in all cities]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
