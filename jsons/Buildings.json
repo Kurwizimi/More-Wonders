@@ -30,8 +30,8 @@
     "isWonder": true,
 	"civilopediaText": [ {"text": "Inukshuks, also known as Inuksuks, are large humanoid megaliths, built by the First Nations of Canada. They serve a variety of uses, ostly related to navigation, since their large stature can easily mark a hunting ground or food cache from a distance. The place with the most Inukshuks is on Baffin Island, where over 100 are located on just a small peninsula alone. Inukshuks serve as a national icon of the Canadian people, being present on the 2010 Vancouver Winter Olympic Icon."}],
 	"faith" : 2,
-    "uniques": ["[+1 Food, +1 Production, +1 Culture] from [Tundra] tiles [in this city]",
-				"[+1 Science, +1 Production, +1 Happiness] from [Snow] tiles [in this city]",
+    "uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in this city]",
+				"[+1 Production, +1 Happiness] from [Snow] tiles [in this city]",
 				"Must be next to [Tundra]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Trapping",
@@ -129,7 +129,7 @@
 	"culture" : 2,
     "uniques": ["[+1 Food] from [{Desert} {Hill}] tiles [in this city]",
 				"[+2 Production] from [Mountain] tiles [in this city]",
-				"[+15]% Great Person generation [in all cities]",
+				"[+15]% Great Person generation [in this city]",
 				"Must be next to [Desert]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Trapping",
@@ -167,7 +167,7 @@
 	{
     "name": "Wurdi Youang",
     "isWonder": true,
-	"civilopediaText": [ {"text": "Located in Victoria,Australia, this megalithic site was built by native Australian Aboriginals. Its purpose is most likely similar to other megalithic sites such as Stonehenge, as it is alignes to the Solstices and the Equinoxes. Currently we do not know its exact age, but current estimates say that it could be around 11,000 years old, making it 6,000 years older than the oldest parts of Stonehenge. "}],
+	"civilopediaText": [ {"text": "Located in Victoria, Australia, this megalithic site was built by native Australian Aboriginals. Its purpose is most likely similar to other megalithic sites such as Stonehenge, as it is alignes to the Solstices and the Equinoxes. Currently we do not know its exact age, but current estimates say that it could be around 11,000 years old, making it 6,000 years older than the oldest parts of Stonehenge. "}],
 	"culture" : 1,
 	"science" : 1,
     "uniques": ["[+1 Faith] from [Hill] tiles [in this city]",
@@ -277,7 +277,7 @@
 				"Must have an owned [Mountain] within [2] tiles",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Mathematics",
-    "quote": "'Trust in dreams, for in them is hidden the gate to eternity' - Khalil Gibran "
+    "quote": "'Trust in dreams, for in them is hidden the gate to eternity' - Khalil Gibran"
     },
 
 	{
@@ -296,16 +296,7 @@
     "name": "Great Omari Mosque",
 	"isWonder": true,
 	"greatPersonPoints": { "Great Artist": 1 },
-    "uniques": ["[+10]% [Faith] [in this city] <after adopting [Tradition Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Liberty Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Honor Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Piety Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Commerce Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Rationalism Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Order Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Freedom Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Autocracy Complete]>",
-				"[+10]% [Faith] [in this city] <after adopting [Patronage Complete]>",
+    "uniques": ["[+10]% [Faith] [in this city] <for every [Completed Policy branches]>",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Drama and Poetry",
    	"quote": "'Jerusalem is ours as much as yours; indeed, it is even more sacred to us than to you....' - Salah ad-Din Yusuf ibn-Ayyub"
@@ -325,12 +316,12 @@
     "isWonder": true,
 	"culture" : 1,
 	"greatPersonPoints": { "Great Engineer": 1 },
-    "uniques": ["[+1 Culture] from [Desert] tiles [in this city]",
+    "uniques": ["[+1 Happiness] in cities on [Desert] tiles",
 				"[+1 Gold, +2 Production] from [Oasis] tiles [in this city]",
 				"Must be next to [Desert]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>",],
     "requiredTech": "Engineering",
-    "quote": "'Let me live in my house by the side of the road,Where the race of men go by; \nThey are good, they are bad; they are weak, they are strong. Wise, foolish.; \n—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? \nLet me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
+    "quote": "'Let me live in my house by the side of the road, Where the race of men go by; \nThey are good, they are bad; they are weak, they are strong. Wise, foolish.; \n—so am I Then why should I sit in the scorner's seat, Or hurl the cynic's ban? \nLet me live in my house by the side of the road, And be a friend to man.' - Sam Walter Foss"
     },
 
 	{
@@ -339,7 +330,6 @@
 	"faith" : 1,
 	"greatPersonPoints": { "Great General": 2 },
     "uniques": ["All newly-trained [Military] units [in this city] receive the [Flame of Zoroaster] promotion",
-				"Empire enters golden age",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Horseback Riding",
     "quote": "'A great god is Ahura Mazda, who created this earth, who created yonder sky, who created man, who created happiness for man, who made Darius king, one king of many, one lord of many.' - Inscription on the tomb of Darius I"
@@ -427,7 +417,7 @@
     "isWonder": true,
 	"faith" : 1,
 	"greatPersonPoints": { "Great Artist": 1 },
-    "uniques": ["[+2 Culture] from [Hill] tiles [in this city] <with [2] to [6] neighboring [Mountain] tiles>",
+    "uniques": ["[+2 Culture] from [Land] tiles [in this city] <with [2] to [6] neighboring [Mountain] tiles>",
 				"Must have an owned [Mountain] within [2] tiles",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Iron Working",
@@ -450,7 +440,7 @@
     },
 
 	{
-    "name": "Dyrehavsbakken", //Change ability
+    "name": "Dyrehavsbakken",
     "isWonder": true,
 	"culture" : 1,
     "uniques": ["Creates a [Amusement Park] improvement on a specific tile",
@@ -517,7 +507,7 @@
 	"happiness" : 3,
 	"faith" : 1,
 	"greatPersonPoints": { "Great Engineer": 2 },
-    "uniques": ["[+1 Happiness] per [4] social policies adopted",
+    "uniques": ["[+1 Happiness] per [3] social policies adopted",
 				"Must be next to [River]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Chivalry",
@@ -529,7 +519,6 @@
     "isWonder": true,
 	"percentStatBonus": {"production": 10},
     "uniques": ["[+2 Faith] <in cities with a [Temple]>",
-				"Gain a free [Mosque] [in this city]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Metal Casting",
     "quote": "'Al-Mutawakkil also built a great cathedral mosque and lavished enormous sums of money on it, making the minaret so high that the voices of the muezzins could be easily heard, and the minaret could be seen at a distance of many parasangs.' - Al-Baladhuri, Kitab Futuh al-Buldan"
@@ -621,7 +610,7 @@
 	{
     "name": "Thermae Antoninianae",
     "isWonder": true,
-	"greatPersonPoints": { "Great Artist": 1 },
+	"greatPersonPoints": { "Great Engineer": 1 },
     "uniques": ["All newly-trained [Worker] units [in all cities] receive the [Grand Aqueduct] promotion",
 				"[Worker] units gain the [Grand Aqueduct] promotion",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
@@ -678,6 +667,8 @@
 				"[+4 Culture] <after adopting [Freedom]>",
 				"[+4 Culture] <after adopting [Autocracy]>",
 				"[+4 Culture] <after adopting [Patronage]>",
+				"[+4 Culture] <after adopting [Exploration]> <if [Civ V Brave New World] is enabled>",
+				"[+4 Culture] <after adopting [Aesthetics]> <if [Civ V Brave New World] is enabled>"",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Chivalry",
     "quote": "'The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.' - Oscar Wilde"
