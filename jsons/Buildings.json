@@ -668,7 +668,7 @@
 				"[+4 Culture] <after adopting [Autocracy]>",
 				"[+4 Culture] <after adopting [Patronage]>",
 				"[+4 Culture] <after adopting [Exploration]> <if [Civ V Brave New World] is enabled>",
-				"[+4 Culture] <after adopting [Aesthetics]> <if [Civ V Brave New World] is enabled>"",
+				"[+4 Culture] <after adopting [Aesthetics]> <if [Civ V Brave New World] is enabled>",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Chivalry",
     "quote": "'The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.' - Oscar Wilde"
@@ -715,11 +715,9 @@
     "name": "Buda Castle",
     "isWonder": true,
     "uniques": ["[+1 Food] from [Farm] tiles [in this city]",
-				"[+1 Food] from [Fishing Boats] tiles [in this city]",
 				"[+1 Production] from [Quarry] tiles [in this city]",
 				"[+1 Production] from [Mine] tiles [in this city]",
 				"[+1 Production] from [Lumber mill] tiles [in this city]",
-				"[+1 Production] from [Fort] tiles [in this city]",
 				"[+1 Gold] from [Plantation] tiles [in this city]",
 				"[+1 Gold] from [Camp] tiles [in this city]",
 				"[+1 Gold] from [Trading post] tiles [in this city]",
@@ -735,7 +733,8 @@
 	"greatPersonPoints": { "Great Artist": 2,
 						   "Great Scientist": 2 },
 	"specialistSlots": { "Scholar": 4, },
-    "uniques": ["Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+    "uniques": ["Comment [Grants 4 Scholar Specialist Slots",
+		"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Printing Press",
     "quote": "'If the people prosper, how can the king not prosper with them? And if the people do not prosper, how may the king prosper without them?' - Sejong the Great"
     },
@@ -761,7 +760,7 @@
 	"greatPersonPoints": { "Great Artist": 1 },
     "uniques": ["[+2 Food] from [Lakes] tiles [in all cities]",
 				"[+1] population [in all cities]",
-				"Must be next to [Fresh Water]",
+				"Must be next to [Lakes]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Printing Press",
     "quote": "'War is not a river, or a lake, but an ocean of all that is evil' - Gustav Adolphus"
@@ -1082,14 +1081,14 @@
     "name": "Torre del Oro",
     "isWonder": true,
 	"culture" : 1,
-	"gold" : 5,
 	"greatPersonPoints": { "Great Admiral": 1 },
-    "uniques": ["[+15]% [Gold] from Trade Routes",
+    "uniques": ["Enemy [Water] units must spend [2] extra movement points when inside your territory",
 				"Gain a free [Seaport] [in this city]",
-				"Must be next to [Coast]", 
+				"Must be next to [Coast]",
+				"Must be next to [River]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Navigation",
-    "quote": "'Here, then, on a sand bank washed once by every high tide, but now joined to the mainland as so unromantic a feature as the gas works, a tower.' - Walter Crum Watson"
+    "quote": "'It pleased me, moreover, to hear, many times, /nBooks of idle pursuit and proven fictions, /nAmadis and Lancelot and invented falsities, /nIn which I wasted long hours of my time' - Pero López de Ayala"
     },
 
 	{
@@ -1222,7 +1221,7 @@
 	"greatPersonPoints": { "Great Engineer": 1 },
     "uniques": ["[-35]% Gold cost of acquiring tiles [in all cities]",
 				"[-15]% unhappiness from the number of cities",
-				"Must have an owned [Mountain] within [3] tiles",
+				"Must have an owned [Mountain] within [2] tiles",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Dynamite",
     "quote": "'Who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.' - Benjamin Franklin"
@@ -1341,7 +1340,7 @@
 	"culture" : 2,
 	"science": 1,
 	"greatPersonPoints": { "Great Engineer": 2 },
-    "uniques": ["[+150]% [Culture] [in this city] <for [10] turns> <(modified by game speed)>",
+    "uniques": ["[+200]% [Culture] [in this city] <for [10] turns> <(modified by game speed)>",
 				"Must be next to [Tundra]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Dynamite",
@@ -1349,7 +1348,7 @@
     },
 
 	{
-    "name": "Trafalgar Square", //Change ability
+    "name": "Trafalgar Square",
     "isWonder": true,
 	"gold" : 1,
 	"culture": 2,
@@ -1357,7 +1356,7 @@
     "requiredTech": "Steam Power",
     "uniques": ["[+3] Movement <for [Great Admiral] units>",
 				"Free [Great Admiral] appears",
-				"May buy [Water] units with [Faith] [in all cities]",
+				"May buy [{Military} {Water}] units with [Faith] [in all cities]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "quote": "'Time is everything; five minutes make the difference between victory and defeat.' - Lord Horatio Nelson"
     },
@@ -1391,9 +1390,8 @@
     "isWonder": true,
 	"science" : 2,
 	"greatPersonPoints": { "Great Scientist": 1 },
-	"uniques": ["[+10]% [Science]",
-				"[+1 Science] from every [Shrine]",
-				"[+1 Science] from every [Temple]",
+	"uniques": ["[+1 Science] from every [Shrine]",
+				"[+2 Science] from every [Temple]",
 				"[+2 Science] from every [Cathedral]",
 				"[+2 Science] from every [Mosque]",
 				"[+2 Science] from every [Pagoda]",
@@ -1410,7 +1408,7 @@
     "isWonder": true,
 	"culture" : 1,
 	"greatPersonPoints": { "Great General": 1 },
-	"uniques": ["Gain [500] [Science] <upon expending a [Great Person] unit>",
+	"uniques": ["Gain [500] [Science] <upon expending a [Great Person] unit> <(modified by game speed)>",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Ballistics",
     "quote": "'If one day, my words are against science, choose science' - Mustafa Kemal Atatürk"
@@ -1634,7 +1632,7 @@
 	"culture" : 2,
 	"gold" : 3,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["Free [Great Merchant] appears",
+	"uniques": ["[2] free [Great Merchant] units appear",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Electronics",
     "quote": "'For truth is precious and divine, too rich a pearl for carnal swine' - Samuel Butler"
@@ -1734,7 +1732,7 @@
 	"culture" : 1,
 	"gold": 3,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["[+1 Culture] per [4] population [in this city]",
+	"uniques": ["[+2 Happiness] <for every [Remaining [Friendly] Civilizations]>",
 				"Must be on [River]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Ecology",
@@ -1792,9 +1790,8 @@
     "name": "Sky Tower",
     "isWonder": true,
 	"culture" : 1,
-	"uniques": ["[-50]% Unhappiness from [Population] [in all cities]",
+	"uniques": ["[-100]% Unhappiness from [Population] [in this city]",
 				"[+1 Gold] per [4] population [in this city]",
-				"Gain a free [Broadcast Tower] [in this city]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Ecology",
     "quote": "'Without rain there can be no rainbow.' - Maori Proverb"
@@ -1829,8 +1826,7 @@
 	"gold" : 2,
 	"happiness": 1,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["[+1 Food, +1 Culture] from [Fish] tiles [in this city]",
-				"[+2 Culture, +2 Food] from [{unimproved} {Land}] tiles [in all cities]",
+	"uniques": ["[+2 Culture, +2 Food] from [{unimproved} {Land}] tiles [in all cities]",
 				"Must be on [River]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Computers",
@@ -1842,8 +1838,8 @@
     "isWonder": true,
 	"culture" : 1,
 	"greatPersonPoints": { "Great General": 1 },
-    "uniques": ["[+1 Happiness] per [5] population [in this city] <when not at war>",
-				"[+50]% Production when constructing [{Military} {Land}] units [in this city] <when at war>",
+    "uniques": ["[+1 Happiness] per [5] population [in this city] <when at war>",
+				"[+50]% Production when constructing [{Military} {Land}] units [in this city] <when not at war>",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Combined Arms",
     "quote": "'He did what heroes do after their work is accomplished; he died.' - Leo Tolstoy"
@@ -1969,7 +1965,7 @@
 	"gold" : 1,
 	"faith" : 1,
 	"greatPersonPoints": { "Great Merchant": 1},
-	"uniques": ["Free Great Person",
+	"uniques": ["[+4 Production, +2 Science] from [Offshore Platform] tiles [in this city]",
 				"Provides [2] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     "requiredTech": "Robotics",
     "quote": "'Like most animals, we're wired to associate height with power.' - Helen Fisher"
@@ -2407,6 +2403,6 @@
 	"cost" : 1500,
 	"requiredBuilding": "Operation Patel-Gandhi",
     "uniques": [  "Comment [Together, our people stand united, ready to face the brave new world infront of us. As Gods and Kings had their rise and fall, they all tried to secure their right to rule and attempt to control the crossroads of the world. But these warlords failed to look beyond the sword, and turned a blind eye to the gathering storm on the horizon. Our civilization may suffer the same fate if we do not learn from the pasts mistakes. We shall unite the world under the banner of unity and acceptance, so no person shall suffer the fate of their ancestors. Our enemies will, of course, not accept this, so we must teach them with the words of the Smiling Bhudda, so they can learn of our peaceful ways!]",
-		      "Triggers a global alert upon completion", "Unavailable <in cities without a [Operation Patel-Gandhi]>", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
+		      "Triggers a global alert upon completion", "Unavailable <in cities without a [Operation Patel-Gandhi]>", "Cannot be purchased", "Will not be displayed in Civilopedia", "Provides [1] [Tourism] <after discovering [Flight]> <if [Nobles and Merchants] is enabled>"],
     },
 ]
